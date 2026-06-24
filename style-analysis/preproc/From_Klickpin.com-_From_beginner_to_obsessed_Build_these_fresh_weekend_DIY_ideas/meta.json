@@ -1,0 +1,47 @@
+{
+  "file": "From Klickpin.com- From beginner to obsessed Build these fresh weekend DIY ideas youll want to recreate this weekend for a stylish result that sti.mp4",
+  "name": "From_Klickpin.com-_From_beginner_to_obsessed_Build_these_fresh_weekend_DIY_ideas",
+  "meta": {
+    "duration": 8.8,
+    "fps": 30.0,
+    "width": 720,
+    "height": 1280,
+    "hasAudio": true
+  },
+  "shotCount": 3,
+  "keyframes": [
+    "shot_00.jpg",
+    "shot_01.jpg",
+    "shot_02.jpg"
+  ],
+  "hookFrames": [
+    "hook_01.jpg",
+    "hook_02.jpg",
+    "hook_03.jpg",
+    "hook_04.jpg",
+    "hook_05.jpg",
+    "hook_06.jpg",
+    "hook_07.jpg",
+    "hook_08.jpg",
+    "hook_09.jpg",
+    "hook_10.jpg"
+  ],
+  "transcript": true,
+  "beats": true,
+  "transitions": {
+    "hard": 1,
+    "fade": 0,
+    "motion": 1
+  },
+  "pacing": {
+    "binSec": 3.0,
+    "cutsPerBin": [
+      2,
+      0
+    ],
+    "cutsPerSec": [
+      0.667,
+      0.0
+    ]
+  }
+}

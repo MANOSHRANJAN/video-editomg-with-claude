@@ -1,0 +1,17 @@
+node_modules/
+.venv/
+.env
+.tmp/
+out/
+public/aroll/*
+public/broll/*
+public/sfx/*
+!public/aroll/.gitkeep
+!public/broll/.gitkeep
+!public/sfx/.gitkeep
+training/your-edits/*
+training/your-raw/*
+!training/**/.gitkeep
+style-analysis/reels/
+style-analysis/style.json
+.DS_Store

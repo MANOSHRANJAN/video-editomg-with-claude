@@ -1,0 +1,4298 @@
+[
+  {
+    "dir": "From_Klickpin.com-_From_beginner_to_obsessed_Build_these_fresh_weekend_DIY_ideas",
+    "absDir": "/Users/manoshranjan/new leads/video-edit/style-analysis/preproc/From_Klickpin.com-_From_beginner_to_obsessed_Build_these_fresh_weekend_DIY_ideas",
+    "meta": {
+      "file": "From Klickpin.com- From beginner to obsessed Build these fresh weekend DIY ideas youll want to recreate this weekend for a stylish result that sti.mp4",
+      "name": "From_Klickpin.com-_From_beginner_to_obsessed_Build_these_fresh_weekend_DIY_ideas",
+      "meta": {
+        "duration": 8.8,
+        "fps": 30.0,
+        "width": 720,
+        "height": 1280,
+        "hasAudio": true
+      },
+      "shotCount": 3,
+      "keyframes": [
+        "shot_00.jpg",
+        "shot_01.jpg",
+        "shot_02.jpg"
+      ],
+      "hookFrames": [
+        "hook_01.jpg",
+        "hook_02.jpg",
+        "hook_03.jpg",
+        "hook_04.jpg",
+        "hook_05.jpg",
+        "hook_06.jpg",
+        "hook_07.jpg",
+        "hook_08.jpg",
+        "hook_09.jpg",
+        "hook_10.jpg"
+      ],
+      "transcript": true,
+      "beats": true,
+      "transitions": {
+        "hard": 1,
+        "fade": 0,
+        "motion": 1
+      },
+      "pacing": {
+        "binSec": 3.0,
+        "cutsPerBin": [
+          2,
+          0
+        ],
+        "cutsPerSec": [
+          0.667,
+          0.0
+        ]
+      }
+    },
+    "shots": [
+      {
+        "index": 0,
+        "startSec": 0.0,
+        "endSec": 1.133,
+        "durationSec": 1.133
+      },
+      {
+        "index": 1,
+        "startSec": 1.133,
+        "endSec": 2.8,
+        "durationSec": 1.667
+      },
+      {
+        "index": 2,
+        "startSec": 2.8,
+        "endSec": 8.8,
+        "durationSec": 6.0
+      }
+    ],
+    "transcript": {
+      "language": "en",
+      "text": "The way people look at you says more than just attention, but in the end, the looks won't matter, only your results will.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 5.76,
+          "text": "The way people look at you says more than just attention, but in the end, the looks won't matter, only your results will.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.3,
+              "word": "The"
+            },
+            {
+              "start": 0.3,
+              "end": 0.44,
+              "word": "way"
+            },
+            {
+              "start": 0.44,
+              "end": 0.68,
+              "word": "people"
+            },
+            {
+              "start": 0.68,
+              "end": 0.88,
+              "word": "look"
+            },
+            {
+              "start": 0.88,
+              "end": 1.04,
+              "word": "at"
+            },
+            {
+              "start": 1.04,
+              "end": 1.16,
+              "word": "you"
+            },
+            {
+              "start": 1.16,
+              "end": 1.36,
+              "word": "says"
+            },
+            {
+              "start": 1.36,
+              "end": 1.54,
+              "word": "more"
+            },
+            {
+              "start": 1.54,
+              "end": 1.72,
+              "word": "than"
+            },
+            {
+              "start": 1.72,
+              "end": 1.88,
+              "word": "just"
+            },
+            {
+              "start": 1.88,
+              "end": 2.24,
+              "word": "attention,"
+            },
+            {
+              "start": 2.68,
+              "end": 2.8,
+              "word": "but"
+            },
+            {
+              "start": 2.8,
+              "end": 2.92,
+              "word": "in"
+            },
+            {
+              "start": 2.92,
+              "end": 3.14,
+              "word": "the"
+            },
+            {
+              "start": 3.14,
+              "end": 3.48,
+              "word": "end,"
+            },
+            {
+              "start": 3.6,
+              "end": 3.7,
+              "word": "the"
+            },
+            {
+              "start": 3.7,
+              "end": 3.94,
+              "word": "looks"
+            },
+            {
+              "start": 3.94,
+              "end": 4.2,
+              "word": "won't"
+            },
+            {
+              "start": 4.2,
+              "end": 4.5,
+              "word": "matter,"
+            },
+            {
+              "start": 4.8,
+              "end": 4.92,
+              "word": "only"
+            },
+            {
+              "start": 4.92,
+              "end": 5.14,
+              "word": "your"
+            },
+            {
+              "start": 5.14,
+              "end": 5.42,
+              "word": "results"
+            },
+            {
+              "start": 5.42,
+              "end": 5.76,
+              "word": "will."
+            }
+          ]
+        }
+      ]
+    },
+    "beats": {
+      "tempoBpm": 129.2,
+      "beatTimes": [
+        0.07,
+        0.58,
+        0.998,
+        1.463,
+        1.904,
+        2.368,
+        2.833,
+        3.297,
+        3.715,
+        4.156,
+        4.574,
+        4.992,
+        5.41,
+        5.851,
+        6.293,
+        6.757,
+        7.221,
+        7.686,
+        8.15,
+        8.615
+      ],
+      "onsetTimes": [
+        0.07,
+        0.163,
+        0.279,
+        0.441,
+        0.58,
+        0.72,
+        0.813,
+        0.952,
+        1.184,
+        1.3,
+        1.44,
+        1.556,
+        1.649,
+        1.811,
+        1.904,
+        2.09,
+        2.183,
+        2.368,
+        2.577,
+        2.74,
+        2.879,
+        3.274,
+        3.529,
+        3.715,
+        3.808,
+        3.947,
+        4.156,
+        4.574,
+        4.644,
+        4.807,
+        4.923,
+        5.085,
+        5.248,
+        5.364,
+        5.433,
+        5.55,
+        5.828,
+        5.944,
+        6.06,
+        6.293,
+        6.409,
+        6.525,
+        6.734,
+        6.989,
+        7.221,
+        7.454,
+        7.686,
+        7.918,
+        8.266,
+        8.382,
+        8.591,
+        8.754
+      ]
+    },
+    "transitions": {
+      "transitions": [
+        {
+          "atSec": 1.133,
+          "kind": "hard",
+          "maxDelta": 72.1
+        },
+        {
+          "atSec": 2.8,
+          "kind": "motion",
+          "maxDelta": 23.2
+        }
+      ],
+      "counts": {
+        "hard": 1,
+        "fade": 0,
+        "motion": 1
+      }
+    }
+  },
+  {
+    "dir": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1027524471252035105",
+    "absDir": "/Users/manoshranjan/new leads/video-edit/style-analysis/preproc/From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1027524471252035105",
+    "meta": {
+      "file": "From Klickpin.com- Luxury Clean Girl Makeup Looks to Refresh Your Routine-pin-id-1027524471252035105.mp4",
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1027524471252035105",
+      "meta": {
+        "duration": 24.917007,
+        "fps": 59.94005994005994,
+        "width": 720,
+        "height": 1280,
+        "hasAudio": true
+      },
+      "shotCount": 5,
+      "keyframes": [
+        "shot_00.jpg",
+        "shot_01.jpg",
+        "shot_02.jpg",
+        "shot_03.jpg",
+        "shot_04.jpg"
+      ],
+      "hookFrames": [
+        "hook_01.jpg",
+        "hook_02.jpg",
+        "hook_03.jpg",
+        "hook_04.jpg",
+        "hook_05.jpg",
+        "hook_06.jpg",
+        "hook_07.jpg",
+        "hook_08.jpg",
+        "hook_09.jpg",
+        "hook_10.jpg"
+      ],
+      "transcript": true,
+      "beats": true,
+      "transitions": {
+        "hard": 4,
+        "fade": 0,
+        "motion": 0
+      },
+      "pacing": {
+        "binSec": 3.0,
+        "cutsPerBin": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ],
+        "cutsPerSec": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.333,
+          0.333,
+          0.333,
+          0.333
+        ]
+      }
+    },
+    "shots": [
+      {
+        "index": 0,
+        "startSec": 0.0,
+        "endSec": 12.88,
+        "durationSec": 12.88
+      },
+      {
+        "index": 1,
+        "startSec": 12.88,
+        "endSec": 17.985,
+        "durationSec": 5.105
+      },
+      {
+        "index": 2,
+        "startSec": 17.985,
+        "endSec": 18.402,
+        "durationSec": 0.417
+      },
+      {
+        "index": 3,
+        "startSec": 18.402,
+        "endSec": 24.374,
+        "durationSec": 5.973
+      },
+      {
+        "index": 4,
+        "startSec": 24.374,
+        "endSec": 24.908,
+        "durationSec": 0.534
+      }
+    ],
+    "transcript": {
+      "language": "en",
+      "text": "AI is everywhere. Your phone, AI power, art, AI creates this in seconds. Driving, AI sees roads better than humans, healthcare, AI saves lives. Are you ready for an AI future? In addition, you can find food $10,000 and an AI serves as an AI's save.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 8.38,
+          "text": "AI is everywhere. Your phone, AI power, art, AI creates this in seconds.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.72,
+              "word": "AI"
+            },
+            {
+              "start": 0.72,
+              "end": 1.14,
+              "word": "is"
+            },
+            {
+              "start": 1.14,
+              "end": 1.6,
+              "word": "everywhere."
+            },
+            {
+              "start": 2.18,
+              "end": 2.34,
+              "word": "Your"
+            },
+            {
+              "start": 2.34,
+              "end": 2.88,
+              "word": "phone,"
+            },
+            {
+              "start": 3.48,
+              "end": 3.86,
+              "word": "AI"
+            },
+            {
+              "start": 3.86,
+              "end": 4.42,
+              "word": "power,"
+            },
+            {
+              "start": 5.34,
+              "end": 5.66,
+              "word": "art,"
+            },
+            {
+              "start": 6.56,
+              "end": 6.98,
+              "word": "AI"
+            },
+            {
+              "start": 6.98,
+              "end": 7.38,
+              "word": "creates"
+            },
+            {
+              "start": 7.38,
+              "end": 7.7,
+              "word": "this"
+            },
+            {
+              "start": 7.7,
+              "end": 7.88,
+              "word": "in"
+            },
+            {
+              "start": 7.88,
+              "end": 8.38,
+              "word": "seconds."
+            }
+          ]
+        },
+        {
+          "start": 9.08,
+          "end": 15.36,
+          "text": "Driving, AI sees roads better than humans, healthcare, AI saves lives.",
+          "words": [
+            {
+              "start": 9.08,
+              "end": 9.36,
+              "word": "Driving,"
+            },
+            {
+              "start": 10.3,
+              "end": 10.72,
+              "word": "AI"
+            },
+            {
+              "start": 10.72,
+              "end": 11.02,
+              "word": "sees"
+            },
+            {
+              "start": 11.02,
+              "end": 11.28,
+              "word": "roads"
+            },
+            {
+              "start": 11.28,
+              "end": 11.56,
+              "word": "better"
+            },
+            {
+              "start": 11.56,
+              "end": 11.76,
+              "word": "than"
+            },
+            {
+              "start": 11.76,
+              "end": 12.16,
+              "word": "humans,"
+            },
+            {
+              "start": 12.82,
+              "end": 13.12,
+              "word": "healthcare,"
+            },
+            {
+              "start": 14.1,
+              "end": 14.58,
+              "word": "AI"
+            },
+            {
+              "start": 14.58,
+              "end": 14.82,
+              "word": "saves"
+            },
+            {
+              "start": 14.82,
+              "end": 15.36,
+              "word": "lives."
+            }
+          ]
+        },
+        {
+          "start": 16.08,
+          "end": 17.94,
+          "text": "Are you ready for an AI future?",
+          "words": [
+            {
+              "start": 16.08,
+              "end": 16.18,
+              "word": "Are"
+            },
+            {
+              "start": 16.18,
+              "end": 16.38,
+              "word": "you"
+            },
+            {
+              "start": 16.38,
+              "end": 16.62,
+              "word": "ready"
+            },
+            {
+              "start": 16.62,
+              "end": 16.9,
+              "word": "for"
+            },
+            {
+              "start": 16.9,
+              "end": 17.14,
+              "word": "an"
+            },
+            {
+              "start": 17.14,
+              "end": 17.48,
+              "word": "AI"
+            },
+            {
+              "start": 17.48,
+              "end": 17.94,
+              "word": "future?"
+            }
+          ]
+        },
+        {
+          "start": 17.94,
+          "end": 21.14,
+          "text": "In addition, you can find food $10,000 and an AI serves as an AI's save.",
+          "words": [
+            {
+              "start": 17.94,
+              "end": 18.56,
+              "word": "In"
+            },
+            {
+              "start": 18.56,
+              "end": 18.78,
+              "word": "addition,"
+            },
+            {
+              "start": 19.56,
+              "end": 19.98,
+              "word": "you"
+            },
+            {
+              "start": 19.98,
+              "end": 19.98,
+              "word": "can"
+            },
+            {
+              "start": 19.98,
+              "end": 20.0,
+              "word": "find"
+            },
+            {
+              "start": 20.0,
+              "end": 20.34,
+              "word": "food"
+            },
+            {
+              "start": 20.34,
+              "end": 20.44,
+              "word": "$10"
+            },
+            {
+              "start": 20.44,
+              "end": 20.6,
+              "word": ",000"
+            },
+            {
+              "start": 20.6,
+              "end": 20.6,
+              "word": "and"
+            },
+            {
+              "start": 20.6,
+              "end": 20.6,
+              "word": "an"
+            },
+            {
+              "start": 20.6,
+              "end": 20.84,
+              "word": "AI"
+            },
+            {
+              "start": 20.84,
+              "end": 21.14,
+              "word": "serves"
+            },
+            {
+              "start": 21.14,
+              "end": 21.14,
+              "word": "as"
+            },
+            {
+              "start": 21.14,
+              "end": 21.14,
+              "word": "an"
+            },
+            {
+              "start": 21.14,
+              "end": 21.14,
+              "word": "AI's"
+            },
+            {
+              "start": 21.14,
+              "end": 21.14,
+              "word": "save."
+            }
+          ]
+        }
+      ]
+    },
+    "beats": {
+      "tempoBpm": 123.0,
+      "beatTimes": [
+        0.186,
+        0.697,
+        1.3,
+        1.788,
+        2.299,
+        2.81,
+        3.297,
+        3.785,
+        4.296,
+        4.783,
+        5.224,
+        5.782,
+        6.293,
+        6.711,
+        7.198,
+        7.755,
+        8.29,
+        8.8,
+        9.311,
+        9.799,
+        10.217,
+        10.774,
+        11.308,
+        11.796,
+        12.307,
+        12.794,
+        13.305,
+        13.793,
+        14.234,
+        14.768,
+        15.302,
+        15.79,
+        16.3,
+        16.811,
+        17.322,
+        17.81,
+        18.297,
+        18.808,
+        19.319,
+        19.807,
+        20.294,
+        20.805,
+        21.293,
+        21.78,
+        22.314,
+        22.802,
+        23.313
+      ],
+      "onsetTimes": [
+        0.139,
+        0.186,
+        0.464,
+        0.65,
+        0.697,
+        0.882,
+        1.091,
+        1.3,
+        1.788,
+        2.136,
+        2.392,
+        2.786,
+        2.926,
+        3.042,
+        3.297,
+        3.39,
+        3.576,
+        3.762,
+        3.924,
+        4.04,
+        4.249,
+        4.296,
+        4.551,
+        4.667,
+        4.783,
+        4.923,
+        5.039,
+        5.201,
+        5.55,
+        5.782,
+        5.921,
+        6.037,
+        6.177,
+        6.293,
+        6.432,
+        6.687,
+        6.943,
+        7.059,
+        7.175,
+        7.314,
+        7.454,
+        7.616,
+        7.732,
+        7.872,
+        8.034,
+        8.197,
+        8.29,
+        8.522,
+        8.568,
+        8.684,
+        8.777,
+        8.94,
+        9.311,
+        9.567,
+        9.776,
+        10.194,
+        10.356,
+        10.774,
+        11.029,
+        11.238,
+        11.308,
+        11.355,
+        11.564,
+        11.796,
+        12.051,
+        12.283,
+        12.446,
+        12.562,
+        12.678,
+        12.957,
+        13.003,
+        13.305,
+        13.468,
+        13.723,
+        13.793,
+        13.955,
+        14.234,
+        14.605,
+        14.814,
+        14.884,
+        15.047,
+        15.186,
+        15.302,
+        15.557,
+        15.813,
+        16.022,
+        16.184,
+        16.3,
+        16.393,
+        16.509,
+        16.742,
+        16.997,
+        17.322,
+        17.554,
+        17.694,
+        17.81,
+        17.949,
+        18.112,
+        18.297,
+        18.367,
+        18.553,
+        18.692,
+        18.785,
+        18.994,
+        19.296,
+        19.412,
+        19.551,
+        19.667,
+        19.807,
+        19.992,
+        20.108,
+        20.294,
+        20.434,
+        20.55,
+        20.689,
+        20.782,
+        20.944,
+        21.06,
+        21.293,
+        21.548,
+        21.78,
+        21.943,
+        22.059,
+        22.198,
+        22.291,
+        22.547,
+        22.686,
+        22.802,
+        23.057,
+        23.29,
+        23.545,
+        23.8,
+        23.94,
+        24.265,
+        24.474
+      ]
+    },
+    "transitions": {
+      "transitions": [
+        {
+          "atSec": 12.88,
+          "kind": "hard",
+          "maxDelta": 47.2
+        },
+        {
+          "atSec": 17.985,
+          "kind": "hard",
+          "maxDelta": 144.6
+        },
+        {
+          "atSec": 18.402,
+          "kind": "hard",
+          "maxDelta": 155.9
+        },
+        {
+          "atSec": 24.374,
+          "kind": "hard",
+          "maxDelta": 240.8
+        }
+      ],
+      "counts": {
+        "hard": 4,
+        "fade": 0,
+        "motion": 0
+      }
+    }
+  },
+  {
+    "dir": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1081708404296737259",
+    "absDir": "/Users/manoshranjan/new leads/video-edit/style-analysis/preproc/From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1081708404296737259",
+    "meta": {
+      "file": "From Klickpin.com- Luxury Clean Girl Makeup Looks to Refresh Your Routine-pin-id-1081708404296737259.mp4",
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1081708404296737259",
+      "meta": {
+        "duration": 23.125011,
+        "fps": 25.0,
+        "width": 720,
+        "height": 1280,
+        "hasAudio": true
+      },
+      "shotCount": 2,
+      "keyframes": [
+        "shot_00.jpg",
+        "shot_01.jpg"
+      ],
+      "hookFrames": [
+        "hook_01.jpg",
+        "hook_02.jpg",
+        "hook_03.jpg",
+        "hook_04.jpg",
+        "hook_05.jpg",
+        "hook_06.jpg",
+        "hook_07.jpg",
+        "hook_08.jpg",
+        "hook_09.jpg",
+        "hook_10.jpg"
+      ],
+      "transcript": true,
+      "beats": true,
+      "transitions": {
+        "hard": 1,
+        "fade": 0,
+        "motion": 0
+      },
+      "pacing": {
+        "binSec": 3.0,
+        "cutsPerBin": [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        "cutsPerSec": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.333,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    "shots": [
+      {
+        "index": 0,
+        "startSec": 0.0,
+        "endSec": 14.0,
+        "durationSec": 14.0
+      },
+      {
+        "index": 1,
+        "startSec": 14.0,
+        "endSec": 23.12,
+        "durationSec": 9.12
+      }
+    ],
+    "transcript": {
+      "language": "en",
+      "text": "Want to grow your business faster? At plans, we run powerful ad campaigns across every platform. From Google Search, Display, and YouTube ads to meta ads on Facebook, Instagram, and even TikTok and LinkedIn ads, we help your brand reach the right audience, get real leads, and boost your sales. Let your brand fly with plans, digital ads that deliver.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.5,
+          "text": "Want to grow your business faster?",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.34,
+              "word": "Want"
+            },
+            {
+              "start": 0.34,
+              "end": 0.38,
+              "word": "to"
+            },
+            {
+              "start": 0.38,
+              "end": 0.52,
+              "word": "grow"
+            },
+            {
+              "start": 0.52,
+              "end": 0.72,
+              "word": "your"
+            },
+            {
+              "start": 0.72,
+              "end": 1.0,
+              "word": "business"
+            },
+            {
+              "start": 1.0,
+              "end": 1.5,
+              "word": "faster?"
+            }
+          ]
+        },
+        {
+          "start": 2.56,
+          "end": 4.74,
+          "text": "At plans, we run powerful ad campaigns",
+          "words": [
+            {
+              "start": 2.56,
+              "end": 2.72,
+              "word": "At"
+            },
+            {
+              "start": 2.72,
+              "end": 3.1,
+              "word": "plans,"
+            },
+            {
+              "start": 3.34,
+              "end": 3.34,
+              "word": "we"
+            },
+            {
+              "start": 3.34,
+              "end": 3.58,
+              "word": "run"
+            },
+            {
+              "start": 3.58,
+              "end": 3.98,
+              "word": "powerful"
+            },
+            {
+              "start": 3.98,
+              "end": 4.36,
+              "word": "ad"
+            },
+            {
+              "start": 4.36,
+              "end": 4.74,
+              "word": "campaigns"
+            }
+          ]
+        },
+        {
+          "start": 4.74,
+          "end": 6.1,
+          "text": "across every platform.",
+          "words": [
+            {
+              "start": 4.74,
+              "end": 5.12,
+              "word": "across"
+            },
+            {
+              "start": 5.12,
+              "end": 5.64,
+              "word": "every"
+            },
+            {
+              "start": 5.64,
+              "end": 6.1,
+              "word": "platform."
+            }
+          ]
+        },
+        {
+          "start": 6.74,
+          "end": 9.3,
+          "text": "From Google Search, Display, and YouTube ads",
+          "words": [
+            {
+              "start": 6.74,
+              "end": 6.94,
+              "word": "From"
+            },
+            {
+              "start": 6.94,
+              "end": 7.26,
+              "word": "Google"
+            },
+            {
+              "start": 7.26,
+              "end": 7.64,
+              "word": "Search,"
+            },
+            {
+              "start": 8.1,
+              "end": 8.12,
+              "word": "Display,"
+            },
+            {
+              "start": 8.28,
+              "end": 8.42,
+              "word": "and"
+            },
+            {
+              "start": 8.42,
+              "end": 8.74,
+              "word": "YouTube"
+            },
+            {
+              "start": 8.74,
+              "end": 9.3,
+              "word": "ads"
+            }
+          ]
+        },
+        {
+          "start": 9.3,
+          "end": 13.12,
+          "text": "to meta ads on Facebook, Instagram, and even TikTok",
+          "words": [
+            {
+              "start": 9.3,
+              "end": 9.7,
+              "word": "to"
+            },
+            {
+              "start": 9.7,
+              "end": 9.94,
+              "word": "meta"
+            },
+            {
+              "start": 9.94,
+              "end": 10.3,
+              "word": "ads"
+            },
+            {
+              "start": 10.3,
+              "end": 10.56,
+              "word": "on"
+            },
+            {
+              "start": 10.56,
+              "end": 10.96,
+              "word": "Facebook,"
+            },
+            {
+              "start": 11.34,
+              "end": 11.72,
+              "word": "Instagram,"
+            },
+            {
+              "start": 12.38,
+              "end": 12.5,
+              "word": "and"
+            },
+            {
+              "start": 12.5,
+              "end": 12.72,
+              "word": "even"
+            },
+            {
+              "start": 12.72,
+              "end": 13.12,
+              "word": "TikTok"
+            }
+          ]
+        },
+        {
+          "start": 13.12,
+          "end": 16.78,
+          "text": "and LinkedIn ads, we help your brand reach the right audience,",
+          "words": [
+            {
+              "start": 13.12,
+              "end": 13.46,
+              "word": "and"
+            },
+            {
+              "start": 13.46,
+              "end": 13.76,
+              "word": "LinkedIn"
+            },
+            {
+              "start": 13.76,
+              "end": 14.36,
+              "word": "ads,"
+            },
+            {
+              "start": 14.78,
+              "end": 14.86,
+              "word": "we"
+            },
+            {
+              "start": 14.86,
+              "end": 15.12,
+              "word": "help"
+            },
+            {
+              "start": 15.12,
+              "end": 15.32,
+              "word": "your"
+            },
+            {
+              "start": 15.32,
+              "end": 15.62,
+              "word": "brand"
+            },
+            {
+              "start": 15.62,
+              "end": 15.88,
+              "word": "reach"
+            },
+            {
+              "start": 15.88,
+              "end": 16.1,
+              "word": "the"
+            },
+            {
+              "start": 16.1,
+              "end": 16.26,
+              "word": "right"
+            },
+            {
+              "start": 16.26,
+              "end": 16.78,
+              "word": "audience,"
+            }
+          ]
+        },
+        {
+          "start": 17.14,
+          "end": 18.96,
+          "text": "get real leads, and boost your sales.",
+          "words": [
+            {
+              "start": 17.14,
+              "end": 17.3,
+              "word": "get"
+            },
+            {
+              "start": 17.3,
+              "end": 17.58,
+              "word": "real"
+            },
+            {
+              "start": 17.58,
+              "end": 17.9,
+              "word": "leads,"
+            },
+            {
+              "start": 18.02,
+              "end": 18.12,
+              "word": "and"
+            },
+            {
+              "start": 18.12,
+              "end": 18.32,
+              "word": "boost"
+            },
+            {
+              "start": 18.32,
+              "end": 18.62,
+              "word": "your"
+            },
+            {
+              "start": 18.62,
+              "end": 18.96,
+              "word": "sales."
+            }
+          ]
+        },
+        {
+          "start": 19.52,
+          "end": 22.7,
+          "text": "Let your brand fly with plans, digital ads that deliver.",
+          "words": [
+            {
+              "start": 19.52,
+              "end": 19.58,
+              "word": "Let"
+            },
+            {
+              "start": 19.58,
+              "end": 19.8,
+              "word": "your"
+            },
+            {
+              "start": 19.8,
+              "end": 20.06,
+              "word": "brand"
+            },
+            {
+              "start": 20.06,
+              "end": 20.28,
+              "word": "fly"
+            },
+            {
+              "start": 20.28,
+              "end": 20.52,
+              "word": "with"
+            },
+            {
+              "start": 20.52,
+              "end": 21.0,
+              "word": "plans,"
+            },
+            {
+              "start": 21.5,
+              "end": 21.74,
+              "word": "digital"
+            },
+            {
+              "start": 21.74,
+              "end": 22.2,
+              "word": "ads"
+            },
+            {
+              "start": 22.2,
+              "end": 22.46,
+              "word": "that"
+            },
+            {
+              "start": 22.46,
+              "end": 22.7,
+              "word": "deliver."
+            }
+          ]
+        }
+      ]
+    },
+    "beats": {
+      "tempoBpm": 99.4,
+      "beatTimes": [
+        0.116,
+        0.697,
+        1.324,
+        1.904,
+        2.508,
+        3.111,
+        3.715,
+        4.319,
+        4.923,
+        5.55,
+        6.177,
+        6.78,
+        7.361,
+        7.941,
+        8.522,
+        9.125,
+        9.683,
+        10.286,
+        10.867,
+        11.471,
+        12.144,
+        12.678,
+        13.235,
+        13.816,
+        14.443,
+        15.07,
+        15.627,
+        16.208,
+        16.765,
+        17.322,
+        17.903,
+        18.53,
+        19.156,
+        19.783,
+        20.48,
+        21.13,
+        21.757,
+        22.361
+      ],
+      "onsetTimes": [
+        0.07,
+        0.116,
+        0.372,
+        0.673,
+        0.859,
+        0.906,
+        1.045,
+        1.184,
+        1.324,
+        1.416,
+        1.579,
+        2.508,
+        2.694,
+        3.088,
+        3.204,
+        3.344,
+        3.506,
+        3.599,
+        3.855,
+        4.087,
+        4.319,
+        4.574,
+        4.667,
+        4.783,
+        4.83,
+        4.923,
+        5.085,
+        5.271,
+        5.457,
+        5.55,
+        5.666,
+        6.618,
+        6.757,
+        6.896,
+        7.012,
+        7.129,
+        7.245,
+        7.361,
+        7.57,
+        7.686,
+        7.918,
+        8.359,
+        8.499,
+        8.707,
+        9.079,
+        9.125,
+        9.474,
+        9.66,
+        9.868,
+        10.031,
+        10.263,
+        10.31,
+        10.565,
+        10.728,
+        10.867,
+        11.029,
+        11.192,
+        11.331,
+        11.471,
+        11.587,
+        12.121,
+        12.283,
+        12.539,
+        12.678,
+        12.748,
+        12.864,
+        12.934,
+        12.98,
+        13.119,
+        13.235,
+        13.444,
+        13.63,
+        13.816,
+        14.141,
+        14.721,
+        14.907,
+        15.047,
+        15.232,
+        15.395,
+        15.511,
+        15.627,
+        15.813,
+        15.906,
+        16.045,
+        16.254,
+        16.672,
+        17.067,
+        17.299,
+        17.508,
+        17.601,
+        17.67,
+        17.903,
+        18.019,
+        18.112,
+        18.344,
+        18.53,
+        19.435,
+        19.621,
+        19.737,
+        19.783,
+        19.9,
+        20.062,
+        20.341,
+        20.48,
+        20.898,
+        21.223,
+        21.269,
+        21.432,
+        21.618,
+        21.757,
+        21.827,
+        22.105,
+        22.221,
+        22.361,
+        22.5,
+        22.639
+      ]
+    },
+    "transitions": {
+      "transitions": [
+        {
+          "atSec": 14.0,
+          "kind": "hard",
+          "maxDelta": 78.1
+        }
+      ],
+      "counts": {
+        "hard": 1,
+        "fade": 0,
+        "motion": 0
+      }
+    }
+  },
+  {
+    "dir": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1086986060082933811",
+    "absDir": "/Users/manoshranjan/new leads/video-edit/style-analysis/preproc/From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1086986060082933811",
+    "meta": {
+      "file": "From Klickpin.com- Luxury Clean Girl Makeup Looks to Refresh Your Routine-pin-id-1086986060082933811.mp4",
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1086986060082933811",
+      "meta": {
+        "duration": 47.125,
+        "fps": 16.0,
+        "width": 720,
+        "height": 1280,
+        "hasAudio": true
+      },
+      "shotCount": 19,
+      "keyframes": [
+        "shot_00.jpg",
+        "shot_01.jpg",
+        "shot_02.jpg",
+        "shot_03.jpg",
+        "shot_04.jpg",
+        "shot_05.jpg",
+        "shot_06.jpg",
+        "shot_07.jpg",
+        "shot_08.jpg",
+        "shot_09.jpg",
+        "shot_10.jpg",
+        "shot_11.jpg",
+        "shot_12.jpg",
+        "shot_13.jpg",
+        "shot_14.jpg",
+        "shot_15.jpg",
+        "shot_16.jpg",
+        "shot_17.jpg",
+        "shot_18.jpg"
+      ],
+      "hookFrames": [
+        "hook_01.jpg",
+        "hook_02.jpg",
+        "hook_03.jpg",
+        "hook_04.jpg",
+        "hook_05.jpg",
+        "hook_06.jpg",
+        "hook_07.jpg",
+        "hook_08.jpg",
+        "hook_09.jpg",
+        "hook_10.jpg"
+      ],
+      "transcript": true,
+      "beats": true,
+      "transitions": {
+        "hard": 15,
+        "fade": 0,
+        "motion": 3
+      },
+      "pacing": {
+        "binSec": 3.0,
+        "cutsPerBin": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          2,
+          1,
+          2,
+          0
+        ],
+        "cutsPerSec": [
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.667,
+          0.333,
+          0.333,
+          0.333,
+          0.667,
+          0.333,
+          0.667,
+          0.333,
+          0.667,
+          0.0
+        ]
+      }
+    },
+    "shots": [
+      {
+        "index": 0,
+        "startSec": 0.0,
+        "endSec": 1.125,
+        "durationSec": 1.125
+      },
+      {
+        "index": 1,
+        "startSec": 1.125,
+        "endSec": 5.25,
+        "durationSec": 4.125
+      },
+      {
+        "index": 2,
+        "startSec": 5.25,
+        "endSec": 8.5,
+        "durationSec": 3.25
+      },
+      {
+        "index": 3,
+        "startSec": 8.5,
+        "endSec": 11.938,
+        "durationSec": 3.438
+      },
+      {
+        "index": 4,
+        "startSec": 11.938,
+        "endSec": 13.062,
+        "durationSec": 1.125
+      },
+      {
+        "index": 5,
+        "startSec": 13.062,
+        "endSec": 15.375,
+        "durationSec": 2.312
+      },
+      {
+        "index": 6,
+        "startSec": 15.375,
+        "endSec": 17.562,
+        "durationSec": 2.188
+      },
+      {
+        "index": 7,
+        "startSec": 17.562,
+        "endSec": 20.5,
+        "durationSec": 2.938
+      },
+      {
+        "index": 8,
+        "startSec": 20.5,
+        "endSec": 22.625,
+        "durationSec": 2.125
+      },
+      {
+        "index": 9,
+        "startSec": 22.625,
+        "endSec": 25.375,
+        "durationSec": 2.75
+      },
+      {
+        "index": 10,
+        "startSec": 25.375,
+        "endSec": 27.0,
+        "durationSec": 1.625
+      },
+      {
+        "index": 11,
+        "startSec": 27.0,
+        "endSec": 29.5,
+        "durationSec": 2.5
+      },
+      {
+        "index": 12,
+        "startSec": 29.5,
+        "endSec": 31.812,
+        "durationSec": 2.312
+      },
+      {
+        "index": 13,
+        "startSec": 31.812,
+        "endSec": 33.188,
+        "durationSec": 1.375
+      },
+      {
+        "index": 14,
+        "startSec": 33.188,
+        "endSec": 34.938,
+        "durationSec": 1.75
+      },
+      {
+        "index": 15,
+        "startSec": 34.938,
+        "endSec": 36.312,
+        "durationSec": 1.375
+      },
+      {
+        "index": 16,
+        "startSec": 36.312,
+        "endSec": 40.0,
+        "durationSec": 3.688
+      },
+      {
+        "index": 17,
+        "startSec": 40.0,
+        "endSec": 41.625,
+        "durationSec": 1.625
+      },
+      {
+        "index": 18,
+        "startSec": 41.625,
+        "endSec": 47.125,
+        "durationSec": 5.5
+      }
+    ],
+    "transcript": {
+      "language": "en",
+      "text": "Warren Buffett has $381 billion in cash. That's more money than the whole country of Greece makes. But he's not spending it. For nearly three years, he's been selling. Even as the S&P 500 went up 80%. So while everyone else is buying, he's waiting. Why? Because he's done this before. In 1999 and 2007, he waited, then bought big when prices crashed. And now, the market is at 230% of the US economy. That's very high. So he's sitting on cash, waiting. The real question is, do prices fall first or does he start buying? Editors, projectfile on earnededits.com. Visit now and download it.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.58,
+          "text": "Warren Buffett has $381 billion in cash.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.34,
+              "word": "Warren"
+            },
+            {
+              "start": 0.34,
+              "end": 0.8,
+              "word": "Buffett"
+            },
+            {
+              "start": 0.8,
+              "end": 1.18,
+              "word": "has"
+            },
+            {
+              "start": 1.18,
+              "end": 2.86,
+              "word": "$381"
+            },
+            {
+              "start": 2.86,
+              "end": 3.62,
+              "word": "billion"
+            },
+            {
+              "start": 3.62,
+              "end": 4.2,
+              "word": "in"
+            },
+            {
+              "start": 4.2,
+              "end": 4.58,
+              "word": "cash."
+            }
+          ]
+        },
+        {
+          "start": 4.7,
+          "end": 8.0,
+          "text": "That's more money than the whole country of Greece makes.",
+          "words": [
+            {
+              "start": 4.7,
+              "end": 5.02,
+              "word": "That's"
+            },
+            {
+              "start": 5.02,
+              "end": 5.18,
+              "word": "more"
+            },
+            {
+              "start": 5.18,
+              "end": 5.58,
+              "word": "money"
+            },
+            {
+              "start": 5.58,
+              "end": 5.88,
+              "word": "than"
+            },
+            {
+              "start": 5.88,
+              "end": 6.22,
+              "word": "the"
+            },
+            {
+              "start": 6.22,
+              "end": 6.52,
+              "word": "whole"
+            },
+            {
+              "start": 6.52,
+              "end": 6.94,
+              "word": "country"
+            },
+            {
+              "start": 6.94,
+              "end": 7.24,
+              "word": "of"
+            },
+            {
+              "start": 7.24,
+              "end": 7.54,
+              "word": "Greece"
+            },
+            {
+              "start": 7.54,
+              "end": 8.0,
+              "word": "makes."
+            }
+          ]
+        },
+        {
+          "start": 8.8,
+          "end": 10.14,
+          "text": "But he's not spending it.",
+          "words": [
+            {
+              "start": 8.8,
+              "end": 8.9,
+              "word": "But"
+            },
+            {
+              "start": 8.9,
+              "end": 9.22,
+              "word": "he's"
+            },
+            {
+              "start": 9.22,
+              "end": 9.3,
+              "word": "not"
+            },
+            {
+              "start": 9.3,
+              "end": 9.64,
+              "word": "spending"
+            },
+            {
+              "start": 9.64,
+              "end": 10.14,
+              "word": "it."
+            }
+          ]
+        },
+        {
+          "start": 10.42,
+          "end": 12.82,
+          "text": "For nearly three years, he's been selling.",
+          "words": [
+            {
+              "start": 10.42,
+              "end": 10.52,
+              "word": "For"
+            },
+            {
+              "start": 10.52,
+              "end": 10.82,
+              "word": "nearly"
+            },
+            {
+              "start": 10.82,
+              "end": 11.2,
+              "word": "three"
+            },
+            {
+              "start": 11.2,
+              "end": 11.78,
+              "word": "years,"
+            },
+            {
+              "start": 12.1,
+              "end": 12.32,
+              "word": "he's"
+            },
+            {
+              "start": 12.32,
+              "end": 12.5,
+              "word": "been"
+            },
+            {
+              "start": 12.5,
+              "end": 12.82,
+              "word": "selling."
+            }
+          ]
+        },
+        {
+          "start": 13.16,
+          "end": 17.42,
+          "text": "Even as the S&P 500 went up 80%.",
+          "words": [
+            {
+              "start": 13.16,
+              "end": 13.34,
+              "word": "Even"
+            },
+            {
+              "start": 13.34,
+              "end": 13.64,
+              "word": "as"
+            },
+            {
+              "start": 13.64,
+              "end": 13.92,
+              "word": "the"
+            },
+            {
+              "start": 13.92,
+              "end": 14.06,
+              "word": "S"
+            },
+            {
+              "start": 14.06,
+              "end": 14.4,
+              "word": "&P"
+            },
+            {
+              "start": 14.4,
+              "end": 14.98,
+              "word": "500"
+            },
+            {
+              "start": 14.98,
+              "end": 15.74,
+              "word": "went"
+            },
+            {
+              "start": 15.74,
+              "end": 16.18,
+              "word": "up"
+            },
+            {
+              "start": 16.18,
+              "end": 17.42,
+              "word": "80%."
+            }
+          ]
+        },
+        {
+          "start": 17.42,
+          "end": 20.34,
+          "text": "So while everyone else is buying, he's waiting.",
+          "words": [
+            {
+              "start": 17.42,
+              "end": 17.78,
+              "word": "So"
+            },
+            {
+              "start": 17.78,
+              "end": 18.02,
+              "word": "while"
+            },
+            {
+              "start": 18.02,
+              "end": 18.42,
+              "word": "everyone"
+            },
+            {
+              "start": 18.42,
+              "end": 18.76,
+              "word": "else"
+            },
+            {
+              "start": 18.76,
+              "end": 18.98,
+              "word": "is"
+            },
+            {
+              "start": 18.98,
+              "end": 19.36,
+              "word": "buying,"
+            },
+            {
+              "start": 19.84,
+              "end": 20.02,
+              "word": "he's"
+            },
+            {
+              "start": 20.02,
+              "end": 20.34,
+              "word": "waiting."
+            }
+          ]
+        },
+        {
+          "start": 20.68,
+          "end": 20.9,
+          "text": "Why?",
+          "words": [
+            {
+              "start": 20.68,
+              "end": 20.9,
+              "word": "Why?"
+            }
+          ]
+        },
+        {
+          "start": 21.1,
+          "end": 22.48,
+          "text": "Because he's done this before.",
+          "words": [
+            {
+              "start": 21.1,
+              "end": 21.44,
+              "word": "Because"
+            },
+            {
+              "start": 21.44,
+              "end": 21.78,
+              "word": "he's"
+            },
+            {
+              "start": 21.78,
+              "end": 21.86,
+              "word": "done"
+            },
+            {
+              "start": 21.86,
+              "end": 22.1,
+              "word": "this"
+            },
+            {
+              "start": 22.1,
+              "end": 22.48,
+              "word": "before."
+            }
+          ]
+        },
+        {
+          "start": 22.76,
+          "end": 27.0,
+          "text": "In 1999 and 2007, he waited, then bought big",
+          "words": [
+            {
+              "start": 22.76,
+              "end": 22.8,
+              "word": "In"
+            },
+            {
+              "start": 22.8,
+              "end": 23.56,
+              "word": "1999"
+            },
+            {
+              "start": 23.56,
+              "end": 24.22,
+              "word": "and"
+            },
+            {
+              "start": 24.22,
+              "end": 24.92,
+              "word": "2007,"
+            },
+            {
+              "start": 25.52,
+              "end": 25.56,
+              "word": "he"
+            },
+            {
+              "start": 25.56,
+              "end": 25.92,
+              "word": "waited,"
+            },
+            {
+              "start": 26.2,
+              "end": 26.38,
+              "word": "then"
+            },
+            {
+              "start": 26.38,
+              "end": 26.6,
+              "word": "bought"
+            },
+            {
+              "start": 26.6,
+              "end": 27.0,
+              "word": "big"
+            }
+          ]
+        },
+        {
+          "start": 27.0,
+          "end": 28.18,
+          "text": "when prices crashed.",
+          "words": [
+            {
+              "start": 27.0,
+              "end": 27.34,
+              "word": "when"
+            },
+            {
+              "start": 27.34,
+              "end": 27.64,
+              "word": "prices"
+            },
+            {
+              "start": 27.64,
+              "end": 28.18,
+              "word": "crashed."
+            }
+          ]
+        },
+        {
+          "start": 28.18,
+          "end": 33.0,
+          "text": "And now, the market is at 230% of the US economy.",
+          "words": [
+            {
+              "start": 28.18,
+              "end": 28.58,
+              "word": "And"
+            },
+            {
+              "start": 28.58,
+              "end": 29.0,
+              "word": "now,"
+            },
+            {
+              "start": 29.16,
+              "end": 29.36,
+              "word": "the"
+            },
+            {
+              "start": 29.36,
+              "end": 29.58,
+              "word": "market"
+            },
+            {
+              "start": 29.58,
+              "end": 29.82,
+              "word": "is"
+            },
+            {
+              "start": 29.82,
+              "end": 30.14,
+              "word": "at"
+            },
+            {
+              "start": 30.14,
+              "end": 31.08,
+              "word": "230"
+            },
+            {
+              "start": 31.08,
+              "end": 31.86,
+              "word": "%"
+            },
+            {
+              "start": 31.86,
+              "end": 32.1,
+              "word": "of"
+            },
+            {
+              "start": 32.1,
+              "end": 32.26,
+              "word": "the"
+            },
+            {
+              "start": 32.26,
+              "end": 32.54,
+              "word": "US"
+            },
+            {
+              "start": 32.54,
+              "end": 33.0,
+              "word": "economy."
+            }
+          ]
+        },
+        {
+          "start": 33.24,
+          "end": 34.78,
+          "text": "That's very high.",
+          "words": [
+            {
+              "start": 33.24,
+              "end": 33.82,
+              "word": "That's"
+            },
+            {
+              "start": 33.82,
+              "end": 34.14,
+              "word": "very"
+            },
+            {
+              "start": 34.14,
+              "end": 34.78,
+              "word": "high."
+            }
+          ]
+        },
+        {
+          "start": 34.96,
+          "end": 36.74,
+          "text": "So he's sitting on cash, waiting.",
+          "words": [
+            {
+              "start": 34.96,
+              "end": 35.1,
+              "word": "So"
+            },
+            {
+              "start": 35.1,
+              "end": 35.56,
+              "word": "he's"
+            },
+            {
+              "start": 35.56,
+              "end": 35.56,
+              "word": "sitting"
+            },
+            {
+              "start": 35.56,
+              "end": 35.86,
+              "word": "on"
+            },
+            {
+              "start": 35.86,
+              "end": 36.3,
+              "word": "cash,"
+            },
+            {
+              "start": 36.56,
+              "end": 36.74,
+              "word": "waiting."
+            }
+          ]
+        },
+        {
+          "start": 37.18,
+          "end": 41.32,
+          "text": "The real question is, do prices fall first or does he start buying?",
+          "words": [
+            {
+              "start": 37.18,
+              "end": 37.34,
+              "word": "The"
+            },
+            {
+              "start": 37.34,
+              "end": 37.56,
+              "word": "real"
+            },
+            {
+              "start": 37.56,
+              "end": 37.98,
+              "word": "question"
+            },
+            {
+              "start": 37.98,
+              "end": 38.46,
+              "word": "is,"
+            },
+            {
+              "start": 38.5,
+              "end": 38.74,
+              "word": "do"
+            },
+            {
+              "start": 38.74,
+              "end": 39.08,
+              "word": "prices"
+            },
+            {
+              "start": 39.08,
+              "end": 39.48,
+              "word": "fall"
+            },
+            {
+              "start": 39.48,
+              "end": 39.94,
+              "word": "first"
+            },
+            {
+              "start": 39.94,
+              "end": 40.28,
+              "word": "or"
+            },
+            {
+              "start": 40.28,
+              "end": 40.46,
+              "word": "does"
+            },
+            {
+              "start": 40.46,
+              "end": 40.66,
+              "word": "he"
+            },
+            {
+              "start": 40.66,
+              "end": 40.9,
+              "word": "start"
+            },
+            {
+              "start": 40.9,
+              "end": 41.32,
+              "word": "buying?"
+            }
+          ]
+        },
+        {
+          "start": 41.82,
+          "end": 44.98,
+          "text": "Editors, projectfile on earnededits.com.",
+          "words": [
+            {
+              "start": 41.82,
+              "end": 42.2,
+              "word": "Editors,"
+            },
+            {
+              "start": 42.52,
+              "end": 43.2,
+              "word": "projectfile"
+            },
+            {
+              "start": 43.2,
+              "end": 43.54,
+              "word": "on"
+            },
+            {
+              "start": 43.54,
+              "end": 44.22,
+              "word": "earnededits"
+            },
+            {
+              "start": 44.22,
+              "end": 44.98,
+              "word": ".com."
+            }
+          ]
+        },
+        {
+          "start": 45.14,
+          "end": 46.72,
+          "text": "Visit now and download it.",
+          "words": [
+            {
+              "start": 45.14,
+              "end": 45.3,
+              "word": "Visit"
+            },
+            {
+              "start": 45.3,
+              "end": 45.74,
+              "word": "now"
+            },
+            {
+              "start": 45.74,
+              "end": 45.96,
+              "word": "and"
+            },
+            {
+              "start": 45.96,
+              "end": 46.3,
+              "word": "download"
+            },
+            {
+              "start": 46.3,
+              "end": 46.72,
+              "word": "it."
+            }
+          ]
+        }
+      ]
+    },
+    "beats": {
+      "tempoBpm": 143.6,
+      "beatTimes": [
+        0.557,
+        0.929,
+        1.347,
+        1.788,
+        2.229,
+        2.601,
+        2.972,
+        3.437,
+        3.808,
+        4.226,
+        4.644,
+        5.062,
+        5.457,
+        5.851,
+        6.293,
+        6.734,
+        7.152,
+        7.546,
+        7.941,
+        8.336,
+        8.731,
+        9.125,
+        9.52,
+        9.915,
+        10.31,
+        10.728,
+        11.169,
+        11.61,
+        12.051,
+        12.492,
+        12.887,
+        13.305,
+        13.746,
+        14.141,
+        14.512,
+        14.954,
+        15.372,
+        15.79,
+        16.231,
+        16.672,
+        17.113,
+        17.554,
+        18.019,
+        18.46,
+        18.901,
+        19.273,
+        19.621,
+        19.992,
+        20.41,
+        20.828,
+        21.246,
+        21.664,
+        22.036,
+        22.384,
+        22.779,
+        23.174,
+        23.591,
+        24.009,
+        24.404,
+        24.799,
+        25.194,
+        25.588,
+        25.983,
+        26.355,
+        26.749,
+        27.167,
+        27.585,
+        28.003,
+        28.398,
+        28.793,
+        29.187,
+        29.605,
+        30.0,
+        30.372,
+        30.743,
+        31.138,
+        31.556,
+        31.904,
+        32.322,
+        32.74,
+        33.181,
+        33.576,
+        33.994,
+        34.389,
+        34.853,
+        35.271,
+        35.689,
+        36.107,
+        36.525,
+        36.943,
+        37.361,
+        37.849,
+        38.266,
+        38.684,
+        39.102,
+        39.544,
+        39.962,
+        40.31,
+        40.681,
+        41.076,
+        41.494,
+        41.912,
+        42.353,
+        42.748,
+        43.143,
+        43.537,
+        44.002,
+        44.489,
+        44.977,
+        45.395,
+        45.767,
+        46.208,
+        46.672
+      ],
+      "onsetTimes": [
+        0.093,
+        0.348,
+        0.534,
+        0.859,
+        0.906,
+        1.184,
+        1.3,
+        1.579,
+        1.695,
+        1.974,
+        2.206,
+        2.577,
+        2.949,
+        3.437,
+        3.692,
+        3.808,
+        4.017,
+        4.133,
+        4.226,
+        4.435,
+        4.69,
+        4.853,
+        5.201,
+        5.666,
+        5.828,
+        6.153,
+        6.269,
+        6.455,
+        6.594,
+        6.734,
+        6.989,
+        7.291,
+        7.57,
+        7.779,
+        8.707,
+        8.754,
+        9.381,
+        9.52,
+        9.66,
+        10.101,
+        10.286,
+        10.379,
+        10.542,
+        10.728,
+        10.82,
+        10.96,
+        11.053,
+        11.169,
+        11.308,
+        11.54,
+        11.819,
+        11.958,
+        12.26,
+        12.399,
+        12.492,
+        12.748,
+        12.841,
+        12.887,
+        13.026,
+        13.212,
+        13.375,
+        13.584,
+        13.746,
+        13.932,
+        14.141,
+        14.489,
+        14.652,
+        14.814,
+        14.93,
+        15.139,
+        15.348,
+        15.581,
+        15.766,
+        15.975,
+        16.068,
+        16.324,
+        16.672,
+        16.788,
+        16.974,
+        17.183,
+        17.229,
+        17.438,
+        17.624,
+        17.763,
+        17.903,
+        17.995,
+        18.181,
+        18.46,
+        18.599,
+        18.715,
+        18.901,
+        19.087,
+        19.598,
+        19.853,
+        19.969,
+        20.178,
+        20.341,
+        20.48,
+        20.619,
+        21.13,
+        21.223,
+        21.664,
+        21.873,
+        21.92,
+        22.082,
+        22.268,
+        22.384,
+        22.477,
+        22.593,
+        22.756,
+        22.965,
+        23.174,
+        23.336,
+        23.475,
+        23.893,
+        24.009,
+        24.172,
+        24.381,
+        24.776,
+        24.938,
+        25.797,
+        25.913,
+        26.006,
+        26.146,
+        26.331,
+        26.587,
+        26.657,
+        26.958,
+        27.144,
+        27.283,
+        27.376,
+        27.609,
+        27.794,
+        28.026,
+        28.282,
+        28.375,
+        28.584,
+        28.723,
+        29.164,
+        29.304,
+        29.466,
+        29.745,
+        30.0,
+        30.372,
+        30.488,
+        30.65,
+        30.743,
+        30.906,
+        30.952,
+        31.115,
+        31.277,
+        31.417,
+        31.533,
+        31.881,
+        32.067,
+        32.183,
+        32.299,
+        32.485,
+        32.67,
+        32.903,
+        33.158,
+        33.344,
+        33.553,
+        33.762,
+        33.901,
+        33.994,
+        34.366,
+        34.505,
+        34.853,
+        35.201,
+        35.341,
+        35.689,
+        35.852,
+        36.014,
+        36.107,
+        36.525,
+        36.688,
+        36.85,
+        37.129,
+        37.338,
+        37.547,
+        37.64,
+        37.756,
+        37.849,
+        37.895,
+        38.081,
+        38.266,
+        38.429,
+        38.499,
+        38.661,
+        38.801,
+        38.986,
+        39.219,
+        39.544,
+        39.962,
+        40.147,
+        40.287,
+        40.38,
+        40.681,
+        40.751,
+        40.89,
+        41.076,
+        41.61,
+        41.866,
+        42.353,
+        42.423,
+        42.539,
+        42.748,
+        42.864,
+        43.259,
+        43.514,
+        43.723,
+        43.839,
+        44.118,
+        44.234,
+        44.466,
+        44.977,
+        45.209,
+        45.372,
+        45.72,
+        45.883,
+        46.184,
+        46.37,
+        46.672,
+        46.788
+      ]
+    },
+    "transitions": {
+      "transitions": [
+        {
+          "atSec": 1.125,
+          "kind": "hard",
+          "maxDelta": 58.7
+        },
+        {
+          "atSec": 5.25,
+          "kind": "hard",
+          "maxDelta": 55.8
+        },
+        {
+          "atSec": 8.5,
+          "kind": "hard",
+          "maxDelta": 70.3
+        },
+        {
+          "atSec": 11.938,
+          "kind": "hard",
+          "maxDelta": 92.1
+        },
+        {
+          "atSec": 13.062,
+          "kind": "motion",
+          "maxDelta": 33.3
+        },
+        {
+          "atSec": 15.375,
+          "kind": "motion",
+          "maxDelta": 29.2
+        },
+        {
+          "atSec": 17.562,
+          "kind": "hard",
+          "maxDelta": 48.4
+        },
+        {
+          "atSec": 20.5,
+          "kind": "hard",
+          "maxDelta": 53.9
+        },
+        {
+          "atSec": 22.625,
+          "kind": "hard",
+          "maxDelta": 39.7
+        },
+        {
+          "atSec": 25.375,
+          "kind": "hard",
+          "maxDelta": 54.5
+        },
+        {
+          "atSec": 27.0,
+          "kind": "hard",
+          "maxDelta": 89.5
+        },
+        {
+          "atSec": 29.5,
+          "kind": "hard",
+          "maxDelta": 74.2
+        },
+        {
+          "atSec": 31.812,
+          "kind": "hard",
+          "maxDelta": 39.3
+        },
+        {
+          "atSec": 33.188,
+          "kind": "hard",
+          "maxDelta": 53.7
+        },
+        {
+          "atSec": 34.938,
+          "kind": "hard",
+          "maxDelta": 41.3
+        },
+        {
+          "atSec": 36.312,
+          "kind": "hard",
+          "maxDelta": 44.4
+        },
+        {
+          "atSec": 40.0,
+          "kind": "motion",
+          "maxDelta": 32.9
+        },
+        {
+          "atSec": 41.625,
+          "kind": "hard",
+          "maxDelta": 92.4
+        }
+      ],
+      "counts": {
+        "hard": 15,
+        "fade": 0,
+        "motion": 3
+      }
+    }
+  },
+  {
+    "dir": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1147643917677607792",
+    "absDir": "/Users/manoshranjan/new leads/video-edit/style-analysis/preproc/From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1147643917677607792",
+    "meta": {
+      "file": "From Klickpin.com- Luxury Clean Girl Makeup Looks to Refresh Your Routine-pin-id-1147643917677607792.mp4",
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1147643917677607792",
+      "meta": {
+        "duration": 27.968005,
+        "fps": 30.0,
+        "width": 720,
+        "height": 1280,
+        "hasAudio": true
+      },
+      "shotCount": 13,
+      "keyframes": [
+        "shot_00.jpg",
+        "shot_01.jpg",
+        "shot_02.jpg",
+        "shot_03.jpg",
+        "shot_04.jpg",
+        "shot_05.jpg",
+        "shot_06.jpg",
+        "shot_07.jpg",
+        "shot_08.jpg",
+        "shot_09.jpg",
+        "shot_10.jpg",
+        "shot_11.jpg",
+        "shot_12.jpg"
+      ],
+      "hookFrames": [
+        "hook_01.jpg",
+        "hook_02.jpg",
+        "hook_03.jpg",
+        "hook_04.jpg",
+        "hook_05.jpg",
+        "hook_06.jpg",
+        "hook_07.jpg",
+        "hook_08.jpg",
+        "hook_09.jpg",
+        "hook_10.jpg"
+      ],
+      "transcript": true,
+      "beats": true,
+      "transitions": {
+        "hard": 10,
+        "fade": 0,
+        "motion": 2
+      },
+      "pacing": {
+        "binSec": 3.0,
+        "cutsPerBin": [
+          1,
+          1,
+          2,
+          1,
+          1,
+          1,
+          1,
+          1,
+          3
+        ],
+        "cutsPerSec": [
+          0.333,
+          0.333,
+          0.667,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          0.333,
+          1.0
+        ]
+      }
+    },
+    "shots": [
+      {
+        "index": 0,
+        "startSec": 0.0,
+        "endSec": 2.633,
+        "durationSec": 2.633
+      },
+      {
+        "index": 1,
+        "startSec": 2.633,
+        "endSec": 4.9,
+        "durationSec": 2.267
+      },
+      {
+        "index": 2,
+        "startSec": 4.9,
+        "endSec": 6.133,
+        "durationSec": 1.233
+      },
+      {
+        "index": 3,
+        "startSec": 6.133,
+        "endSec": 8.867,
+        "durationSec": 2.733
+      },
+      {
+        "index": 4,
+        "startSec": 8.867,
+        "endSec": 11.7,
+        "durationSec": 2.833
+      },
+      {
+        "index": 5,
+        "startSec": 11.7,
+        "endSec": 14.933,
+        "durationSec": 3.233
+      },
+      {
+        "index": 6,
+        "startSec": 14.933,
+        "endSec": 17.467,
+        "durationSec": 2.533
+      },
+      {
+        "index": 7,
+        "startSec": 17.467,
+        "endSec": 20.567,
+        "durationSec": 3.1
+      },
+      {
+        "index": 8,
+        "startSec": 20.567,
+        "endSec": 21.9,
+        "durationSec": 1.333
+      },
+      {
+        "index": 9,
+        "startSec": 21.9,
+        "endSec": 24.067,
+        "durationSec": 2.167
+      },
+      {
+        "index": 10,
+        "startSec": 24.067,
+        "endSec": 25.0,
+        "durationSec": 0.933
+      },
+      {
+        "index": 11,
+        "startSec": 25.0,
+        "endSec": 25.733,
+        "durationSec": 0.733
+      },
+      {
+        "index": 12,
+        "startSec": 25.733,
+        "endSec": 27.967,
+        "durationSec": 2.233
+      }
+    ],
+    "transcript": {
+      "language": "en",
+      "text": "Alex Hormozis $100 million book is not his hook. You see the bold text, the simple set, the billion dollar man. He uses motion to create information density. The visual hits your eye before the word hits your ear. It's not decoration. It is a pacing tool. He forces your brain to process two signals at once. You don't need his budget. You need his engineering and the system behind it. DM Grove for the blueprint.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 4.76,
+          "text": "Alex Hormozis $100 million book is not his hook.",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.4,
+              "word": "Alex"
+            },
+            {
+              "start": 0.4,
+              "end": 1.2,
+              "word": "Hormozis"
+            },
+            {
+              "start": 1.2,
+              "end": 1.78,
+              "word": "$100"
+            },
+            {
+              "start": 1.78,
+              "end": 2.46,
+              "word": "million"
+            },
+            {
+              "start": 2.46,
+              "end": 3.12,
+              "word": "book"
+            },
+            {
+              "start": 3.12,
+              "end": 3.54,
+              "word": "is"
+            },
+            {
+              "start": 3.54,
+              "end": 3.96,
+              "word": "not"
+            },
+            {
+              "start": 3.96,
+              "end": 4.46,
+              "word": "his"
+            },
+            {
+              "start": 4.46,
+              "end": 4.76,
+              "word": "hook."
+            }
+          ]
+        },
+        {
+          "start": 4.96,
+          "end": 8.58,
+          "text": "You see the bold text, the simple set, the billion dollar man.",
+          "words": [
+            {
+              "start": 4.96,
+              "end": 5.16,
+              "word": "You"
+            },
+            {
+              "start": 5.16,
+              "end": 5.32,
+              "word": "see"
+            },
+            {
+              "start": 5.32,
+              "end": 5.52,
+              "word": "the"
+            },
+            {
+              "start": 5.52,
+              "end": 5.74,
+              "word": "bold"
+            },
+            {
+              "start": 5.74,
+              "end": 6.2,
+              "word": "text,"
+            },
+            {
+              "start": 6.38,
+              "end": 6.52,
+              "word": "the"
+            },
+            {
+              "start": 6.52,
+              "end": 6.74,
+              "word": "simple"
+            },
+            {
+              "start": 6.74,
+              "end": 7.18,
+              "word": "set,"
+            },
+            {
+              "start": 7.48,
+              "end": 7.6,
+              "word": "the"
+            },
+            {
+              "start": 7.6,
+              "end": 7.88,
+              "word": "billion"
+            },
+            {
+              "start": 7.88,
+              "end": 8.26,
+              "word": "dollar"
+            },
+            {
+              "start": 8.26,
+              "end": 8.58,
+              "word": "man."
+            }
+          ]
+        },
+        {
+          "start": 8.84,
+          "end": 11.64,
+          "text": "He uses motion to create information density.",
+          "words": [
+            {
+              "start": 8.84,
+              "end": 8.98,
+              "word": "He"
+            },
+            {
+              "start": 8.98,
+              "end": 9.28,
+              "word": "uses"
+            },
+            {
+              "start": 9.28,
+              "end": 9.8,
+              "word": "motion"
+            },
+            {
+              "start": 9.8,
+              "end": 10.04,
+              "word": "to"
+            },
+            {
+              "start": 10.04,
+              "end": 10.44,
+              "word": "create"
+            },
+            {
+              "start": 10.44,
+              "end": 10.98,
+              "word": "information"
+            },
+            {
+              "start": 10.98,
+              "end": 11.64,
+              "word": "density."
+            }
+          ]
+        },
+        {
+          "start": 12.08,
+          "end": 14.88,
+          "text": "The visual hits your eye before the word hits your ear.",
+          "words": [
+            {
+              "start": 12.08,
+              "end": 12.22,
+              "word": "The"
+            },
+            {
+              "start": 12.22,
+              "end": 12.52,
+              "word": "visual"
+            },
+            {
+              "start": 12.52,
+              "end": 12.8,
+              "word": "hits"
+            },
+            {
+              "start": 12.8,
+              "end": 13.1,
+              "word": "your"
+            },
+            {
+              "start": 13.1,
+              "end": 13.3,
+              "word": "eye"
+            },
+            {
+              "start": 13.3,
+              "end": 13.54,
+              "word": "before"
+            },
+            {
+              "start": 13.54,
+              "end": 13.78,
+              "word": "the"
+            },
+            {
+              "start": 13.78,
+              "end": 14.04,
+              "word": "word"
+            },
+            {
+              "start": 14.04,
+              "end": 14.32,
+              "word": "hits"
+            },
+            {
+              "start": 14.32,
+              "end": 14.62,
+              "word": "your"
+            },
+            {
+              "start": 14.62,
+              "end": 14.88,
+              "word": "ear."
+            }
+          ]
+        },
+        {
+          "start": 15.08,
+          "end": 16.04,
+          "text": "It's not decoration.",
+          "words": [
+            {
+              "start": 15.08,
+              "end": 15.28,
+              "word": "It's"
+            },
+            {
+              "start": 15.28,
+              "end": 15.52,
+              "word": "not"
+            },
+            {
+              "start": 15.52,
+              "end": 16.04,
+              "word": "decoration."
+            }
+          ]
+        },
+        {
+          "start": 16.36,
+          "end": 17.52,
+          "text": "It is a pacing tool.",
+          "words": [
+            {
+              "start": 16.36,
+              "end": 16.46,
+              "word": "It"
+            },
+            {
+              "start": 16.46,
+              "end": 16.68,
+              "word": "is"
+            },
+            {
+              "start": 16.68,
+              "end": 16.84,
+              "word": "a"
+            },
+            {
+              "start": 16.84,
+              "end": 17.14,
+              "word": "pacing"
+            },
+            {
+              "start": 17.14,
+              "end": 17.52,
+              "word": "tool."
+            }
+          ]
+        },
+        {
+          "start": 17.76,
+          "end": 20.6,
+          "text": "He forces your brain to process two signals at once.",
+          "words": [
+            {
+              "start": 17.76,
+              "end": 17.82,
+              "word": "He"
+            },
+            {
+              "start": 17.82,
+              "end": 18.04,
+              "word": "forces"
+            },
+            {
+              "start": 18.04,
+              "end": 18.42,
+              "word": "your"
+            },
+            {
+              "start": 18.42,
+              "end": 18.62,
+              "word": "brain"
+            },
+            {
+              "start": 18.62,
+              "end": 18.88,
+              "word": "to"
+            },
+            {
+              "start": 18.88,
+              "end": 19.24,
+              "word": "process"
+            },
+            {
+              "start": 19.24,
+              "end": 19.7,
+              "word": "two"
+            },
+            {
+              "start": 19.7,
+              "end": 20.02,
+              "word": "signals"
+            },
+            {
+              "start": 20.02,
+              "end": 20.32,
+              "word": "at"
+            },
+            {
+              "start": 20.32,
+              "end": 20.6,
+              "word": "once."
+            }
+          ]
+        },
+        {
+          "start": 20.78,
+          "end": 22.0,
+          "text": "You don't need his budget.",
+          "words": [
+            {
+              "start": 20.78,
+              "end": 20.94,
+              "word": "You"
+            },
+            {
+              "start": 20.94,
+              "end": 21.16,
+              "word": "don't"
+            },
+            {
+              "start": 21.16,
+              "end": 21.38,
+              "word": "need"
+            },
+            {
+              "start": 21.38,
+              "end": 21.62,
+              "word": "his"
+            },
+            {
+              "start": 21.62,
+              "end": 22.0,
+              "word": "budget."
+            }
+          ]
+        },
+        {
+          "start": 22.28,
+          "end": 25.72,
+          "text": "You need his engineering and the system behind it.",
+          "words": [
+            {
+              "start": 22.28,
+              "end": 22.38,
+              "word": "You"
+            },
+            {
+              "start": 22.38,
+              "end": 22.7,
+              "word": "need"
+            },
+            {
+              "start": 22.7,
+              "end": 23.2,
+              "word": "his"
+            },
+            {
+              "start": 23.2,
+              "end": 23.54,
+              "word": "engineering"
+            },
+            {
+              "start": 23.54,
+              "end": 24.34,
+              "word": "and"
+            },
+            {
+              "start": 24.34,
+              "end": 24.46,
+              "word": "the"
+            },
+            {
+              "start": 24.46,
+              "end": 24.88,
+              "word": "system"
+            },
+            {
+              "start": 24.88,
+              "end": 25.3,
+              "word": "behind"
+            },
+            {
+              "start": 25.3,
+              "end": 25.72,
+              "word": "it."
+            }
+          ]
+        },
+        {
+          "start": 25.98,
+          "end": 27.24,
+          "text": "DM Grove for the blueprint.",
+          "words": [
+            {
+              "start": 25.98,
+              "end": 26.22,
+              "word": "DM"
+            },
+            {
+              "start": 26.22,
+              "end": 26.66,
+              "word": "Grove"
+            },
+            {
+              "start": 26.66,
+              "end": 26.88,
+              "word": "for"
+            },
+            {
+              "start": 26.88,
+              "end": 26.94,
+              "word": "the"
+            },
+            {
+              "start": 26.94,
+              "end": 27.24,
+              "word": "blueprint."
+            }
+          ]
+        }
+      ]
+    },
+    "beats": {
+      "tempoBpm": 78.3,
+      "beatTimes": [
+        0.093,
+        0.906,
+        1.741,
+        2.531,
+        3.367,
+        4.156,
+        4.969,
+        5.689,
+        6.478,
+        7.268,
+        7.988,
+        8.824,
+        9.636,
+        10.426,
+        11.169,
+        11.935,
+        12.632,
+        13.375,
+        14.141,
+        14.93,
+        15.557,
+        16.347,
+        17.16,
+        17.903,
+        18.646,
+        19.365,
+        20.062,
+        20.805,
+        21.618,
+        22.407,
+        23.313,
+        24.172,
+        24.938,
+        25.635,
+        26.401,
+        27.121,
+        27.957
+      ],
+      "onsetTimes": [
+        0.07,
+        0.348,
+        0.65,
+        0.882,
+        1.138,
+        1.231,
+        1.37,
+        1.602,
+        1.741,
+        1.881,
+        1.927,
+        2.113,
+        2.276,
+        2.485,
+        2.67,
+        2.902,
+        3.088,
+        3.344,
+        3.669,
+        3.785,
+        4.133,
+        4.226,
+        4.458,
+        4.644,
+        4.783,
+        4.899,
+        4.969,
+        5.062,
+        5.317,
+        5.433,
+        5.666,
+        5.759,
+        5.944,
+        6.293,
+        6.362,
+        6.502,
+        6.618,
+        6.711,
+        6.85,
+        7.059,
+        7.245,
+        7.361,
+        7.407,
+        7.5,
+        7.57,
+        7.941,
+        8.127,
+        8.266,
+        8.661,
+        8.824,
+        8.87,
+        9.149,
+        9.497,
+        9.636,
+        9.892,
+        10.426,
+        10.612,
+        10.797,
+        10.913,
+        11.006,
+        11.146,
+        11.331,
+        11.494,
+        11.587,
+        11.726,
+        11.935,
+        12.028,
+        12.074,
+        12.19,
+        12.376,
+        12.492,
+        12.632,
+        12.725,
+        12.864,
+        12.98,
+        13.305,
+        13.375,
+        13.514,
+        13.584,
+        13.723,
+        13.978,
+        14.118,
+        14.257,
+        14.559,
+        14.93,
+        15.023,
+        15.232,
+        15.534,
+        15.859,
+        15.999,
+        16.324,
+        16.579,
+        16.742,
+        16.858,
+        16.974,
+        17.09,
+        17.16,
+        17.252,
+        17.485,
+        17.624,
+        17.81,
+        17.879,
+        17.926,
+        18.367,
+        18.437,
+        18.646,
+        18.762,
+        18.831,
+        18.971,
+        19.18,
+        19.342,
+        19.412,
+        19.574,
+        19.737,
+        19.992,
+        20.062,
+        20.271,
+        20.457,
+        20.503,
+        20.782,
+        20.968,
+        21.2,
+        21.362,
+        21.409,
+        21.595,
+        21.757,
+        21.92,
+        22.152,
+        22.245,
+        22.384,
+        22.616,
+        22.848,
+        23.15,
+        23.29,
+        23.452,
+        23.754,
+        24.009,
+        24.149,
+        24.358,
+        24.474,
+        24.938,
+        25.054,
+        25.17,
+        25.403,
+        25.612,
+        25.844,
+        26.006,
+        26.378,
+        26.633,
+        26.796,
+        26.912,
+        27.121,
+        27.26,
+        27.492,
+        27.725,
+        27.957
+      ]
+    },
+    "transitions": {
+      "transitions": [
+        {
+          "atSec": 2.633,
+          "kind": "hard",
+          "maxDelta": 47.1
+        },
+        {
+          "atSec": 4.9,
+          "kind": "hard",
+          "maxDelta": 57.6
+        },
+        {
+          "atSec": 6.133,
+          "kind": "hard",
+          "maxDelta": 80.4
+        },
+        {
+          "atSec": 8.867,
+          "kind": "hard",
+          "maxDelta": 35.7
+        },
+        {
+          "atSec": 11.7,
+          "kind": "hard",
+          "maxDelta": 100.7
+        },
+        {
+          "atSec": 14.933,
+          "kind": "hard",
+          "maxDelta": 162.2
+        },
+        {
+          "atSec": 17.467,
+          "kind": "hard",
+          "maxDelta": 154.5
+        },
+        {
+          "atSec": 20.567,
+          "kind": "hard",
+          "maxDelta": 153.5
+        },
+        {
+          "atSec": 21.9,
+          "kind": "motion",
+          "maxDelta": 27.4
+        },
+        {
+          "atSec": 24.067,
+          "kind": "motion",
+          "maxDelta": 34.1
+        },
+        {
+          "atSec": 25.0,
+          "kind": "hard",
+          "maxDelta": 42.4
+        },
+        {
+          "atSec": 25.733,
+          "kind": "hard",
+          "maxDelta": 146.9
+        }
+      ],
+      "counts": {
+        "hard": 10,
+        "fade": 0,
+        "motion": 2
+      }
+    }
+  },
+  {
+    "dir": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin994451161484829882",
+    "absDir": "/Users/manoshranjan/new leads/video-edit/style-analysis/preproc/From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin994451161484829882",
+    "meta": {
+      "file": "From Klickpin.com- Luxury Clean Girl Makeup Looks to Refresh Your Routine-pin-id-994451161484829882.mp4",
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin994451161484829882",
+      "meta": {
+        "duration": 26.303991,
+        "fps": 30.0,
+        "width": 720,
+        "height": 1280,
+        "hasAudio": true
+      },
+      "shotCount": 7,
+      "keyframes": [
+        "shot_00.jpg",
+        "shot_01.jpg",
+        "shot_02.jpg",
+        "shot_03.jpg",
+        "shot_04.jpg",
+        "shot_05.jpg",
+        "shot_06.jpg"
+      ],
+      "hookFrames": [
+        "hook_01.jpg",
+        "hook_02.jpg",
+        "hook_03.jpg",
+        "hook_04.jpg",
+        "hook_05.jpg",
+        "hook_06.jpg",
+        "hook_07.jpg",
+        "hook_08.jpg",
+        "hook_09.jpg",
+        "hook_10.jpg"
+      ],
+      "transcript": true,
+      "beats": true,
+      "transitions": {
+        "hard": 6,
+        "fade": 0,
+        "motion": 0
+      },
+      "pacing": {
+        "binSec": 3.0,
+        "cutsPerBin": [
+          0,
+          2,
+          0,
+          0,
+          0,
+          1,
+          1,
+          2
+        ],
+        "cutsPerSec": [
+          0.0,
+          0.667,
+          0.0,
+          0.0,
+          0.0,
+          0.333,
+          0.333,
+          0.667
+        ]
+      }
+    },
+    "shots": [
+      {
+        "index": 0,
+        "startSec": 0.0,
+        "endSec": 4.933,
+        "durationSec": 4.933
+      },
+      {
+        "index": 1,
+        "startSec": 4.933,
+        "endSec": 5.533,
+        "durationSec": 0.6
+      },
+      {
+        "index": 2,
+        "startSec": 5.533,
+        "endSec": 16.6,
+        "durationSec": 11.067
+      },
+      {
+        "index": 3,
+        "startSec": 16.6,
+        "endSec": 19.233,
+        "durationSec": 2.633
+      },
+      {
+        "index": 4,
+        "startSec": 19.233,
+        "endSec": 21.333,
+        "durationSec": 2.1
+      },
+      {
+        "index": 5,
+        "startSec": 21.333,
+        "endSec": 25.733,
+        "durationSec": 4.4
+      },
+      {
+        "index": 6,
+        "startSec": 25.733,
+        "endSec": 26.3,
+        "durationSec": 0.567
+      }
+    ],
+    "transcript": {
+      "language": "en",
+      "text": "Done with noisy marketing? Too many promises. No real growth. Time to rethink. Time to rebuild. We don't chase trends. We create momentum. We turn brands into experiences and businesses into category leaders. No shortcuts. No compromises. Just results that speak.",
+      "segments": [
+        {
+          "start": 0.0,
+          "end": 1.26,
+          "text": "Done with noisy marketing?",
+          "words": [
+            {
+              "start": 0.0,
+              "end": 0.28,
+              "word": "Done"
+            },
+            {
+              "start": 0.28,
+              "end": 0.48,
+              "word": "with"
+            },
+            {
+              "start": 0.48,
+              "end": 0.72,
+              "word": "noisy"
+            },
+            {
+              "start": 0.72,
+              "end": 1.26,
+              "word": "marketing?"
+            }
+          ]
+        },
+        {
+          "start": 2.14,
+          "end": 3.0,
+          "text": "Too many promises.",
+          "words": [
+            {
+              "start": 2.14,
+              "end": 2.3,
+              "word": "Too"
+            },
+            {
+              "start": 2.3,
+              "end": 2.5,
+              "word": "many"
+            },
+            {
+              "start": 2.5,
+              "end": 3.0,
+              "word": "promises."
+            }
+          ]
+        },
+        {
+          "start": 3.64,
+          "end": 4.46,
+          "text": "No real growth.",
+          "words": [
+            {
+              "start": 3.64,
+              "end": 3.68,
+              "word": "No"
+            },
+            {
+              "start": 3.68,
+              "end": 3.9,
+              "word": "real"
+            },
+            {
+              "start": 3.9,
+              "end": 4.46,
+              "word": "growth."
+            }
+          ]
+        },
+        {
+          "start": 5.12,
+          "end": 5.9,
+          "text": "Time to rethink.",
+          "words": [
+            {
+              "start": 5.12,
+              "end": 5.34,
+              "word": "Time"
+            },
+            {
+              "start": 5.34,
+              "end": 5.6,
+              "word": "to"
+            },
+            {
+              "start": 5.6,
+              "end": 5.9,
+              "word": "rethink."
+            }
+          ]
+        },
+        {
+          "start": 6.5,
+          "end": 7.34,
+          "text": "Time to rebuild.",
+          "words": [
+            {
+              "start": 6.5,
+              "end": 6.7,
+              "word": "Time"
+            },
+            {
+              "start": 6.7,
+              "end": 6.98,
+              "word": "to"
+            },
+            {
+              "start": 6.98,
+              "end": 7.34,
+              "word": "rebuild."
+            }
+          ]
+        },
+        {
+          "start": 8.36,
+          "end": 9.58,
+          "text": "We don't chase trends.",
+          "words": [
+            {
+              "start": 8.36,
+              "end": 8.46,
+              "word": "We"
+            },
+            {
+              "start": 8.46,
+              "end": 8.68,
+              "word": "don't"
+            },
+            {
+              "start": 8.68,
+              "end": 8.94,
+              "word": "chase"
+            },
+            {
+              "start": 8.94,
+              "end": 9.58,
+              "word": "trends."
+            }
+          ]
+        },
+        {
+          "start": 10.04,
+          "end": 11.04,
+          "text": "We create momentum.",
+          "words": [
+            {
+              "start": 10.04,
+              "end": 10.2,
+              "word": "We"
+            },
+            {
+              "start": 10.2,
+              "end": 10.5,
+              "word": "create"
+            },
+            {
+              "start": 10.5,
+              "end": 11.04,
+              "word": "momentum."
+            }
+          ]
+        },
+        {
+          "start": 11.94,
+          "end": 13.6,
+          "text": "We turn brands into experiences",
+          "words": [
+            {
+              "start": 11.94,
+              "end": 12.06,
+              "word": "We"
+            },
+            {
+              "start": 12.06,
+              "end": 12.3,
+              "word": "turn"
+            },
+            {
+              "start": 12.3,
+              "end": 12.7,
+              "word": "brands"
+            },
+            {
+              "start": 12.7,
+              "end": 12.96,
+              "word": "into"
+            },
+            {
+              "start": 12.96,
+              "end": 13.6,
+              "word": "experiences"
+            }
+          ]
+        },
+        {
+          "start": 14.16,
+          "end": 16.06,
+          "text": "and businesses into category leaders.",
+          "words": [
+            {
+              "start": 14.02,
+              "end": 14.38,
+              "word": "and"
+            },
+            {
+              "start": 14.38,
+              "end": 14.82,
+              "word": "businesses"
+            },
+            {
+              "start": 14.82,
+              "end": 15.22,
+              "word": "into"
+            },
+            {
+              "start": 15.22,
+              "end": 15.58,
+              "word": "category"
+            },
+            {
+              "start": 15.58,
+              "end": 16.06,
+              "word": "leaders."
+            }
+          ]
+        },
+        {
+          "start": 16.78,
+          "end": 17.38,
+          "text": "No shortcuts.",
+          "words": [
+            {
+              "start": 16.78,
+              "end": 16.96,
+              "word": "No"
+            },
+            {
+              "start": 16.96,
+              "end": 17.38,
+              "word": "shortcuts."
+            }
+          ]
+        },
+        {
+          "start": 18.02,
+          "end": 18.94,
+          "text": "No compromises.",
+          "words": [
+            {
+              "start": 18.02,
+              "end": 18.26,
+              "word": "No"
+            },
+            {
+              "start": 18.26,
+              "end": 18.94,
+              "word": "compromises."
+            }
+          ]
+        },
+        {
+          "start": 19.7,
+          "end": 21.0,
+          "text": "Just results that speak.",
+          "words": [
+            {
+              "start": 19.7,
+              "end": 19.94,
+              "word": "Just"
+            },
+            {
+              "start": 19.94,
+              "end": 20.32,
+              "word": "results"
+            },
+            {
+              "start": 20.32,
+              "end": 20.64,
+              "word": "that"
+            },
+            {
+              "start": 20.64,
+              "end": 21.0,
+              "word": "speak."
+            }
+          ]
+        }
+      ]
+    },
+    "beats": {
+      "tempoBpm": 112.3,
+      "beatTimes": [
+        0.093,
+        0.58,
+        1.045,
+        1.533,
+        2.02,
+        2.508,
+        3.019,
+        3.529,
+        4.017,
+        4.528,
+        5.039,
+        5.642,
+        6.2,
+        6.757,
+        7.338,
+        7.872,
+        8.406,
+        8.986,
+        9.52,
+        10.077,
+        10.565,
+        11.076,
+        11.564,
+        12.051,
+        12.608,
+        13.142,
+        13.677,
+        14.187,
+        14.698,
+        15.232,
+        15.766,
+        16.347,
+        16.904,
+        17.485,
+        18.019,
+        18.553,
+        19.087,
+        19.667,
+        20.271,
+        20.852,
+        21.409,
+        21.943,
+        22.477,
+        23.011,
+        23.545,
+        24.079,
+        24.613
+      ],
+      "onsetTimes": [
+        0.07,
+        0.302,
+        0.58,
+        0.789,
+        0.929,
+        1.022,
+        2.113,
+        2.322,
+        2.508,
+        2.763,
+        3.019,
+        3.506,
+        3.692,
+        3.762,
+        3.901,
+        4.203,
+        4.435,
+        4.853,
+        5.039,
+        5.224,
+        5.341,
+        5.433,
+        5.642,
+        5.805,
+        6.037,
+        6.432,
+        6.734,
+        6.803,
+        6.92,
+        7.129,
+        7.338,
+        7.5,
+        7.825,
+        8.382,
+        8.475,
+        8.638,
+        8.847,
+        8.986,
+        9.381,
+        10.077,
+        10.194,
+        10.356,
+        10.519,
+        10.681,
+        10.867,
+        11.215,
+        11.401,
+        11.587,
+        11.935,
+        12.051,
+        12.33,
+        12.399,
+        12.655,
+        12.817,
+        12.98,
+        13.142,
+        13.189,
+        13.514,
+        13.746,
+        14.164,
+        14.373,
+        14.838,
+        15.023,
+        15.139,
+        15.209,
+        15.673,
+        15.766,
+        15.975,
+        16.788,
+        16.904,
+        17.02,
+        17.229,
+        17.299,
+        17.461,
+        17.833,
+        17.995,
+        18.158,
+        18.39,
+        18.669,
+        18.831,
+        19.087,
+        19.249,
+        19.644,
+        19.923,
+        20.062,
+        20.248,
+        20.41,
+        20.526,
+        20.735,
+        20.944,
+        21.223,
+        21.409,
+        21.571,
+        21.757,
+        21.943,
+        22.105,
+        22.291,
+        22.477,
+        22.639,
+        22.825,
+        23.011,
+        23.359,
+        23.545,
+        23.708,
+        23.893,
+        24.079,
+        24.265,
+        24.427,
+        24.613,
+        24.776,
+        24.961,
+        25.147,
+        25.333,
+        25.681
+      ]
+    },
+    "transitions": {
+      "transitions": [
+        {
+          "atSec": 4.933,
+          "kind": "hard",
+          "maxDelta": 59.5
+        },
+        {
+          "atSec": 5.533,
+          "kind": "hard",
+          "maxDelta": 183.0
+        },
+        {
+          "atSec": 16.6,
+          "kind": "hard",
+          "maxDelta": 64.4
+        },
+        {
+          "atSec": 19.233,
+          "kind": "hard",
+          "maxDelta": 64.0
+        },
+        {
+          "atSec": 21.333,
+          "kind": "hard",
+          "maxDelta": 68.0
+        },
+        {
+          "atSec": 25.733,
+          "kind": "hard",
+          "maxDelta": 250.0
+        }
+      ],
+      "counts": {
+        "hard": 6,
+        "fade": 0,
+        "motion": 0
+      }
+    }
+  }
+]

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face {
+        font-family: "InterBlack";
+        src: url("../fonts/Inter_28pt-Black.ttf") format("truetype");
+        font-weight: 900;
+      }
+      @font-face {
+        font-family: "AstonScript";
+        src: url("../fonts/Aston Script.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "Garamond";
+        src: url("../fonts/AppleGaramond.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "GaramondBold";
+        src: url("../fonts/AppleGaramond-Bold.ttf") format("truetype");
+        font-weight: 700;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        margin: 0;
+        width: 1080px;
+        height: 1920px;
+        overflow: hidden;
+        background: #f4ede0;
+        background-image:
+          radial-gradient(ellipse at top left, rgba(0,0,0,0.06) 0%, transparent 60%),
+          radial-gradient(ellipse at bottom right, rgba(0,0,0,0.08) 0%, transparent 55%);
+      }
+      .grain {
+        position: absolute; inset: 0;
+        background-image:
+          repeating-linear-gradient(0deg, rgba(0,0,0,0.025) 0 1px, transparent 1px 3px),
+          repeating-linear-gradient(90deg, rgba(0,0,0,0.025) 0 1px, transparent 1px 3px);
+        mix-blend-mode: multiply; pointer-events: none;
+      }
+      .stack {
+        position: absolute; inset: 0;
+        display: flex; flex-direction: column;
+        align-items: center; justify-content: center;
+        text-align: center;
+        padding: 0 80px;
+      }
+      .kicker {
+        font-family: "InterBlack", sans-serif;
+        font-size: 60px; letter-spacing: 8px;
+        color: #161514;
+        text-transform: uppercase;
+      }
+      .number {
+        font-family: "GaramondBold", serif;
+        font-size: 720px; line-height: 0.85;
+        color: #161514;
+        margin-top: -20px;
+      }
+      .accent {
+        font-family: "AstonScript", cursive;
+        font-size: 220px; line-height: 1;
+        color: #d44b2b;
+        margin-top: -120px;
+        transform: rotate(-6deg);
+      }
+      .stamp {
+        font-family: "InterBlack", sans-serif;
+        font-size: 36px; letter-spacing: 4px;
+        color: #161514;
+        text-transform: uppercase;
+        margin-top: 40px;
+        padding: 12px 22px;
+        border: 4px solid #161514;
+      }
+      .arrow {
+        position: absolute;
+        bottom: 240px; left: 50%;
+        transform: translateX(-50%);
+        font-family: "InterBlack"; font-size: 96px; color: #d44b2b;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="intro"
+      data-start="0"
+      data-duration="1.5"
+      data-width="1080"
+      data-height="1920"
+    >
+      <div class="grain"></div>
+      <div class="stack">
+        <div id="kicker" class="clip" data-start="0" data-duration="1.5" data-track-index="1">DAY</div>
+        <div id="number" class="clip" data-start="0" data-duration="1.5" data-track-index="2">9</div>
+        <div id="accent" class="clip" data-start="0" data-duration="1.5" data-track-index="3">of many</div>
+        <div id="stamp"  class="clip" data-start="0" data-duration="1.5" data-track-index="4">21 DAYS</div>
+      </div>
+      <div id="arrow" class="clip" data-start="0" data-duration="1.5" data-track-index="5">↓</div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      tl.from("#kicker", { opacity: 0, y: -40, duration: 0.18, ease: "power3.out" }, 0)
+        .from("#number", { opacity: 0, scale: 0.7, duration: 0.22, ease: "back.out(2)" }, 0.06)
+        .from("#accent", { opacity: 0, rotation: -20, duration: 0.28, ease: "power3.out" }, 0.18)
+        .from("#stamp",  { opacity: 0, y: 30, duration: 0.18, ease: "power3.out" }, 0.30)
+        .from("#arrow",  { opacity: 0, y: -20, duration: 0.18, ease: "power3.out" }, 0.42)
+        .to("#arrow",   { y: 14, duration: 0.4, repeat: 2, yoyo: true, ease: "sine.inOut" }, 0.6);
+      window.__timelines["intro"] = tl;
+    </script>
+  </body>
+</html>

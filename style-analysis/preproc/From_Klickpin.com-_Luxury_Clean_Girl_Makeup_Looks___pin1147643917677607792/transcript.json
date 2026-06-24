@@ -1,0 +1,456 @@
+{
+  "language": "en",
+  "text": "Alex Hormozis $100 million book is not his hook. You see the bold text, the simple set, the billion dollar man. He uses motion to create information density. The visual hits your eye before the word hits your ear. It's not decoration. It is a pacing tool. He forces your brain to process two signals at once. You don't need his budget. You need his engineering and the system behind it. DM Grove for the blueprint.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.76,
+      "text": "Alex Hormozis $100 million book is not his hook.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.4,
+          "word": "Alex"
+        },
+        {
+          "start": 0.4,
+          "end": 1.2,
+          "word": "Hormozis"
+        },
+        {
+          "start": 1.2,
+          "end": 1.78,
+          "word": "$100"
+        },
+        {
+          "start": 1.78,
+          "end": 2.46,
+          "word": "million"
+        },
+        {
+          "start": 2.46,
+          "end": 3.12,
+          "word": "book"
+        },
+        {
+          "start": 3.12,
+          "end": 3.54,
+          "word": "is"
+        },
+        {
+          "start": 3.54,
+          "end": 3.96,
+          "word": "not"
+        },
+        {
+          "start": 3.96,
+          "end": 4.46,
+          "word": "his"
+        },
+        {
+          "start": 4.46,
+          "end": 4.76,
+          "word": "hook."
+        }
+      ]
+    },
+    {
+      "start": 4.96,
+      "end": 8.58,
+      "text": "You see the bold text, the simple set, the billion dollar man.",
+      "words": [
+        {
+          "start": 4.96,
+          "end": 5.16,
+          "word": "You"
+        },
+        {
+          "start": 5.16,
+          "end": 5.32,
+          "word": "see"
+        },
+        {
+          "start": 5.32,
+          "end": 5.52,
+          "word": "the"
+        },
+        {
+          "start": 5.52,
+          "end": 5.74,
+          "word": "bold"
+        },
+        {
+          "start": 5.74,
+          "end": 6.2,
+          "word": "text,"
+        },
+        {
+          "start": 6.38,
+          "end": 6.52,
+          "word": "the"
+        },
+        {
+          "start": 6.52,
+          "end": 6.74,
+          "word": "simple"
+        },
+        {
+          "start": 6.74,
+          "end": 7.18,
+          "word": "set,"
+        },
+        {
+          "start": 7.48,
+          "end": 7.6,
+          "word": "the"
+        },
+        {
+          "start": 7.6,
+          "end": 7.88,
+          "word": "billion"
+        },
+        {
+          "start": 7.88,
+          "end": 8.26,
+          "word": "dollar"
+        },
+        {
+          "start": 8.26,
+          "end": 8.58,
+          "word": "man."
+        }
+      ]
+    },
+    {
+      "start": 8.84,
+      "end": 11.64,
+      "text": "He uses motion to create information density.",
+      "words": [
+        {
+          "start": 8.84,
+          "end": 8.98,
+          "word": "He"
+        },
+        {
+          "start": 8.98,
+          "end": 9.28,
+          "word": "uses"
+        },
+        {
+          "start": 9.28,
+          "end": 9.8,
+          "word": "motion"
+        },
+        {
+          "start": 9.8,
+          "end": 10.04,
+          "word": "to"
+        },
+        {
+          "start": 10.04,
+          "end": 10.44,
+          "word": "create"
+        },
+        {
+          "start": 10.44,
+          "end": 10.98,
+          "word": "information"
+        },
+        {
+          "start": 10.98,
+          "end": 11.64,
+          "word": "density."
+        }
+      ]
+    },
+    {
+      "start": 12.08,
+      "end": 14.88,
+      "text": "The visual hits your eye before the word hits your ear.",
+      "words": [
+        {
+          "start": 12.08,
+          "end": 12.22,
+          "word": "The"
+        },
+        {
+          "start": 12.22,
+          "end": 12.52,
+          "word": "visual"
+        },
+        {
+          "start": 12.52,
+          "end": 12.8,
+          "word": "hits"
+        },
+        {
+          "start": 12.8,
+          "end": 13.1,
+          "word": "your"
+        },
+        {
+          "start": 13.1,
+          "end": 13.3,
+          "word": "eye"
+        },
+        {
+          "start": 13.3,
+          "end": 13.54,
+          "word": "before"
+        },
+        {
+          "start": 13.54,
+          "end": 13.78,
+          "word": "the"
+        },
+        {
+          "start": 13.78,
+          "end": 14.04,
+          "word": "word"
+        },
+        {
+          "start": 14.04,
+          "end": 14.32,
+          "word": "hits"
+        },
+        {
+          "start": 14.32,
+          "end": 14.62,
+          "word": "your"
+        },
+        {
+          "start": 14.62,
+          "end": 14.88,
+          "word": "ear."
+        }
+      ]
+    },
+    {
+      "start": 15.08,
+      "end": 16.04,
+      "text": "It's not decoration.",
+      "words": [
+        {
+          "start": 15.08,
+          "end": 15.28,
+          "word": "It's"
+        },
+        {
+          "start": 15.28,
+          "end": 15.52,
+          "word": "not"
+        },
+        {
+          "start": 15.52,
+          "end": 16.04,
+          "word": "decoration."
+        }
+      ]
+    },
+    {
+      "start": 16.36,
+      "end": 17.52,
+      "text": "It is a pacing tool.",
+      "words": [
+        {
+          "start": 16.36,
+          "end": 16.46,
+          "word": "It"
+        },
+        {
+          "start": 16.46,
+          "end": 16.68,
+          "word": "is"
+        },
+        {
+          "start": 16.68,
+          "end": 16.84,
+          "word": "a"
+        },
+        {
+          "start": 16.84,
+          "end": 17.14,
+          "word": "pacing"
+        },
+        {
+          "start": 17.14,
+          "end": 17.52,
+          "word": "tool."
+        }
+      ]
+    },
+    {
+      "start": 17.76,
+      "end": 20.6,
+      "text": "He forces your brain to process two signals at once.",
+      "words": [
+        {
+          "start": 17.76,
+          "end": 17.82,
+          "word": "He"
+        },
+        {
+          "start": 17.82,
+          "end": 18.04,
+          "word": "forces"
+        },
+        {
+          "start": 18.04,
+          "end": 18.42,
+          "word": "your"
+        },
+        {
+          "start": 18.42,
+          "end": 18.62,
+          "word": "brain"
+        },
+        {
+          "start": 18.62,
+          "end": 18.88,
+          "word": "to"
+        },
+        {
+          "start": 18.88,
+          "end": 19.24,
+          "word": "process"
+        },
+        {
+          "start": 19.24,
+          "end": 19.7,
+          "word": "two"
+        },
+        {
+          "start": 19.7,
+          "end": 20.02,
+          "word": "signals"
+        },
+        {
+          "start": 20.02,
+          "end": 20.32,
+          "word": "at"
+        },
+        {
+          "start": 20.32,
+          "end": 20.6,
+          "word": "once."
+        }
+      ]
+    },
+    {
+      "start": 20.78,
+      "end": 22.0,
+      "text": "You don't need his budget.",
+      "words": [
+        {
+          "start": 20.78,
+          "end": 20.94,
+          "word": "You"
+        },
+        {
+          "start": 20.94,
+          "end": 21.16,
+          "word": "don't"
+        },
+        {
+          "start": 21.16,
+          "end": 21.38,
+          "word": "need"
+        },
+        {
+          "start": 21.38,
+          "end": 21.62,
+          "word": "his"
+        },
+        {
+          "start": 21.62,
+          "end": 22.0,
+          "word": "budget."
+        }
+      ]
+    },
+    {
+      "start": 22.28,
+      "end": 25.72,
+      "text": "You need his engineering and the system behind it.",
+      "words": [
+        {
+          "start": 22.28,
+          "end": 22.38,
+          "word": "You"
+        },
+        {
+          "start": 22.38,
+          "end": 22.7,
+          "word": "need"
+        },
+        {
+          "start": 22.7,
+          "end": 23.2,
+          "word": "his"
+        },
+        {
+          "start": 23.2,
+          "end": 23.54,
+          "word": "engineering"
+        },
+        {
+          "start": 23.54,
+          "end": 24.34,
+          "word": "and"
+        },
+        {
+          "start": 24.34,
+          "end": 24.46,
+          "word": "the"
+        },
+        {
+          "start": 24.46,
+          "end": 24.88,
+          "word": "system"
+        },
+        {
+          "start": 24.88,
+          "end": 25.3,
+          "word": "behind"
+        },
+        {
+          "start": 25.3,
+          "end": 25.72,
+          "word": "it."
+        }
+      ]
+    },
+    {
+      "start": 25.98,
+      "end": 27.24,
+      "text": "DM Grove for the blueprint.",
+      "words": [
+        {
+          "start": 25.98,
+          "end": 26.22,
+          "word": "DM"
+        },
+        {
+          "start": 26.22,
+          "end": 26.66,
+          "word": "Grove"
+        },
+        {
+          "start": 26.66,
+          "end": 26.88,
+          "word": "for"
+        },
+        {
+          "start": 26.88,
+          "end": 26.94,
+          "word": "the"
+        },
+        {
+          "start": 26.94,
+          "end": 27.24,
+          "word": "blueprint."
+        }
+      ]
+    }
+  ]
+}

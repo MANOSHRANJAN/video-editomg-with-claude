@@ -1,0 +1,14 @@
+{
+  "transitions": [
+    {
+      "atSec": 14.0,
+      "kind": "hard",
+      "maxDelta": 78.1
+    }
+  ],
+  "counts": {
+    "hard": 1,
+    "fade": 0,
+    "motion": 0
+  }
+}

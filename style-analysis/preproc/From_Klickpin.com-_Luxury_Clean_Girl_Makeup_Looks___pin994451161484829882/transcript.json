@@ -1,0 +1,295 @@
+{
+  "language": "en",
+  "text": "Done with noisy marketing? Too many promises. No real growth. Time to rethink. Time to rebuild. We don't chase trends. We create momentum. We turn brands into experiences and businesses into category leaders. No shortcuts. No compromises. Just results that speak.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.26,
+      "text": "Done with noisy marketing?",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.28,
+          "word": "Done"
+        },
+        {
+          "start": 0.28,
+          "end": 0.48,
+          "word": "with"
+        },
+        {
+          "start": 0.48,
+          "end": 0.72,
+          "word": "noisy"
+        },
+        {
+          "start": 0.72,
+          "end": 1.26,
+          "word": "marketing?"
+        }
+      ]
+    },
+    {
+      "start": 2.14,
+      "end": 3.0,
+      "text": "Too many promises.",
+      "words": [
+        {
+          "start": 2.14,
+          "end": 2.3,
+          "word": "Too"
+        },
+        {
+          "start": 2.3,
+          "end": 2.5,
+          "word": "many"
+        },
+        {
+          "start": 2.5,
+          "end": 3.0,
+          "word": "promises."
+        }
+      ]
+    },
+    {
+      "start": 3.64,
+      "end": 4.46,
+      "text": "No real growth.",
+      "words": [
+        {
+          "start": 3.64,
+          "end": 3.68,
+          "word": "No"
+        },
+        {
+          "start": 3.68,
+          "end": 3.9,
+          "word": "real"
+        },
+        {
+          "start": 3.9,
+          "end": 4.46,
+          "word": "growth."
+        }
+      ]
+    },
+    {
+      "start": 5.12,
+      "end": 5.9,
+      "text": "Time to rethink.",
+      "words": [
+        {
+          "start": 5.12,
+          "end": 5.34,
+          "word": "Time"
+        },
+        {
+          "start": 5.34,
+          "end": 5.6,
+          "word": "to"
+        },
+        {
+          "start": 5.6,
+          "end": 5.9,
+          "word": "rethink."
+        }
+      ]
+    },
+    {
+      "start": 6.5,
+      "end": 7.34,
+      "text": "Time to rebuild.",
+      "words": [
+        {
+          "start": 6.5,
+          "end": 6.7,
+          "word": "Time"
+        },
+        {
+          "start": 6.7,
+          "end": 6.98,
+          "word": "to"
+        },
+        {
+          "start": 6.98,
+          "end": 7.34,
+          "word": "rebuild."
+        }
+      ]
+    },
+    {
+      "start": 8.36,
+      "end": 9.58,
+      "text": "We don't chase trends.",
+      "words": [
+        {
+          "start": 8.36,
+          "end": 8.46,
+          "word": "We"
+        },
+        {
+          "start": 8.46,
+          "end": 8.68,
+          "word": "don't"
+        },
+        {
+          "start": 8.68,
+          "end": 8.94,
+          "word": "chase"
+        },
+        {
+          "start": 8.94,
+          "end": 9.58,
+          "word": "trends."
+        }
+      ]
+    },
+    {
+      "start": 10.04,
+      "end": 11.04,
+      "text": "We create momentum.",
+      "words": [
+        {
+          "start": 10.04,
+          "end": 10.2,
+          "word": "We"
+        },
+        {
+          "start": 10.2,
+          "end": 10.5,
+          "word": "create"
+        },
+        {
+          "start": 10.5,
+          "end": 11.04,
+          "word": "momentum."
+        }
+      ]
+    },
+    {
+      "start": 11.94,
+      "end": 13.6,
+      "text": "We turn brands into experiences",
+      "words": [
+        {
+          "start": 11.94,
+          "end": 12.06,
+          "word": "We"
+        },
+        {
+          "start": 12.06,
+          "end": 12.3,
+          "word": "turn"
+        },
+        {
+          "start": 12.3,
+          "end": 12.7,
+          "word": "brands"
+        },
+        {
+          "start": 12.7,
+          "end": 12.96,
+          "word": "into"
+        },
+        {
+          "start": 12.96,
+          "end": 13.6,
+          "word": "experiences"
+        }
+      ]
+    },
+    {
+      "start": 14.16,
+      "end": 16.06,
+      "text": "and businesses into category leaders.",
+      "words": [
+        {
+          "start": 14.02,
+          "end": 14.38,
+          "word": "and"
+        },
+        {
+          "start": 14.38,
+          "end": 14.82,
+          "word": "businesses"
+        },
+        {
+          "start": 14.82,
+          "end": 15.22,
+          "word": "into"
+        },
+        {
+          "start": 15.22,
+          "end": 15.58,
+          "word": "category"
+        },
+        {
+          "start": 15.58,
+          "end": 16.06,
+          "word": "leaders."
+        }
+      ]
+    },
+    {
+      "start": 16.78,
+      "end": 17.38,
+      "text": "No shortcuts.",
+      "words": [
+        {
+          "start": 16.78,
+          "end": 16.96,
+          "word": "No"
+        },
+        {
+          "start": 16.96,
+          "end": 17.38,
+          "word": "shortcuts."
+        }
+      ]
+    },
+    {
+      "start": 18.02,
+      "end": 18.94,
+      "text": "No compromises.",
+      "words": [
+        {
+          "start": 18.02,
+          "end": 18.26,
+          "word": "No"
+        },
+        {
+          "start": 18.26,
+          "end": 18.94,
+          "word": "compromises."
+        }
+      ]
+    },
+    {
+      "start": 19.7,
+      "end": 21.0,
+      "text": "Just results that speak.",
+      "words": [
+        {
+          "start": 19.7,
+          "end": 19.94,
+          "word": "Just"
+        },
+        {
+          "start": 19.94,
+          "end": 20.32,
+          "word": "results"
+        },
+        {
+          "start": 20.32,
+          "end": 20.64,
+          "word": "that"
+        },
+        {
+          "start": 20.64,
+          "end": 21.0,
+          "word": "speak."
+        }
+      ]
+    }
+  ]
+}

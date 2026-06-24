@@ -1,0 +1,6 @@
+# Reference reels — one URL per line. Used by analyze.py if no args given.
+https://www.instagram.com/reel/DZaRmD9A9eF/
+https://www.instagram.com/reel/DZkm24Bg3VH/
+https://www.instagram.com/reel/DZm-i1_AfNR/
+https://www.instagram.com/reel/C09P6JMLD4d/
+https://www.instagram.com/reel/DUidwtCgAXX/

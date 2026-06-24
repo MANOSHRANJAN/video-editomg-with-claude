@@ -1,0 +1,39 @@
+{
+  "transitions": [
+    {
+      "atSec": 4.933,
+      "kind": "hard",
+      "maxDelta": 59.5
+    },
+    {
+      "atSec": 5.533,
+      "kind": "hard",
+      "maxDelta": 183.0
+    },
+    {
+      "atSec": 16.6,
+      "kind": "hard",
+      "maxDelta": 64.4
+    },
+    {
+      "atSec": 19.233,
+      "kind": "hard",
+      "maxDelta": 64.0
+    },
+    {
+      "atSec": 21.333,
+      "kind": "hard",
+      "maxDelta": 68.0
+    },
+    {
+      "atSec": 25.733,
+      "kind": "hard",
+      "maxDelta": 250.0
+    }
+  ],
+  "counts": {
+    "hard": 6,
+    "fade": 0,
+    "motion": 0
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "language": "en",
+  "text": "AI is everywhere. Your phone, AI power, art, AI creates this in seconds. Driving, AI sees roads better than humans, healthcare, AI saves lives. Are you ready for an AI future? In addition, you can find food $10,000 and an AI serves as an AI's save.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.38,
+      "text": "AI is everywhere. Your phone, AI power, art, AI creates this in seconds.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.72,
+          "word": "AI"
+        },
+        {
+          "start": 0.72,
+          "end": 1.14,
+          "word": "is"
+        },
+        {
+          "start": 1.14,
+          "end": 1.6,
+          "word": "everywhere."
+        },
+        {
+          "start": 2.18,
+          "end": 2.34,
+          "word": "Your"
+        },
+        {
+          "start": 2.34,
+          "end": 2.88,
+          "word": "phone,"
+        },
+        {
+          "start": 3.48,
+          "end": 3.86,
+          "word": "AI"
+        },
+        {
+          "start": 3.86,
+          "end": 4.42,
+          "word": "power,"
+        },
+        {
+          "start": 5.34,
+          "end": 5.66,
+          "word": "art,"
+        },
+        {
+          "start": 6.56,
+          "end": 6.98,
+          "word": "AI"
+        },
+        {
+          "start": 6.98,
+          "end": 7.38,
+          "word": "creates"
+        },
+        {
+          "start": 7.38,
+          "end": 7.7,
+          "word": "this"
+        },
+        {
+          "start": 7.7,
+          "end": 7.88,
+          "word": "in"
+        },
+        {
+          "start": 7.88,
+          "end": 8.38,
+          "word": "seconds."
+        }
+      ]
+    },
+    {
+      "start": 9.08,
+      "end": 15.36,
+      "text": "Driving, AI sees roads better than humans, healthcare, AI saves lives.",
+      "words": [
+        {
+          "start": 9.08,
+          "end": 9.36,
+          "word": "Driving,"
+        },
+        {
+          "start": 10.3,
+          "end": 10.72,
+          "word": "AI"
+        },
+        {
+          "start": 10.72,
+          "end": 11.02,
+          "word": "sees"
+        },
+        {
+          "start": 11.02,
+          "end": 11.28,
+          "word": "roads"
+        },
+        {
+          "start": 11.28,
+          "end": 11.56,
+          "word": "better"
+        },
+        {
+          "start": 11.56,
+          "end": 11.76,
+          "word": "than"
+        },
+        {
+          "start": 11.76,
+          "end": 12.16,
+          "word": "humans,"
+        },
+        {
+          "start": 12.82,
+          "end": 13.12,
+          "word": "healthcare,"
+        },
+        {
+          "start": 14.1,
+          "end": 14.58,
+          "word": "AI"
+        },
+        {
+          "start": 14.58,
+          "end": 14.82,
+          "word": "saves"
+        },
+        {
+          "start": 14.82,
+          "end": 15.36,
+          "word": "lives."
+        }
+      ]
+    },
+    {
+      "start": 16.08,
+      "end": 17.94,
+      "text": "Are you ready for an AI future?",
+      "words": [
+        {
+          "start": 16.08,
+          "end": 16.18,
+          "word": "Are"
+        },
+        {
+          "start": 16.18,
+          "end": 16.38,
+          "word": "you"
+        },
+        {
+          "start": 16.38,
+          "end": 16.62,
+          "word": "ready"
+        },
+        {
+          "start": 16.62,
+          "end": 16.9,
+          "word": "for"
+        },
+        {
+          "start": 16.9,
+          "end": 17.14,
+          "word": "an"
+        },
+        {
+          "start": 17.14,
+          "end": 17.48,
+          "word": "AI"
+        },
+        {
+          "start": 17.48,
+          "end": 17.94,
+          "word": "future?"
+        }
+      ]
+    },
+    {
+      "start": 17.94,
+      "end": 21.14,
+      "text": "In addition, you can find food $10,000 and an AI serves as an AI's save.",
+      "words": [
+        {
+          "start": 17.94,
+          "end": 18.56,
+          "word": "In"
+        },
+        {
+          "start": 18.56,
+          "end": 18.78,
+          "word": "addition,"
+        },
+        {
+          "start": 19.56,
+          "end": 19.98,
+          "word": "you"
+        },
+        {
+          "start": 19.98,
+          "end": 19.98,
+          "word": "can"
+        },
+        {
+          "start": 19.98,
+          "end": 20.0,
+          "word": "find"
+        },
+        {
+          "start": 20.0,
+          "end": 20.34,
+          "word": "food"
+        },
+        {
+          "start": 20.34,
+          "end": 20.44,
+          "word": "$10"
+        },
+        {
+          "start": 20.44,
+          "end": 20.6,
+          "word": ",000"
+        },
+        {
+          "start": 20.6,
+          "end": 20.6,
+          "word": "and"
+        },
+        {
+          "start": 20.6,
+          "end": 20.6,
+          "word": "an"
+        },
+        {
+          "start": 20.6,
+          "end": 20.84,
+          "word": "AI"
+        },
+        {
+          "start": 20.84,
+          "end": 21.14,
+          "word": "serves"
+        },
+        {
+          "start": 21.14,
+          "end": 21.14,
+          "word": "as"
+        },
+        {
+          "start": 21.14,
+          "end": 21.14,
+          "word": "an"
+        },
+        {
+          "start": 21.14,
+          "end": 21.14,
+          "word": "AI's"
+        },
+        {
+          "start": 21.14,
+          "end": 21.14,
+          "word": "save."
+        }
+      ]
+    }
+  ]
+}

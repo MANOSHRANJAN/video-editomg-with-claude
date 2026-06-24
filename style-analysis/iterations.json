@@ -1,0 +1,81 @@
+{
+  "basedOn": "Cached editorial profile from agent ae4e4792 (ScholarLogic AI reel) + transcripts of remaining 5 references. Will be replaced when full synthesis lands.",
+  "commonPattern": {
+    "duration": "15-25s vertical 9:16",
+    "shotStrategy": "1-2 long static visuals carried by kinetic typography, OR 8-15 hard cuts on AI-generated b-roll",
+    "captionStyle": "Word-by-word kinetic typography, top-third center, condensed black sans (Inter ExtraBold), per-word reveals timed to TTS/voiceover",
+    "highlightStyle": "Single most-emphasized word in Aston Script (cursive accent) with color/scale shift",
+    "watermark": "Persistent bottom-left brand bug across every frame",
+    "transitions": "100% hard cuts. No fades. Occasional 0.4s black flash as punctuation",
+    "voiceover": "Synthetic-style TTS or punchy declarative human voice. Short rhetorical question CTA",
+    "music": "120-140bpm cinematic riser or punchy beat, vine-boom on hook reveal, whoosh on cuts",
+    "lut": "Cinematic celluloid (CELLULOID_01_FU_LOW.cube) for warmth + slight desaturation"
+  },
+  "iterations": [
+    {
+      "id": "v1",
+      "title": "Hook-Statement-CTA (15s)",
+      "duration": 15,
+      "hookFormula": "[BIG WORD reveal at t=0] → [supporting context @ 1.5s] → [problem @ 4s] → [solution @ 8s] → [CTA question @ 12s]",
+      "captions": [
+        {"tokens": [{"text": "AI", "highlight": false}, {"text": "is", "highlight": false}, {"text": "everywhere", "highlight": true}], "startSec": 0, "durationSec": 2.2, "position": "top"},
+        {"tokens": [{"text": "your", "highlight": false}, {"text": "phone,", "highlight": false}, {"text": "your", "highlight": false}, {"text": "feed,", "highlight": false}, {"text": "your", "highlight": false}, {"text": "decisions", "highlight": true}], "startSec": 2.4, "durationSec": 4, "position": "top"},
+        {"tokens": [{"text": "most", "highlight": false}, {"text": "people", "highlight": false}, {"text": "ignore", "highlight": false}, {"text": "it.", "highlight": true}], "startSec": 7, "durationSec": 3.5, "position": "top"},
+        {"tokens": [{"text": "are", "highlight": false}, {"text": "you", "highlight": false}, {"text": "ready?", "highlight": true}], "startSec": 11.5, "durationSec": 3, "position": "top"}
+      ],
+      "sfx": [
+        {"file": "vine-boom.mp3", "atSec": 0.3, "role": "hook impact"},
+        {"file": "transition-whoosh.mp3", "atSec": 2.4, "role": "shot transition"},
+        {"file": "transition-whoosh.mp3", "atSec": 7, "role": "shot transition"},
+        {"file": "popular-riser-metallic-sound-effect.mp3", "atSec": 9, "role": "build to CTA"}
+      ],
+      "pexelsKeywords": ["smartphone scroll", "person typing laptop", "city night neon", "office abstract"]
+    },
+    {
+      "id": "v2",
+      "title": "Problem-Agitation-Solution (20s)",
+      "duration": 20,
+      "hookFormula": "[Question hook @ 0s] → [pain detail @ 2s] → [agitate @ 6s] → [reveal @ 11s] → [proof beat @ 15s] → [CTA @ 18s]",
+      "captions": [
+        {"tokens": [{"text": "done", "highlight": false}, {"text": "with", "highlight": false}, {"text": "noisy", "highlight": true}, {"text": "marketing?", "highlight": false}], "startSec": 0, "durationSec": 2.5, "position": "top"},
+        {"tokens": [{"text": "too", "highlight": false}, {"text": "many", "highlight": false}, {"text": "promises.", "highlight": true}], "startSec": 2.8, "durationSec": 2.5, "position": "top"},
+        {"tokens": [{"text": "no", "highlight": false}, {"text": "real", "highlight": false}, {"text": "growth.", "highlight": true}], "startSec": 5.5, "durationSec": 2.5, "position": "top"},
+        {"tokens": [{"text": "time", "highlight": false}, {"text": "to", "highlight": false}, {"text": "rethink.", "highlight": true}], "startSec": 8.2, "durationSec": 2.5, "position": "top"},
+        {"tokens": [{"text": "powerful", "highlight": false}, {"text": "campaigns,", "highlight": false}, {"text": "real", "highlight": false}, {"text": "results.", "highlight": true}], "startSec": 11, "durationSec": 4, "position": "top"},
+        {"tokens": [{"text": "DM", "highlight": false}, {"text": "us", "highlight": true}], "startSec": 16.5, "durationSec": 3, "position": "bottom"}
+      ],
+      "sfx": [
+        {"file": "vine-boom.mp3", "atSec": 0.3, "role": "hook impact"},
+        {"file": "transition-whoosh.mp3", "atSec": 2.8, "role": "transition"},
+        {"file": "transition-whoosh.mp3", "atSec": 5.5, "role": "transition"},
+        {"file": "transition-whoosh.mp3", "atSec": 8.2, "role": "transition"},
+        {"file": "cinematic-orchestral-hit.mp3", "atSec": 11, "role": "solution reveal"},
+        {"file": "youtube-subscribe-and-like-bell-sound.mp3", "atSec": 16.5, "role": "CTA bell"}
+      ],
+      "pexelsKeywords": ["frustrated person desk", "stock chart down", "team meeting whiteboard", "celebration confetti"]
+    },
+    {
+      "id": "v3",
+      "title": "Authority Drop (18s)",
+      "duration": 18,
+      "hookFormula": "[Big number/name hook @ 0s] → [context @ 2s] → [insight @ 5s] → [contrarian take @ 9s] → [lesson @ 13s] → [follow CTA @ 16s]",
+      "captions": [
+        {"tokens": [{"text": "Warren", "highlight": false}, {"text": "Buffett", "highlight": false}, {"text": "has", "highlight": false}, {"text": "$381B", "highlight": true}], "startSec": 0, "durationSec": 2.5, "position": "top"},
+        {"tokens": [{"text": "more", "highlight": false}, {"text": "than", "highlight": false}, {"text": "most", "highlight": false}, {"text": "countries.", "highlight": true}], "startSec": 2.8, "durationSec": 2.5, "position": "top"},
+        {"tokens": [{"text": "he's", "highlight": false}, {"text": "not", "highlight": false}, {"text": "buying.", "highlight": true}], "startSec": 5.5, "durationSec": 2.8, "position": "top"},
+        {"tokens": [{"text": "ask", "highlight": false}, {"text": "yourself", "highlight": false}, {"text": "why.", "highlight": true}], "startSec": 8.5, "durationSec": 3.5, "position": "top"},
+        {"tokens": [{"text": "patience", "highlight": false}, {"text": "is", "highlight": false}, {"text": "the", "highlight": false}, {"text": "strategy.", "highlight": true}], "startSec": 12.5, "durationSec": 3, "position": "top"},
+        {"tokens": [{"text": "follow", "highlight": false}, {"text": "for", "highlight": false}, {"text": "more", "highlight": true}], "startSec": 16, "durationSec": 2, "position": "bottom"}
+      ],
+      "sfx": [
+        {"file": "cinematic-orchestral-hit.mp3", "atSec": 0.2, "role": "authority hook"},
+        {"file": "transition-whoosh.mp3", "atSec": 2.8, "role": "transition"},
+        {"file": "vine-boom.mp3", "atSec": 5.5, "role": "punch on contrarian"},
+        {"file": "clock-tick.mp3", "atSec": 8.5, "role": "tension under question"},
+        {"file": "popular-riser-metallic-sound-effect.mp3", "atSec": 12, "role": "build to lesson"},
+        {"file": "youtube-subscribe-and-like-bell-sound.mp3", "atSec": 16, "role": "CTA bell"}
+      ],
+      "pexelsKeywords": ["wall street trading floor", "stock chart", "hourglass time", "city skyline aerial"]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "language": "en",
+  "text": "The way people look at you says more than just attention, but in the end, the looks won't matter, only your results will.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "The way people look at you says more than just attention, but in the end, the looks won't matter, only your results will.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.3,
+          "word": "The"
+        },
+        {
+          "start": 0.3,
+          "end": 0.44,
+          "word": "way"
+        },
+        {
+          "start": 0.44,
+          "end": 0.68,
+          "word": "people"
+        },
+        {
+          "start": 0.68,
+          "end": 0.88,
+          "word": "look"
+        },
+        {
+          "start": 0.88,
+          "end": 1.04,
+          "word": "at"
+        },
+        {
+          "start": 1.04,
+          "end": 1.16,
+          "word": "you"
+        },
+        {
+          "start": 1.16,
+          "end": 1.36,
+          "word": "says"
+        },
+        {
+          "start": 1.36,
+          "end": 1.54,
+          "word": "more"
+        },
+        {
+          "start": 1.54,
+          "end": 1.72,
+          "word": "than"
+        },
+        {
+          "start": 1.72,
+          "end": 1.88,
+          "word": "just"
+        },
+        {
+          "start": 1.88,
+          "end": 2.24,
+          "word": "attention,"
+        },
+        {
+          "start": 2.68,
+          "end": 2.8,
+          "word": "but"
+        },
+        {
+          "start": 2.8,
+          "end": 2.92,
+          "word": "in"
+        },
+        {
+          "start": 2.92,
+          "end": 3.14,
+          "word": "the"
+        },
+        {
+          "start": 3.14,
+          "end": 3.48,
+          "word": "end,"
+        },
+        {
+          "start": 3.6,
+          "end": 3.7,
+          "word": "the"
+        },
+        {
+          "start": 3.7,
+          "end": 3.94,
+          "word": "looks"
+        },
+        {
+          "start": 3.94,
+          "end": 4.2,
+          "word": "won't"
+        },
+        {
+          "start": 4.2,
+          "end": 4.5,
+          "word": "matter,"
+        },
+        {
+          "start": 4.8,
+          "end": 4.92,
+          "word": "only"
+        },
+        {
+          "start": 4.92,
+          "end": 5.14,
+          "word": "your"
+        },
+        {
+          "start": 5.14,
+          "end": 5.42,
+          "word": "results"
+        },
+        {
+          "start": 5.42,
+          "end": 5.76,
+          "word": "will."
+        }
+      ]
+    }
+  ]
+}

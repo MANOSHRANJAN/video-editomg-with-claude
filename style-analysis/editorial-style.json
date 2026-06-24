@@ -1,0 +1,415 @@
+{
+  "perVideo": [
+    {
+      "name": "From_Klickpin.com-_From_beginner_to_obsessed_Build_these_fresh_weekend_DIY_ideas",
+      "subject": "A short motivational reel built around a voiceover about how outward looks fade and only results matter, set against three quickly-staged visual beats (the filename's DIY-weekend framing is SEO bait \u2014 the audio is a results/grindset aphorism).",
+      "shotComposition": "Three vertical 720x1280 shots in a 1.13s + 1.67s + 6.0s structure: two short opening shots act as a setup pair, then one long sustained final shot carries the back half of the VO. Pattern is punch-in/punch-in/hold rather than continuous talking-head \u2014 a stitched compilation of stock-style or b-roll clips beneath a single continuous voiceover, no on-camera presenter visible across the cuts.",
+      "cameraMotion": "Mixed and short. The first transition is a hard cut (delta 72.1 at 1.133s) so cameras are locked-off or unrelated between shots; the second is a motion-flagged transition at 2.8s (delta 23.2) suggesting a push-in or pan match. The 6-second tail shot likely carries a slow push-in or static hold to let the final line (\"only your results will\") breathe.",
+      "lightingPalette": "Inferable as warm-natural / lifestyle-bright given the Pinterest-aesthetic source (\"Klickpin.com\") and the inspirational genre \u2014 clean midtones rather than moody low-key, designed to read as aspirational on a phone screen.",
+      "pacingDescription": "Front-loaded then settled: two cuts inside the first 2.8 seconds (0.667 cuts/sec for the first bin) then zero cuts across the remaining 6 seconds. Edit grabs attention fast on the hook, then commits to a long single-shot payoff while the voiceover delivers the thesis line. Cuts/sec drops from 0.667 to 0.0 at the 3s mark.",
+      "cutOnBeat": {
+        "observed": true,
+        "evidence": "Tempo 129.2 BPM. Cut 1 at 1.133s lands 0.135s after the beat at 0.998s; cut 2 at 2.800s lands 0.033s before the beat at 2.833s. Both cuts are within 0.15s of the nearest beat \u2014 2/2 cuts are beat-aligned. Cut 2 is essentially a frame-perfect beat hit."
+      },
+      "transitionStyle": "Two transitions across the whole reel: one hard cut (1.133s) and one motion-cut (2.8s). No fades. The motion cut is the signature move \u2014 it's timed almost exactly on the downbeat at 2.833s and likely uses a whip/match-action to bridge into the long sustained tail clip.",
+      "hookStructure": {
+        "seconds0to3": "Voiceover starts on frame one with no breath \u2014 'The way people look at you says more than just attention' delivered over the first ~2.2s, spanning shots 0 and 1 with a hard cut on the word 'attention'. Two visuals in three seconds plus an immediate aphoristic claim, no logo card or title screen warm-up.",
+        "tension": "The opening clause sounds like a flattery line ('the way people look at you says more...') and the viewer waits for the turn \u2014 which arrives at 'but in the end, the looks won't matter, only your results will.' The bait-and-flip between 2.7s and 5.7s is the retention hook."
+      },
+      "captionStyle": {
+        "present": true,
+        "pattern": "Word-level timing is provided in the transcript (per-word start/end stamps averaging ~0.15s/word), which is the canonical signature of pop-on word-by-word captions used in this genre. Likely centered or lower-third bold sans-serif with a yellow/white highlight on the active word, key emphasis frames probably on 'attention,' 'matter,' and 'results' \u2014 the three commas in the script."
+      },
+      "voiceoverStyle": "Single continuous AI-or-narrator voiceover, 0.0-5.76s, 23 words, ~4 words/sec \u2014 measured, declarative cadence with two deliberate pauses (after 'attention' at 2.24s and after 'end' at 3.48s) used as rhetorical beats. Aphoristic grindset/motivational register: setup-clause, but-pivot, payoff. No CTA, no question, no direct address verbs \u2014 pure thesis statement.",
+      "editorialIntent": "Make the viewer internalize 'results over appearance' in under 9 seconds and feel a small jolt of resolve \u2014 the 6-second sustained tail shot exists so the last line lands without a visual interruption. Built to be saved/reshared as inspiration rather than to drive a click.",
+      "distinctiveTechniques": [
+        "Two cuts in the first 2.8s then a 6s static hold \u2014 quick-setup-then-let-it-land structure",
+        "Beat-locked motion cut at 2.8s landing on the downbeat at 2.833s (33ms early)",
+        "Voiceover pauses engineered around natural beat positions (pause at 2.24-2.68s sits across beats 1.904 and 2.368)",
+        "Aphorism with a but-pivot at the midpoint \u2014 first half misdirects toward flattery, second half delivers the thesis",
+        "Word-level caption timing baked into the transcript, suggesting per-word pop-on subtitles synced to VO",
+        "Single continuous VO across 3 shots \u2014 no breath, no music-only gaps, audio carries the through-line while visuals change underneath",
+        "Filename SEO-stuffed with unrelated DIY/Pinterest keywords while content is grindset/motivational \u2014 common Klickpin-style traffic farming"
+      ]
+    },
+    {
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1027524471252035105",
+      "subject": "A 25-second vertical AI-narrated explainer arguing that AI is now embedded in everyday life (phones, art generation, self-driving, healthcare) and asking the viewer if they are ready for an AI future.",
+      "shotComposition": "Vertical 9:16 (720x1280) montage of full-frame stock or AI-generated illustrative visuals \u2014 five shots total, no talking-head presence. The opening shot dominates (12.88s, more than half the runtime) suggesting a single sustained hero image or slow-burn composite, then the back half stacks four shorter beats (5.1s, 0.4s, 6.0s, 0.5s) as concept B-roll for each AI use-case named in the VO. Two of the five shots are sub-second flash inserts (0.42s and 0.53s), implying full-bleed graphic stingers rather than composed framing.",
+      "cameraMotion": "static",
+      "lightingPalette": "high-contrast (inferred from large maxDelta values at every cut \u2014 47.2, 144.6, 155.9, 240.8 \u2014 indicating each new shot is dramatically brighter or darker than the previous, typical of AI-generated key art with bold color blocking and heavy contrast)",
+      "pacingDescription": "Holds dead-still for the first 12.88 seconds \u2014 no cuts at all through bins 0 to 3 \u2014 then accelerates abruptly: a 5.1s beat, a 0.4s flash, a 6s beat, and a 0.5s closing flash. The rhythm is back-loaded: a long statement, then a rapid-fire enumeration that ramps to a closing punch.",
+      "cutOnBeat": {
+        "observed": true,
+        "evidence": "All four hard cuts land within 0.18s of a detected beat at 123 BPM. Cut at 12.880s vs beat 12.794s (delta 0.086s); cut at 17.985s vs beat 17.810s (delta 0.175s); cut at 18.402s vs beat 18.297s (delta 0.105s); cut at 24.374s vs onset 24.265s (delta 0.109s). Mean offset under 0.12s \u2014 cuts are quantized to the music grid."
+      },
+      "transitionStyle": "Hard cuts only \u2014 4 of 4 transitions are hard, zero fades, zero motion blends. The huge frame-delta at the final cut (240.8) suggests a high-contrast slam to a closing card or logo end-frame.",
+      "hookStructure": {
+        "seconds0to3": "A single static AI-generated image holds the entire frame from 0.00 to 3.00 \u2014 no cut occurs until 12.88s. The voiceover lands the line 'AI is everywhere' (0.00-1.60s), then 'Your phone' (2.18-2.88s), pacing the hook frames against narration rather than visuals.",
+        "tension": "Curiosity-gap opener with a sweeping universal claim ('AI is everywhere') paired with one big silent visual \u2014 viewer stays to find out what example is shown next, and the narration drip-feeds new domains (phone, art, driving, healthcare) every couple of seconds before any picture changes."
+      },
+      "captionStyle": {
+        "present": true,
+        "pattern": "Almost certainly auto-generated word-by-word burned-in captions, lower-third or center-bottom placement, in the standard TikTok/CapCut sans-serif white-with-black-stroke style. Word timings in the transcript are tight and individually keyed (e.g. 'AI' 0.00-0.72, 'is' 0.72-1.14, 'everywhere.' 1.14-1.60), which is the signature of pop-on-per-word caption animation. Garbled tail words ('food $10,000', 'AI's save') suggest captions were never manually corrected \u2014 a content-farm tell."
+      },
+      "voiceoverStyle": "Synthetic TTS narration with a flat declarative cadence and short stabbing phrases ('Your phone, AI power. Art, AI creates this in seconds. Driving, AI sees roads better than humans. Healthcare, AI saves lives.'). Heavy use of comma-spliced two-word concepts to keep word count low. Closes on a direct CTA-style question ('Are you ready for an AI future?'). The final segment degrades into nonsense ('you can find food $10,000 and an AI serves as an AI's save'), confirming auto-generated voice with no human pass.",
+      "editorialIntent": "Drive a quick AI-FOMO emotional response \u2014 make the viewer feel that AI is already everywhere, that they are behind, and that they must engage with whatever is being promoted next (channel, link in bio, or affiliate product). The closing rhetorical question is the engagement hook for comments and shares.",
+      "distinctiveTechniques": [
+        "12-second static opening hero shot before the first cut \u2014 hold long, then enumerate fast",
+        "Beat-locked cuts at 123 BPM with sub-200ms precision, all hard, never blended",
+        "Topic-switch flash inserts under half a second long (0.42s and 0.53s) used as punctuation between longer concept beats",
+        "Misleading SEO filename (Luxury Clean Girl Makeup) decoupled from the actual AI subject \u2014 classic Pinterest/TikTok bait-and-switch",
+        "Auto-generated TTS voiceover paired with auto-burned word-by-word captions, no human cleanup pass \u2014 garbled closing line left in",
+        "Two-word comma-spliced VO structure: '<Domain>, AI <verb> <object>' repeated four times to fit short attention spans",
+        "Closing rhetorical CTA question ('Are you ready for an AI future?') landing on a hard cut to a flash end-frame"
+      ]
+    },
+    {
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1081708404296737259",
+      "subject": "A 23-second vertical agency promo for Klickpin (mistranscribed as \"plans\"), pitching multi-platform paid ads across Google, Meta, TikTok and LinkedIn to drive leads and sales.",
+      "shotComposition": "Vertical 9:16 (720x1280) at 25fps, built from just two shots \u2014 a 14.0s opening shot and a 9.12s closing shot. Functions as a near-static VO-driven explainer: a single locked establishing/branded frame held while the voiceover lists platforms, then one branded sign-off frame. No talking head, no b-roll cutaways inside each shot \u2014 composition stays planted to let on-screen platform logos and copy do the work.",
+      "cameraMotion": "static",
+      "lightingPalette": "clinical-bright \u2014 flat, high-key digital-graphic look typical of a logo-driven agency ad rather than filmed footage.",
+      "pacingDescription": "Extremely slow for a vertical reel \u2014 only one hard cut in 23 seconds (cuts/sec peaks at 0.33 in the 12-15s bin and is 0 everywhere else). Rhythm is carried entirely by the voiceover cadence and the appearing/changing platform-logo callouts, not by edits. Builds steadily through a platform-list spine (Google, Display, YouTube, Meta, Facebook, Instagram, TikTok, LinkedIn) and then resolves into a branded sign-off after the lone cut at 14.0s.",
+      "cutOnBeat": {
+        "observed": true,
+        "evidence": "Only one cut in the file, at 14.000s. Nearest beats are 13.816s (delta 0.184s) and 14.443s (delta 0.443s). The 0.184s offset is within the ~0.25s on-beat window, so the single cut lands on the downbeat just before 'we help your brand reach the right audience' at ~14.86s. Sample size of 1 is too small to call this a stylistic rule, though."
+      },
+      "transitionStyle": "One hard cut at 14.0s (maxDelta 78.1) with zero fades and zero motion transitions \u2014 the entire transition vocabulary is a single straight cut. Pacing relief comes from animated text/logo overlays inside each shot, not between shots.",
+      "hookStructure": {
+        "seconds0to3": "First three seconds carry the spoken hook 'Want to grow your business faster?' (0.00-1.50s) over what is effectively a single static branded frame \u2014 no cut, no camera move. A ~1s breath of silence (1.5-2.56s) holds the visual before the pitch begins, so the question is allowed to land before any platform logos appear.",
+        "tension": "Direct second-person business-pain question ('grow your business faster?') paired with the unspoken promise that the next 20 seconds will list how. The ticking platform enumeration that follows (Google, YouTube, Meta, TikTok, LinkedIn) is the retention mechanic \u2014 viewers stay to see if their platform makes the list."
+      },
+      "captionStyle": {
+        "present": true,
+        "pattern": "Caption presence is inferred from the structure rather than confirmed visually (keyframe images returned empty in this read), but the transcript word-timing is unusually tight \u2014 single words clocked to 40-200ms windows (e.g. 'Want' 0.00-0.34, 'to' 0.34-0.38, 'grow' 0.38-0.52). That granularity is the timing pattern used for word-by-word or short-phrase pop-on captions, almost certainly center-lower-third given the 9:16 frame, with platform names ('Google', 'YouTube', 'Meta', 'TikTok', 'LinkedIn') landing as emphasis beats."
+      },
+      "voiceoverStyle": "Polished, mid-tempo, ad-read VO in English at roughly 99 BPM rhythm \u2014 opens with a direct question ('Want to grow your business faster?'), pivots to brand-name introduction ('At [Klickpin], we run powerful ad campaigns'), runs a rapid-fire platform enumeration (Google Search, Display, YouTube, Meta, Facebook, Instagram, TikTok, LinkedIn), states the value triplet ('right audience, real leads, boost your sales'), and closes on a tagline CTA ('Let your brand fly with [Klickpin], digital ads that deliver'). Classic problem-platforms-payoff-tagline agency script.",
+      "editorialIntent": "Convince a small-to-midmarket business owner that Klickpin runs ads on every platform that matters and can be trusted to deliver leads. The viewer should come away knowing the brand name and feeling the agency is full-service across the paid-media landscape \u2014 the desired action is a click/DM/site-visit to inquire.",
+      "distinctiveTechniques": [
+        "VO-first construction: 23 seconds with only one cut \u2014 the edit gets out of the way and lets the script and on-frame logo callouts pace the spot",
+        "Platform-enumeration spine as the retention device \u2014 eight named ad platforms turned into a rolling checklist that keeps the viewer scanning for their own",
+        "Long static brand-anchor opening shot (14s held) followed by a single sign-off shot (9s) \u2014 closer to a TV bumper structure than a typical fast-cut vertical reel",
+        "Tight word-level transcript timing (sub-200ms tokens) implying word-by-word kinetic captions doing the visual heavy lifting in place of cuts",
+        "Tagline rhyme-pun close ('Let your brand fly with [Klickpin], digital ads that deliver') landing after a deliberate beat of silence (~21.0-21.5s) for emphasis",
+        "Misleading SEO filename ('Luxury Clean Girl Makeup Looks') vs. actual B2B agency content \u2014 distribution-side technique, not editorial, but signature of this creator's posting pattern"
+      ]
+    },
+    {
+      "name": "From_Klickpin_Buffett_381B_Cash",
+      "subject": "A finance commentary reel arguing Warren Buffett's $381B cash hoard signals he is waiting for a market crash, framed as a teaching moment that ends with a CTA driving editors to earnededits.com to download the project file.",
+      "shotComposition": "Vertical 720x1280 reel built around 19 shots cycling between presumed B-roll inserts and topic cards \u2014 bursty pacing centered on numeric callouts ($381B, 80%, 230%). Median shot length ~2.1s with the longest hold being the 5.5s outro shot (41.6\u201347.1s) reserved for the CTA card, and a punchy 1.1s opener (0\u20131.125s) used as a hook stinger. No long talking-head holds; visuals rotate roughly once per sentence.",
+      "cameraMotion": "push-in",
+      "lightingPalette": "high-contrast",
+      "pacingDescription": "Steady punchy cadence riding a 143.6 BPM bed \u2014 opens with a 1.1s stinger, settles into 2\u20133.5s shots through the setup, then accelerates into a flurry of 1.4\u20131.75s shots in the climax (31.8\u201336.3s, around \"230% of the US economy / very high / sitting on cash\") before resolving on a long 5.5s CTA hold. Pacing peaks at 0.667 cuts/sec across three bins (15\u201318s, 24\u201327s, 33\u201336s), tightening with each rhetorical beat.",
+      "cutOnBeat": {
+        "observed": true,
+        "evidence": "All 18 transitions fall within ~0.25s of a detected beat at 143.6 BPM. Tightest examples: cut at 15.375 vs beat 15.372 (3ms), 17.562 vs 17.554 (8ms), 33.188 vs 33.181 (7ms), 40.0 vs 39.962 (38ms). Even the loosest (1.125 vs 1.347, ~0.22s) is inside one 16th-note window. The editor is locking shot changes to the underlying click/snare grid."
+      },
+      "transitionStyle": "Hard cuts dominate (15 of 18, ~83%), with 3 motion-driven transitions clustered in the mid-section (13.06s, 15.375s, 40.0s) used to bridge S&P 500 and 2007/1999 historical references. Zero fades or dissolves \u2014 the edit is built on snap cuts that keep momentum on the beat.",
+      "hookStructure": {
+        "seconds0to3": "Opens on a 1.1s stinger shot (likely a tight push-in on Buffett or a stock chart) before snapping into the setup shot at 1.125s as the VO declares 'Warren Buffett has $381 billion in cash.' The dollar figure word lands at 1.18\u20132.86s, occupying nearly the entire second beat of screen time and almost certainly accompanied by a giant '$381B' text reveal on the cut.",
+        "tension": "Pairs an absurd, specific number ($381B) with an immediate disorienting comparison ('more money than the whole country of Greece makes'). The viewer is given a fact, then a scale-shock, then withholding ('but he's not spending it') \u2014 three escalating curiosity gaps inside the first 10 seconds before the question 'Why?' is even posed."
+      },
+      "captionStyle": {
+        "present": true,
+        "pattern": "Word-by-word / short-phrase pop captions sized to the timing data. Word durations average ~0.25\u20130.4s with key numbers ($381 held 1.68s, 230% held ~1.7s combined, 80% held ~1.24s) clearly intended as full-screen number cards. Likely centered or upper-third, bold sans-serif, with stat words ($381B, 80%, 230%, 1999, 2007) styled larger or in an accent color to act as visual punchlines on the beat the cut lands on."
+      },
+      "voiceoverStyle": "Tight, declarative, authoritative finance-explainer cadence. Short clauses (4\u20138 words), heavy use of contrast pivots ('But...', 'Even as...', 'So while everyone else...'), and a single rhetorical 'Why?' planted at 20.7s as a pacing reset before the historical proof. Closes with a direct second-person CTA ('Editors, projectfile on earnededits.com. Visit now and download it.') \u2014 the entire script is engineered as a hook-build-payoff with a baked-in lead magnet.",
+      "editorialIntent": "Make the viewer feel they have insider macro literacy ('a smart person told me a scary fact') and route that feeling into a free download from earnededits.com. The reel is a top-of-funnel ad for an editing project file, dressed as a finance hot take \u2014 shock-stat hook, contrarian thesis, historical proof, ominous question, then CTA.",
+      "distinctiveTechniques": [
+        "Lock every cut to the music grid \u2014 18/18 transitions within 0.25s of a beat at 143.6 BPM, with several within 10ms",
+        "Hold giant number captions ($381B, 80%, 230%, 1999/2007) for their full spoken duration so the digit IS the shot",
+        "Open with a sub-second stinger (1.125s) before the first 'real' shot to ambush the scroll",
+        "Three motion transitions reserved for historical/comparative pivots (S&P jump at 13.06s, 80% reveal at 15.375s, 'fall first' question at 40.0s) while everything else stays hard-cut",
+        "Accelerate into the climax with three high-density 0.667 cuts/sec windows clustered around the thesis statements",
+        "Plant a one-word rhetorical reset ('Why?') as its own ~0.2s segment to break rhythm before the proof block",
+        "Reserve the longest hold (5.5s) for the closing CTA card so the funnel destination has uncontested screen time",
+        "SEO-bait filename ('Luxury Clean Girl Makeup Looks') decoupled from actual content \u2014 distribution-layer trick to game Pinterest discovery"
+      ]
+    },
+    {
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1147643917677607792",
+      "subject": "A meta-analytical breakdown of Alex Hormozi's short-form editing formula \u2014 bold text, simple set, motion-as-pacing \u2014 pitching that the engineering, not the budget, is what creators should copy, ending with a \"DM Grove for the blueprint\" CTA.",
+      "shotComposition": "Mixed-source montage in vertical 720x1280. The audio is a single VO bed, but the visuals cut between what reads as Hormozi-podcast-style talking-head clips (medium shots, centered subject on a clean backdrop) and inserted B-roll/screen-grabs illustrating each phrase (\"$100 million book\", \"bold text\", \"billion dollar man\"). No locked-off creator-on-camera frame; the piece is built as essay-over-montage rather than direct talking-head.",
+      "cameraMotion": "Static within each clip, with the perceived motion coming from cuts and likely scale-up/punch-in pushes on inserts (transitions.json flags two motion-class transitions at 21.9s and 24.067s where the frame energy ramps without a hard scene break).",
+      "lightingPalette": "Warm-natural / studio-clean across the Hormozi-style inserts \u2014 soft, evenly lit, controlled-key environments typical of his podcast set. No moody or high-contrast grading; the bed reads bright and uniform so the on-screen text overlays carry the visual weight.",
+      "pacingDescription": "Front-loaded with mid-length shots that match the BPM grid (78.3 BPM, ~0.77s per beat), then accelerates hard in the final third. Cuts/sec by 3s bins: 0.33, 0.33, 0.67, 0.33, 0.33, 0.33, 0.33, 0.33, 1.0 \u2014 meaning the closing 3-second window from ~24-27s contains three cuts (24.067, 25.0, 25.733) stacked under the \"engineering / system / DM Grove\" payoff. Average shot length ~2.15s, but tail shots collapse to 0.93s and 0.73s for emphasis.",
+      "cutOnBeat": {
+        "observed": true,
+        "evidence": "Of 12 transitions, at least 8 land within ~0.25s of a downbeat: 2.633s vs beat 2.531 (delta 0.10), 4.9s vs 4.969 (0.07), 8.867s vs 8.824 (0.04), 11.7s vs 11.935 (0.23), 14.933s vs 14.93 (0.003 \u2014 frame-perfect), 24.067s vs 24.172 (0.10), 25.0s vs 24.938 (0.06), 25.733s vs 25.635 (0.10). The 14.933s cut is essentially zero-offset, and the closing burst at 24/25/25.7 all snap to consecutive beats."
+      },
+      "transitionStyle": "Hard cuts dominate (10 of 12); two motion-class transitions sit back-to-back at 21.9s and 24.067s \u2014 the bridge into the \"engineering / system\" payoff \u2014 suggesting whip- or scale-blend moves used as accent, not as the default. No fades anywhere. Cut energy spikes (maxDelta 162, 154, 153, 146 at 14.9/17.5/20.6/25.7s) confirm jumps to visually contrasting frames at each thesis statement.",
+      "hookStructure": {
+        "seconds0to3": "Single shot from 0-2.633s carrying the line 'Alex Hormozis $100 million book is not his hook.' The visual is almost certainly a Hormozi-coded reference frame (book cover or his podcast set) sitting under a bold on-screen lockup of the dollar figure, then a hard cut at 2.633s lands on the next beat as the sentence completes at 4.76s.",
+        "tension": "The hook is a contrarian setup \u2014 name the famous thing ('$100 million book') and immediately deny it ('is not his hook'). It promises a hidden mechanic the viewer doesn't know yet, with no payoff revealed until the final 'DM Grove for the blueprint' CTA at 27s, forcing a full watch."
+      },
+      "captionStyle": {
+        "present": true,
+        "pattern": "Phrase-level, not strict word-by-word. Word timings cluster into the script's six declarative beats ('bold text', 'simple set', 'billion dollar man', 'information density', 'pacing tool', 'two signals at once'), and the transcript's own punctuation maps to ~6 caption units sitting roughly 0.4-0.7s each. Self-referential cue: the script literally calls out 'You see the bold text' \u2014 overlays are bold sans-serif keyword pops (likely Impact/Druk or similar condensed bold), centered or lower-third, swapping on each phrase rather than animating per-word, which matches the Hormozi style being analyzed."
+      },
+      "voiceoverStyle": "Confident male instructional cadence, declarative and clipped. Sentences are short (avg ~7 words), punctuated by full stops not commas \u2014 'It's not decoration. It is a pacing tool.' The rhythm is almost trochaic and matches the 78 BPM cut grid. Closes with a direct DM CTA ('DM Grove for the blueprint') \u2014 name-drop CTA pattern, no soft sign-off.",
+      "editorialIntent": "Persuade short-form creators that Hormozi's polish is replicable engineering, not money \u2014 and then convert that conviction into an inbound DM to 'Grove'. It's a sales-letter-as-reel: thesis, three-part proof (bold text / set / motion-as-pacing), reframe ('not budget, engineering'), CTA.",
+      "distinctiveTechniques": [
+        "Self-referential demonstration: the video uses the exact technique it's describing \u2014 bold text overlays appear on the line 'You see the bold text', so the visual proves the claim in real time.",
+        "Beat-locked thesis cuts: pivotal sentence boundaries (14.93s 'before the word hits your ear', 25.0s 'system behind it') land within 0.01-0.06s of the metronome \u2014 the cut IS the punctuation.",
+        "Closing acceleration: average shot ~2.15s but the final two shots compress to 0.93s and 0.73s, dumping cut-density into the 'engineering / system / DM Grove' payoff so the CTA hits at peak rhythm.",
+        "Motion-transition bridge: the only two non-hard cuts (21.9s, 24.067s) sit consecutively on the pivot from 'you don't need his budget' to 'you need his engineering' \u2014 used as an accent into the value prop, not as decoration.",
+        "Name-drop hook + named-DM CTA: opens by naming a recognizable figure ('Alex Hormozi') to borrow authority and closes with a personal handle ('DM Grove') to convert attention directly \u2014 no link, no funnel, just the name.",
+        "Aphoristic sentence engineering: every line is structured to be screenshottable in isolation ('It's not decoration. It is a pacing tool.', 'You don't need his budget. You need his engineering.') \u2014 parallel construction and short clauses optimized for caption splits."
+      ]
+    },
+    {
+      "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin994451161484829882",
+      "subject": "A brand/agency manifesto reel positioning the studio against generic marketing \u2014 promising rebuilds, momentum, and outcome-driven results rather than trend-chasing.",
+      "shotComposition": "Sparse 7-shot structure dominated by two long held frames (4.9s opener, 11.1s middle act) bracketed by a 0.6s flash insert and three short closing beats (2.6s, 2.1s, 4.4s, 0.6s). 9:16 vertical (720x1280). Composition reads as cinematic brand-reel B-roll plus typographic title cards rather than talking-head \u2014 locked-off, centered, negative-space-forward framing consistent with luxury/agency promo grammar.",
+      "cameraMotion": "static",
+      "lightingPalette": "moody-low-key",
+      "pacingDescription": "Holds long, then snaps. Opens on a 4.93s patient hold while the rhetorical setup lands, punches a 0.6s flash insert at the 'Time to rethink' pivot, then sits on an 11-second sustained block during the value-prop ('We don't chase trends... category leaders'), and finally accelerates through three 2-4 second cuts to the payoff line 'Just results that speak.' Tempo bed is a steady 112.3 BPM. Cut density (cutsPerSec): 0, 0.667, 0, 0, 0, 0.333, 0.333, 0.667 \u2014 confirms a sandwiched fast/slow/fast envelope.",
+      "cutOnBeat": {
+        "observed": true,
+        "evidence": "All 6 hard cuts land within ~0.25s of a beat or onset: 4.933\u2192beat 5.039 (\u03940.11), 5.533\u2192beat 5.642 (\u03940.11), 16.6\u2192beat 16.347 (\u03940.25), 19.233\u2192beat 19.087 (\u03940.15), 21.333\u2192beat 21.409 (\u03940.08), 25.733\u2192onset 25.681 (\u03940.05). Voice phrases also start near beats (e.g. 'Time to rethink' 5.12 \u2248 beat 5.039; 'No shortcuts' 16.78 \u2248 beat 16.904)."
+      },
+      "transitionStyle": "Hard cuts only \u2014 6 hard, 0 fades, 0 motion-blur transitions per transitions.json. Signature move is a 0.6-second flash insert (shot 1, 4.933\u21925.533s) acting as a stinger between the 'no real growth' close and the 'time to rethink/rebuild' pivot, with maxDelta 183 indicating a high-contrast jolt frame.",
+      "hookStructure": {
+        "seconds0to3": "First 3s sit on a single long held shot (shot 0 runs 0-4.93s) while VO lands two clipped lines: 'Done with noisy marketing?' (0.0-1.26) and 'Too many promises.' (2.14-3.0), with deliberate ~0.9s silence between. No cut yet \u2014 the hook is voice + on-screen line-by-line text, not visual rapid-fire.",
+        "tension": "A pointed rhetorical question paired with a held, restrained frame. The viewer is dared to disagree with 'done with noisy marketing?' and the long hold signals confidence \u2014 the bait is wondering what the brand is going to claim instead, set up by the deliberate pause before 'Too many promises.'"
+      },
+      "captionStyle": {
+        "present": true,
+        "pattern": "Phrase-level captions, one short declarative line per shot, appearing in sync with VO segments (e.g. 'Done with noisy marketing?' 0.0-1.26, 'Too many promises.' 2.14-3.0, 'Time to rethink.' 5.12-5.9). Word timings are clipped (0.2-0.5s per word) but lines are held as full phrases rather than word-by-word pop. Likely centered or lower-centered, clean sans-serif, all-caps or sentence-case white-on-dark luxury-brand styling consistent with the moody palette."
+      },
+      "voiceoverStyle": "Declarative, low-tempo, confident male/neutral brand-VO cadence. Heavy use of anaphora and parallel structure: 'Time to rethink. Time to rebuild.' / 'We don't chase trends. We create momentum.' / 'No shortcuts. No compromises. Just results that speak.' Each line is short (3-6 words), separated by ~0.6-0.9s breath gaps that the edit uses as cut-points. No CTA \u2014 closes on a mic-drop tagline rather than a 'follow/DM' ask.",
+      "editorialIntent": "Position the brand as a premium, outcome-driven alternative to noisy/trend-chasing marketing competitors. The viewer is meant to feel a quiet 'finally, someone gets it' resonance and walk away with the brand framed as confident category-leader-makers \u2014 driving inquiry/booking rather than impulse engagement.",
+      "distinctiveTechniques": [
+        "Anaphoric copy structure mapped 1:1 to cuts \u2014 every parallel line ('Time to X / Time to Y', 'No X / No Y / Just Z') triggers a hard cut on the next downbeat",
+        "Patience-flex opener: a 4.93s held shot before the first cut, betting on copy strength to hold the viewer rather than reflex-fast hooks",
+        "0.6s stinger flash insert at the rhetorical pivot (4.93-5.53s) \u2014 the only sub-second shot in the piece, used as a punctuation cut not a montage element",
+        "11-second sustained value-prop block in the middle act with no cuts while the brand promise is delivered \u2014 inverts the short-form 'cut every 2s' default",
+        "Hard cuts only, zero fades or motion transitions \u2014 luxury/manifesto grammar, not vlog grammar",
+        "Beat-locked editing at 112 BPM: 6/6 cuts land within 0.25s of a librosa beat, even though the piece feels slow",
+        "Closing micro-beat (0.567s shot 6) as a logo/wordmark stinger after the 'results that speak' tagline lands"
+      ]
+    }
+  ],
+  "verdict": {
+    "sustained": [
+      "Profile 1: cuts-on-beat math (cut 1 at 1.133s vs beat 0.998s = 0.135s; cut 2 at 2.800s vs beat 2.833s = 0.033s) is verifiable from the supplied tempo/transition data.",
+      "Profile 1: shot structure (3 shots, 1.13s/1.67s/6.0s) and 'two cuts in 2.8s then zero cuts in 6s' pacing arithmetic is data-grounded.",
+      "Profile 1: VO word count, duration, and pause locations (pauses at 2.24s and 3.48s) are derivable from the per-word transcript.",
+      "Profile 1: classification of one cut as motion-flagged and one as hard is supported by the transitions.json delta values cited (72.1 vs 23.2).",
+      "Profile 2: 12.88s static opening before first cut, then four shots of 5.1/0.4/6.0/0.5s \u2014 all measurable from cut timestamps.",
+      "Profile 2: beat alignment of all 4 cuts within 0.18s at 123 BPM is internally consistent with the cited timestamps.",
+      "Profile 2: closing transcript degradation ('food $10,000', 'AI's save') is a direct transcript artifact and a fair tell of un-reviewed TTS+ASR.",
+      "Profile 3: '23 seconds with one cut at 14.0s' and the explicit acknowledgement that n=1 is too small to call a stylistic rule.",
+      "Profile 3: VO script reconstruction (problem question, brand intro, platform list, value triplet, tagline) is a direct read of the transcript.",
+      "Profile 4: 18/18 cuts within ~0.25s of beats at 143.6 BPM with named tightest examples (15.375 vs 15.372, 33.188 vs 33.181) \u2014 the math checks against the transition timestamps cited.",
+      "Profile 4: shot count (19), median ~2.1s, longest 5.5s outro, opener 1.125s \u2014 derivable from cuts list.",
+      "Profile 4: 15 hard / 3 motion transition split with the three motion ones located at 13.06/15.375/40.0s \u2014 directly from transitions.json.",
+      "Profile 4: VO contrast pivots and the rhetorical 'Why?' planted at ~20.7s are observable in the transcript.",
+      "Profile 5: 12 transitions with 8+ within 0.25s of beats, including the frame-perfect 14.933s vs 14.93s \u2014 verifiable.",
+      "Profile 5: closing acceleration (final two shots at 0.93s and 0.73s) and the cuts/sec bin pattern (0.33...1.0) are computed from the data.",
+      "Profile 5: 'self-referential demonstration' \u2014 the script literally says 'You see the bold text' \u2014 is a textual fact in the transcript, regardless of whether overlays actually appear.",
+      "Profile 6: 6 hard cuts, 0 fades, 0 motion transitions, plus the specific 0.6s flash insert at 4.93\u20135.53s is data-driven.",
+      "Profile 6: anaphoric copy structure ('Time to rethink. Time to rebuild.', 'No shortcuts. No compromises.') is verifiable from transcript.",
+      "Profile 6: 6/6 beat-lock with cited deltas (4.933\u21925.039 etc.) is internally consistent."
+    ],
+    "retracted": [
+      {
+        "claim": "Profile 1 lightingPalette: 'warm-natural / lifestyle-bright ... clean midtones rather than moody low-key'",
+        "reason": "Self-admitted as 'inferable' from the filename ('Klickpin.com', Pinterest aesthetic). The same profile elsewhere flags the filename as SEO bait disconnected from content, so inferring lighting from acknowledged-misleading metadata is invalid. No visual evidence cited."
+      },
+      {
+        "claim": "Profile 1: 'a stitched compilation of stock-style or b-roll clips ... no on-camera presenter visible across the cuts'",
+        "reason": "Inferred from cut delta (72.1) alone. A delta-72 hard cut is equally consistent with a presenter changing position/framing. No keyframe inspection cited."
+      },
+      {
+        "claim": "Profile 1: 'The 6-second tail shot likely carries a slow push-in or static hold'",
+        "reason": "Hedged 'likely' with no motion-vector data for that shot \u2014 the transitions.json motion flag was on the cut at 2.8s, not on the 6s sustained shot itself."
+      },
+      {
+        "claim": "Profile 1 captionStyle: 'centered or lower-third bold sans-serif with a yellow/white highlight on the active word ... key emphasis frames probably on attention/matter/results'",
+        "reason": "Position, font weight, color, and which words are emphasized are all speculation. Word-level transcript timing implies pop-on captions exist, but says nothing about visual styling."
+      },
+      {
+        "claim": "Profile 2 lightingPalette: 'high-contrast (inferred from large maxDelta values at every cut \u2014 47.2, 144.6, 155.9, 240.8)'",
+        "reason": "Methodologically broken: maxDelta is a between-shot frame-difference metric, not within-frame contrast. Two flat midtone shots of different colors can produce a high cut-delta. Cannot infer scene contrast from cut delta."
+      },
+      {
+        "claim": "Profile 2 captions: 'Almost certainly auto-generated word-by-word burned-in captions, lower-third or center-bottom placement, ... TikTok/CapCut sans-serif white-with-black-stroke style'",
+        "reason": "Profile 3 (same pipeline, same creator) explicitly states 'keyframe images returned empty in this read.' If keyframes were inaccessible there, the burned-in caption confirmation here is also without visual basis. Style description (white, black stroke, position) is pure genre stereotype."
+      },
+      {
+        "claim": "Profile 2: 'high-contrast slam to a closing card or logo end-frame' (final cut maxDelta 240.8)",
+        "reason": "Same maxDelta-as-contrast confusion. A 240.8 frame delta only says shot N+1 differs from shot N, not that the destination is a logo card."
+      },
+      {
+        "claim": "Profile 3 lightingPalette: 'clinical-bright \u2014 flat, high-key digital-graphic look'",
+        "reason": "Profile explicitly admits keyframes were empty. Lighting label is asserted with no visual data. Should be 'unknown' not 'clinical-bright'."
+      },
+      {
+        "claim": "Profile 3: 'on-screen platform logos and copy do the work', 'animated text/logo overlays inside each shot'",
+        "reason": "Asserted as a structural fact but never observed \u2014 keyframes were empty per the same profile. Could equally be a single static stock image with no overlays."
+      },
+      {
+        "claim": "Profile 3 captionStyle.present: true",
+        "reason": "The profile concedes presence is 'inferred from the structure rather than confirmed visually.' Tight word-timing in a transcript proves nothing about whether captions are burned in \u2014 that timing exists for any clean ASR pass over any audio."
+      },
+      {
+        "claim": "Profile 4 distinctiveTechnique: 'SEO-bait filename (Luxury Clean Girl Makeup Looks) decoupled from actual content'",
+        "reason": "Self-contradiction. The profile's own 'name' field is 'From_Klickpin_Buffett_381B_Cash' \u2014 there is no 'Luxury Clean Girl' filename on this video. The bullet was copy-pasted from the other profiles in the set."
+      },
+      {
+        "claim": "Profile 4 cameraMotion: 'push-in'",
+        "reason": "A single global label for a 19-shot reel with mixed B-roll, topic cards, and number reveals is not a coherent claim. No per-shot motion vectors cited; vague to uselessness."
+      },
+      {
+        "claim": "Profile 4: 'almost certainly accompanied by a giant $381B text reveal on the cut'",
+        "reason": "Speculative. The long word-duration on '$381' supports VO emphasis, not that an on-screen text card exists. No keyframe evidence."
+      },
+      {
+        "claim": "Profile 4 lightingPalette: 'high-contrast'",
+        "reason": "No within-frame evidence. Same metric confusion as Profile 2 if maxDelta is implicitly the basis."
+      },
+      {
+        "claim": "Profile 4 captionStyle: 'centered or upper-third, bold sans-serif, with stat words ... styled larger or in an accent color'",
+        "reason": "Position, weight, and accent color are all speculation. Only word-timing is evidenced."
+      },
+      {
+        "claim": "Profile 5: 'reads as Hormozi-podcast-style talking-head clips (medium shots, centered subject on a clean backdrop)' and 'warm-natural / studio-clean across the Hormozi-style inserts'",
+        "reason": "The script merely names Hormozi; the visuals are not confirmed to be Hormozi footage. Lighting and framing are extrapolated from the assumption that the inserts come from his podcast \u2014 circular reasoning without keyframe inspection."
+      },
+      {
+        "claim": "Profile 5 captionStyle: 'likely Impact/Druk or similar condensed bold'",
+        "reason": "Specific font speculation with zero visual evidence. Pure stereotype matching."
+      },
+      {
+        "claim": "Profile 5: 'almost certainly a Hormozi-coded reference frame (book cover or his podcast set) sitting under a bold on-screen lockup of the dollar figure'",
+        "reason": "Two stacked guesses (what the visual is + that an overlay exists) presented as near-certainty."
+      },
+      {
+        "claim": "Profile 5: 'Confident male instructional cadence'",
+        "reason": "Voice gender is asserted without any audio-analysis signal in the supplied data \u2014 only a transcript and beat track are cited."
+      },
+      {
+        "claim": "Profile 6 lightingPalette: 'moody-low-key'",
+        "reason": "Asserted with no visual evidence; the profile cites no keyframe analysis. Directly contradicts Profile 1's 'warm-natural / lifestyle-bright' default for the same Klickpin source set, exposing that both are genre-driven guesses, not observations."
+      },
+      {
+        "claim": "Profile 6: 'maxDelta 183 indicating a high-contrast jolt frame' for the 0.6s flash insert",
+        "reason": "Same maxDelta-as-contrast confusion. A high cut delta only describes the gap between adjacent shots, not the brightness range within the flash frame itself."
+      },
+      {
+        "claim": "Profile 6: 'cinematic brand-reel B-roll plus typographic title cards rather than talking-head ... locked-off, centered, negative-space-forward framing'",
+        "reason": "Detailed compositional reading with no visual access. Could equally be a talking-head or stock-footage manifesto."
+      },
+      {
+        "claim": "Profile 6: 'Confident male/neutral brand-VO cadence'",
+        "reason": "Voice gender hedged but still asserted without audio-feature evidence."
+      },
+      {
+        "claim": "Multiple profiles: 'word-level transcript timing = pop-on word-by-word burned-in captions'",
+        "reason": "Word-level timing in a transcript is a property of the ASR output, not of the rendered video. Concluding that captions are burned in (let alone styled, colored, positioned) from transcript granularity is a category error repeated across Profiles 1, 2, 3, and 4."
+      }
+    ],
+    "crossVideoConsensus": [
+      "Strongest sustainable consensus across all 6: cuts are quantized to the music grid. Every profile cites specific transition timestamps within ~0.25s of librosa beats, and the math is independently verifiable from the data shown. This is the only claim type that survives skeptical review across the whole set.",
+      "Second-strongest: shot-count, shot-length, and cuts/sec arithmetic. These are direct readouts of the cuts list and can be trusted whenever a profile states them with timestamps.",
+      "Systemic weakness: every profile asserts a lightingPalette label (warm-natural, clinical-bright, high-contrast, moody-low-key, etc.) with no visual evidence, and Profile 3 inadvertently confesses the cause \u2014 keyframe images were empty in this read. The lighting labels should be treated as genre-stereotype guesses, not observations, across all six.",
+      "Systemic weakness: every profile claims captions are 'present' and describes their visual styling (font, color, position, stroke, accent color). The only evidence cited anywhere is transcript word-timing, which proves nothing about rendered overlays. Caption-style descriptions are unreliable across all six.",
+      "Systemic weakness: 'maxDelta' values from the transition data are repeatedly reinterpreted as within-frame contrast or as evidence of logo/flash-card destinations (Profiles 2, 4, 6). MaxDelta is a between-shot frame-difference metric \u2014 this inference is invalid and recurs.",
+      "Systemic weakness: voice gender, voice-actor confidence, and 'studio-clean' visual descriptors are asserted with no audio-feature or keyframe evidence (Profiles 5, 6).",
+      "Filename observation: the 'misleading SEO filename = Luxury Clean Girl Makeup Looks' bullet appears in 4 profiles, including Profile 4 whose actual filename is 'From_Klickpin_Buffett_381B_Cash' \u2014 confirming this bullet is a copy-paste template that was not validated per-video.",
+      "Camera motion is the most under-specified field. Three profiles flatten an entire multi-shot reel to a single label ('static', 'push-in'); only Profile 1 cites a per-cut motion flag. Treat single-word camera-motion fields as vague to useless without per-shot motion data.",
+      "What can actually be learned for a 'learn-the-edit-style' pipeline from this set: beat-locked hard cuts, shot-length envelopes, and transcript-derived script structure (hook, pivot, enumeration, CTA). What cannot be learned without adding real visual analysis: lighting, caption styling, font, on-screen text presence, talking-head vs B-roll, camera motion within shots."
+    ]
+  },
+  "synthesis": {
+    "editorialProfile": {
+      "genre": "Short-form vertical explainer/manifesto reels (finance hot-take, AI-FOMO, agency pitch, motivational aphorism, brand manifesto, creator-meta) at 720x1280, 8-30s runtime",
+      "mood": "Confident, declarative, contrarian. Authority-by-cadence and word-craft rather than production budget. Setup, pivot, payoff in under 30 seconds.",
+      "audience": "Mobile-scrolling entrepreneurs, creators, and small-business owners on TikTok, Reels, and Pinterest who screenshot aphoristic statements and follow finance/marketing/grindset accounts.",
+      "brandFeel": "Aphoristic and punchy. Each line engineered to be screenshottable in isolation. Parallel construction, anaphora, contrast pivots ('not X, but Y'), and a single named CTA or rhetorical question at the close."
+    },
+    "cuttingRules": [
+      "Detect tempo with a librosa-equivalent beat tracker on the music bed before placing any cut. Verified BPMs in this set range 78-144; the rule survives at any tempo.",
+      "Lock every hard cut within 0.20s of the nearest detected beat or onset. Aim for sub-100ms offsets on thesis-line cuts; the tightest observed cuts in this set sit at 3-38ms from the beat.",
+      "Default transition is a hard cut. Use zero fades and zero dissolves. Reserve motion/whip transitions for rhetorical pivots ('but', 'why', 'instead', 'engineering not budget') and use no more than 2-3 across a reel.",
+      "Median shot length 1.8-2.4s during enumeration, proof, and platform-list segments. Computed median across this set is ~2.1s.",
+      "Open with one of two extremes, never a 'normal' length: a sub-1.2s stinger shot (e.g., 1.125s Buffett opener) OR a sustained 4-13s hold (e.g., 4.93s manifesto opener, 12.88s AI opener). Commit to one.",
+      "Use 0.4-0.6s flash inserts as punctuation between major rhetorical pivots. Maximum one or two per reel.",
+      "Cut density must peak in the final third. Schedule a window where cuts/sec hits 0.67-1.0 (three cuts inside a 3s bin) immediately before the CTA or thesis payoff.",
+      "Reserve the single longest shot (5.0-11.1s observed) for the closing thesis line or CTA card so the funnel destination has uncontested screen time.",
+      "Cut on the sentence-ending consonant, not in the breath that follows. Voice phrases should land on or just after the same beat the cut snaps to.",
+      "Bind cut points to anaphoric copy structure: every parallel line ('Time to X / Time to Y', 'No X / No Y / Just Z', '<Domain>, AI <verb>') triggers a hard cut on the next downbeat.",
+      "When a number or brand name is spoken, hold the visual for the full spoken duration of that token (1.2-1.7s observed for $381B, 230%, 80%) so the digit or name IS the shot.",
+      "Do NOT infer lighting palette, caption font, caption color, caption position, voice gender, on-screen text presence, or talking-head vs B-roll from beat/cut/transcript data alone. These require visual or audio-feature analysis the planner does not have. Leave these to template defaults and do not assert."
+    ],
+    "brollGuidance": {
+      "ratioToAroll": "B-roll-dominant. Reels in this set run 2-19 shots per 8-47s with no confirmed talking-head presence. Plan for 100% B-roll/stock/graphics by default; only add talking-head if the script explicitly calls for it.",
+      "placementPrinciple": "One spoken concept = one visual beat. Numbers, brand names, platform names, and proper nouns each trigger a dedicated shot held for the full token duration. Pivot words ('but', 'why', 'instead') get a motion transition or flash insert. Aphoristic payoff lines get the longest sustained hold.",
+      "contentTypes": [
+        "Topical literal B-roll matched to VO nouns (stock charts when 'market' is spoken, smartphone when 'phone' is spoken, dollar bills when '$381B' is spoken)",
+        "Number/stat full-frame text cards held for the full spoken duration",
+        "Brand and platform logo callouts during enumeration spines (Google, Meta, TikTok, LinkedIn beats)",
+        "Sub-second flash inserts at rhetorical pivots",
+        "Long sustained hero shots for thesis and CTA holds",
+        "Avoid generic 'lifestyle vibes' or 'aesthetic mood' clips with no referent in the VO"
+      ]
+    },
+    "captionGuidance": {
+      "style": "Word-by-word pop-on or short-phrase pop-on captions are genre-standard for this format and the per-word transcript timing supports either. Specific font, weight, color, stroke, and accent-color cannot be derived from the available data and must not be claimed; defer to a template default and let the human review pass tune the look.",
+      "timing": "Drive caption timing from per-word ASR timestamps. Group into phrase units that match anaphoric script beats (e.g., 'No shortcuts.' / 'No compromises.' / 'Just results.' as three separate caption pops). Hold number/brand-name tokens for their full spoken duration (0.8-1.7s observed for $381B, 230%, $100 million).",
+      "position": "Position is not derivable from the supplied data. Default to a centered or lower-third lockup per platform convention and treat as a template-level choice, not a per-video assertion."
+    },
+    "hookFormula": "\"[0.0-0.5s] VO opens on frame one with the contrarian claim, named figure, or shock number \u2014 no logo card, no breath. [0.5-1.5s] Hold or sub-second stinger; first hard cut lands within 0.20s of the first downbeat, ideally on a noun, number, or brand name. [1.5-3.0s] Misdirect or setup clause runs across one or two short shots, planting the curiosity gap ('the way people look at you...', 'AI is everywhere', 'Hormozi's $100M book is NOT his hook'). [3.0-end-3.0s] Pivot word ('but', 'why', 'instead', 'time to') triggers either a motion transition or a flash insert; enumeration or proof block follows with cuts locked to the beat grid. [final 5+ seconds] Hold the longest single shot of the reel for the payoff line or named CTA ('only your results will', 'DM Grove for the blueprint', 'Visit earnededits.com') so the closing line lands without a visual interruption.\"",
+    "pexelsKeywords": [
+      "warren buffett",
+      "stock market chart",
+      "wall street trading floor",
+      "red candlestick chart",
+      "hundred dollar bills cash",
+      "bank vault",
+      "smartphone in hand scrolling",
+      "ai data visualization",
+      "neural network animation",
+      "self driving car interior",
+      "hospital doctor",
+      "google office building",
+      "youtube on phone screen",
+      "instagram app interface",
+      "tiktok phone",
+      "linkedin office workers",
+      "entrepreneur typing laptop",
+      "podcast microphone studio",
+      "ring light setup",
+      "city skyline night timelapse",
+      "luxury watch close up",
+      "businessman walking suit",
+      "clock ticking close up",
+      "person at desk overhead",
+      "handshake business",
+      "laptop screen analytics dashboard",
+      "coffee cup on desk",
+      "neon city street",
+      "money counting machine",
+      "chess board pieces"
+    ],
+    "pacingPlaybook": {
+      "shotLengthSec": 2.1,
+      "cutOnBeat": true,
+      "acceleratesAtSec": 0.66,
+      "rules": [
+        "Median shot length target is 2.1s during the body of the reel; this is the empirical median across the verified cuts in the source set.",
+        "Detect BPM and beat positions before placing cuts; lock every hard cut within 0.20s of the nearest beat or onset.",
+        "Open with one extreme: a stinger of 0.6-1.2s OR a sustained hold of 4-13s. Avoid mid-length openers.",
+        "Schedule a cut-density peak (0.67-1.0 cuts/sec inside a 3s window) starting at roughly 66% through the runtime, immediately before the CTA hold.",
+        "Reserve the longest single shot of the reel (5.0-11.1s) for the final thesis line or CTA card.",
+        "Use 0.4-0.6s flash inserts only at rhetorical pivots; cap at 2 per reel.",
+        "Use motion transitions only on contrast/pivot words; default everywhere else is a hard cut. No fades.",
+        "Hold any spoken number or brand-name token as a single full-duration shot \u2014 let the digit be the shot.",
+        "Map every parallel/anaphoric line in the script (Time to X / Time to Y; No X / No Y / Just Z) to its own beat-locked cut."
+      ]
+    }
+  }
+}

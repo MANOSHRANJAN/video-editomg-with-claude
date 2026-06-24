@@ -1,0 +1,44 @@
+[
+  {
+    "index": 0,
+    "startSec": 0.0,
+    "endSec": 4.933,
+    "durationSec": 4.933
+  },
+  {
+    "index": 1,
+    "startSec": 4.933,
+    "endSec": 5.533,
+    "durationSec": 0.6
+  },
+  {
+    "index": 2,
+    "startSec": 5.533,
+    "endSec": 16.6,
+    "durationSec": 11.067
+  },
+  {
+    "index": 3,
+    "startSec": 16.6,
+    "endSec": 19.233,
+    "durationSec": 2.633
+  },
+  {
+    "index": 4,
+    "startSec": 19.233,
+    "endSec": 21.333,
+    "durationSec": 2.1
+  },
+  {
+    "index": 5,
+    "startSec": 21.333,
+    "endSec": 25.733,
+    "durationSec": 4.4
+  },
+  {
+    "index": 6,
+    "startSec": 25.733,
+    "endSec": 26.3,
+    "durationSec": 0.567
+  }
+]

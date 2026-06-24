@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1080, height=1920" />
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face {
+        font-family: "InterBlack";
+        src: url("../fonts/Inter_28pt-Black.ttf") format("truetype");
+        font-weight: 900;
+      }
+      @font-face {
+        font-family: "AstonScript";
+        src: url("../fonts/Aston Script.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "GaramondBold";
+        src: url("../fonts/AppleGaramond-Bold.ttf") format("truetype");
+        font-weight: 700;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      html, body {
+        margin: 0; width: 1080px; height: 1920px; overflow: hidden;
+        background: #161514;
+      }
+      .stack {
+        position: absolute; inset: 0;
+        display: flex; flex-direction: column;
+        align-items: center; justify-content: center;
+        text-align: center;
+        padding: 0 80px;
+      }
+      .accent {
+        font-family: "AstonScript", cursive;
+        font-size: 200px; line-height: 1;
+        color: #f4d35e;
+        transform: rotate(-4deg);
+      }
+      .headline {
+        font-family: "InterBlack", sans-serif;
+        font-size: 180px; line-height: 0.95;
+        color: #ffffff;
+        text-transform: uppercase;
+        letter-spacing: -3px;
+        margin-top: 24px;
+      }
+      .free {
+        color: #f4d35e;
+      }
+      .sub {
+        font-family: "GaramondBold", serif;
+        font-style: italic;
+        font-size: 60px; line-height: 1.1;
+        color: #cecac4;
+        margin-top: 40px;
+      }
+      .cta {
+        font-family: "InterBlack", sans-serif;
+        font-size: 64px; letter-spacing: 6px;
+        color: #161514;
+        text-transform: uppercase;
+        margin-top: 80px;
+        padding: 28px 56px;
+        background: #f4d35e;
+        border: 6px solid #ffffff;
+      }
+      .handle {
+        font-family: "GaramondBold", serif;
+        font-size: 56px;
+        color: #ffffff;
+        margin-top: 36px;
+        letter-spacing: 1px;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="root"
+      data-composition-id="outro"
+      data-start="0"
+      data-duration="3"
+      data-width="1080"
+      data-height="1920"
+    >
+      <div class="stack">
+        <div id="accent"   class="accent clip"   data-start="0" data-duration="3" data-track-index="1">grab it</div>
+        <div id="headline" class="headline clip" data-start="0" data-duration="3" data-track-index="2">FOR <span class="free">FREE</span></div>
+        <div id="sub"      class="sub clip"      data-start="0" data-duration="3" data-track-index="3">billing agent · RAG · WAPI</div>
+        <div id="cta"      class="cta clip"      data-start="0" data-duration="3" data-track-index="4">FOLLOW + DM</div>
+        <div id="handle"   class="handle clip"   data-start="0" data-duration="3" data-track-index="5">@manosh</div>
+      </div>
+    </div>
+
+    <script>
+      window.__timelines = window.__timelines || {};
+      const tl = gsap.timeline({ paused: true });
+      tl.from("#accent",   { opacity: 0, rotation: -16, duration: 0.28, ease: "power3.out" }, 0)
+        .from("#headline", { opacity: 0, y: 40, scale: 0.92, duration: 0.30, ease: "back.out(1.6)" }, 0.10)
+        .from("#sub",      { opacity: 0, y: 20, duration: 0.22, ease: "power3.out" }, 0.30)
+        .from("#cta",      { opacity: 0, scale: 0.7, duration: 0.30, ease: "back.out(2)" }, 0.50)
+        .from("#handle",   { opacity: 0, y: 16, duration: 0.20, ease: "power3.out" }, 0.70)
+        .to("#cta",        { scale: 1.06, duration: 0.4, repeat: 4, yoyo: true, ease: "sine.inOut" }, 1.0);
+      window.__timelines["outro"] = tl;
+    </script>
+  </body>
+</html>

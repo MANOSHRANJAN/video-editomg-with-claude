@@ -1,0 +1,31 @@
+{
+  "fonts": {
+    "primary": {
+      "family": "Inter",
+      "weights": ["Bold", "ExtraBold", "Black"],
+      "role": "hook + body captions, kinetic typography",
+      "files": "TOPOGRAPHY/Inter/static/",
+      "default": "Inter_28pt-ExtraBold.ttf"
+    },
+    "highlight": {
+      "family": "Aston Script",
+      "weights": ["Regular"],
+      "role": "ACCENT / HIGHLIGHT words — per-word emphasis on key nouns/verbs (e.g. underline a hook punchline, signature flourish, brand callouts)",
+      "files": "TOPOGRAPHY/aston_script/Aston Script.ttf",
+      "default": "Aston Script.ttf"
+    },
+    "secondary": {
+      "family": "Apple Garamond",
+      "weights": ["Regular", "Bold", "Italic"],
+      "role": "quotes, subtitles, end-card brand line",
+      "files": "TOPOGRAPHY/apple_garamond/",
+      "default": "AppleGaramond.ttf"
+    }
+  },
+  "lut": {
+    "primary": "LUT/CELLULOID_01_FU_LOW.cube",
+    "intent": "cinematic celluloid film grade — slight desaturation, lifted blacks, warm-leaning midtones. Apply on every A-roll clip; lighter touch on Pexels B-roll."
+  },
+  "highlightRule": "Aston Script always for the SINGLE most-emphasized word per caption. Default Inter for everything else.",
+  "captionPattern": "Inter for the line, Aston Script for the highlight word — colored or scale-bumped to draw the eye."
+}

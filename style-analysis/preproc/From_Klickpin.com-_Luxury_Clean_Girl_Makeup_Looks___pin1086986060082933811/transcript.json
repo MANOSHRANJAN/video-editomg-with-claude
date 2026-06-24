@@ -1,0 +1,658 @@
+{
+  "language": "en",
+  "text": "Warren Buffett has $381 billion in cash. That's more money than the whole country of Greece makes. But he's not spending it. For nearly three years, he's been selling. Even as the S&P 500 went up 80%. So while everyone else is buying, he's waiting. Why? Because he's done this before. In 1999 and 2007, he waited, then bought big when prices crashed. And now, the market is at 230% of the US economy. That's very high. So he's sitting on cash, waiting. The real question is, do prices fall first or does he start buying? Editors, projectfile on earnededits.com. Visit now and download it.",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.58,
+      "text": "Warren Buffett has $381 billion in cash.",
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.34,
+          "word": "Warren"
+        },
+        {
+          "start": 0.34,
+          "end": 0.8,
+          "word": "Buffett"
+        },
+        {
+          "start": 0.8,
+          "end": 1.18,
+          "word": "has"
+        },
+        {
+          "start": 1.18,
+          "end": 2.86,
+          "word": "$381"
+        },
+        {
+          "start": 2.86,
+          "end": 3.62,
+          "word": "billion"
+        },
+        {
+          "start": 3.62,
+          "end": 4.2,
+          "word": "in"
+        },
+        {
+          "start": 4.2,
+          "end": 4.58,
+          "word": "cash."
+        }
+      ]
+    },
+    {
+      "start": 4.7,
+      "end": 8.0,
+      "text": "That's more money than the whole country of Greece makes.",
+      "words": [
+        {
+          "start": 4.7,
+          "end": 5.02,
+          "word": "That's"
+        },
+        {
+          "start": 5.02,
+          "end": 5.18,
+          "word": "more"
+        },
+        {
+          "start": 5.18,
+          "end": 5.58,
+          "word": "money"
+        },
+        {
+          "start": 5.58,
+          "end": 5.88,
+          "word": "than"
+        },
+        {
+          "start": 5.88,
+          "end": 6.22,
+          "word": "the"
+        },
+        {
+          "start": 6.22,
+          "end": 6.52,
+          "word": "whole"
+        },
+        {
+          "start": 6.52,
+          "end": 6.94,
+          "word": "country"
+        },
+        {
+          "start": 6.94,
+          "end": 7.24,
+          "word": "of"
+        },
+        {
+          "start": 7.24,
+          "end": 7.54,
+          "word": "Greece"
+        },
+        {
+          "start": 7.54,
+          "end": 8.0,
+          "word": "makes."
+        }
+      ]
+    },
+    {
+      "start": 8.8,
+      "end": 10.14,
+      "text": "But he's not spending it.",
+      "words": [
+        {
+          "start": 8.8,
+          "end": 8.9,
+          "word": "But"
+        },
+        {
+          "start": 8.9,
+          "end": 9.22,
+          "word": "he's"
+        },
+        {
+          "start": 9.22,
+          "end": 9.3,
+          "word": "not"
+        },
+        {
+          "start": 9.3,
+          "end": 9.64,
+          "word": "spending"
+        },
+        {
+          "start": 9.64,
+          "end": 10.14,
+          "word": "it."
+        }
+      ]
+    },
+    {
+      "start": 10.42,
+      "end": 12.82,
+      "text": "For nearly three years, he's been selling.",
+      "words": [
+        {
+          "start": 10.42,
+          "end": 10.52,
+          "word": "For"
+        },
+        {
+          "start": 10.52,
+          "end": 10.82,
+          "word": "nearly"
+        },
+        {
+          "start": 10.82,
+          "end": 11.2,
+          "word": "three"
+        },
+        {
+          "start": 11.2,
+          "end": 11.78,
+          "word": "years,"
+        },
+        {
+          "start": 12.1,
+          "end": 12.32,
+          "word": "he's"
+        },
+        {
+          "start": 12.32,
+          "end": 12.5,
+          "word": "been"
+        },
+        {
+          "start": 12.5,
+          "end": 12.82,
+          "word": "selling."
+        }
+      ]
+    },
+    {
+      "start": 13.16,
+      "end": 17.42,
+      "text": "Even as the S&P 500 went up 80%.",
+      "words": [
+        {
+          "start": 13.16,
+          "end": 13.34,
+          "word": "Even"
+        },
+        {
+          "start": 13.34,
+          "end": 13.64,
+          "word": "as"
+        },
+        {
+          "start": 13.64,
+          "end": 13.92,
+          "word": "the"
+        },
+        {
+          "start": 13.92,
+          "end": 14.06,
+          "word": "S"
+        },
+        {
+          "start": 14.06,
+          "end": 14.4,
+          "word": "&P"
+        },
+        {
+          "start": 14.4,
+          "end": 14.98,
+          "word": "500"
+        },
+        {
+          "start": 14.98,
+          "end": 15.74,
+          "word": "went"
+        },
+        {
+          "start": 15.74,
+          "end": 16.18,
+          "word": "up"
+        },
+        {
+          "start": 16.18,
+          "end": 17.42,
+          "word": "80%."
+        }
+      ]
+    },
+    {
+      "start": 17.42,
+      "end": 20.34,
+      "text": "So while everyone else is buying, he's waiting.",
+      "words": [
+        {
+          "start": 17.42,
+          "end": 17.78,
+          "word": "So"
+        },
+        {
+          "start": 17.78,
+          "end": 18.02,
+          "word": "while"
+        },
+        {
+          "start": 18.02,
+          "end": 18.42,
+          "word": "everyone"
+        },
+        {
+          "start": 18.42,
+          "end": 18.76,
+          "word": "else"
+        },
+        {
+          "start": 18.76,
+          "end": 18.98,
+          "word": "is"
+        },
+        {
+          "start": 18.98,
+          "end": 19.36,
+          "word": "buying,"
+        },
+        {
+          "start": 19.84,
+          "end": 20.02,
+          "word": "he's"
+        },
+        {
+          "start": 20.02,
+          "end": 20.34,
+          "word": "waiting."
+        }
+      ]
+    },
+    {
+      "start": 20.68,
+      "end": 20.9,
+      "text": "Why?",
+      "words": [
+        {
+          "start": 20.68,
+          "end": 20.9,
+          "word": "Why?"
+        }
+      ]
+    },
+    {
+      "start": 21.1,
+      "end": 22.48,
+      "text": "Because he's done this before.",
+      "words": [
+        {
+          "start": 21.1,
+          "end": 21.44,
+          "word": "Because"
+        },
+        {
+          "start": 21.44,
+          "end": 21.78,
+          "word": "he's"
+        },
+        {
+          "start": 21.78,
+          "end": 21.86,
+          "word": "done"
+        },
+        {
+          "start": 21.86,
+          "end": 22.1,
+          "word": "this"
+        },
+        {
+          "start": 22.1,
+          "end": 22.48,
+          "word": "before."
+        }
+      ]
+    },
+    {
+      "start": 22.76,
+      "end": 27.0,
+      "text": "In 1999 and 2007, he waited, then bought big",
+      "words": [
+        {
+          "start": 22.76,
+          "end": 22.8,
+          "word": "In"
+        },
+        {
+          "start": 22.8,
+          "end": 23.56,
+          "word": "1999"
+        },
+        {
+          "start": 23.56,
+          "end": 24.22,
+          "word": "and"
+        },
+        {
+          "start": 24.22,
+          "end": 24.92,
+          "word": "2007,"
+        },
+        {
+          "start": 25.52,
+          "end": 25.56,
+          "word": "he"
+        },
+        {
+          "start": 25.56,
+          "end": 25.92,
+          "word": "waited,"
+        },
+        {
+          "start": 26.2,
+          "end": 26.38,
+          "word": "then"
+        },
+        {
+          "start": 26.38,
+          "end": 26.6,
+          "word": "bought"
+        },
+        {
+          "start": 26.6,
+          "end": 27.0,
+          "word": "big"
+        }
+      ]
+    },
+    {
+      "start": 27.0,
+      "end": 28.18,
+      "text": "when prices crashed.",
+      "words": [
+        {
+          "start": 27.0,
+          "end": 27.34,
+          "word": "when"
+        },
+        {
+          "start": 27.34,
+          "end": 27.64,
+          "word": "prices"
+        },
+        {
+          "start": 27.64,
+          "end": 28.18,
+          "word": "crashed."
+        }
+      ]
+    },
+    {
+      "start": 28.18,
+      "end": 33.0,
+      "text": "And now, the market is at 230% of the US economy.",
+      "words": [
+        {
+          "start": 28.18,
+          "end": 28.58,
+          "word": "And"
+        },
+        {
+          "start": 28.58,
+          "end": 29.0,
+          "word": "now,"
+        },
+        {
+          "start": 29.16,
+          "end": 29.36,
+          "word": "the"
+        },
+        {
+          "start": 29.36,
+          "end": 29.58,
+          "word": "market"
+        },
+        {
+          "start": 29.58,
+          "end": 29.82,
+          "word": "is"
+        },
+        {
+          "start": 29.82,
+          "end": 30.14,
+          "word": "at"
+        },
+        {
+          "start": 30.14,
+          "end": 31.08,
+          "word": "230"
+        },
+        {
+          "start": 31.08,
+          "end": 31.86,
+          "word": "%"
+        },
+        {
+          "start": 31.86,
+          "end": 32.1,
+          "word": "of"
+        },
+        {
+          "start": 32.1,
+          "end": 32.26,
+          "word": "the"
+        },
+        {
+          "start": 32.26,
+          "end": 32.54,
+          "word": "US"
+        },
+        {
+          "start": 32.54,
+          "end": 33.0,
+          "word": "economy."
+        }
+      ]
+    },
+    {
+      "start": 33.24,
+      "end": 34.78,
+      "text": "That's very high.",
+      "words": [
+        {
+          "start": 33.24,
+          "end": 33.82,
+          "word": "That's"
+        },
+        {
+          "start": 33.82,
+          "end": 34.14,
+          "word": "very"
+        },
+        {
+          "start": 34.14,
+          "end": 34.78,
+          "word": "high."
+        }
+      ]
+    },
+    {
+      "start": 34.96,
+      "end": 36.74,
+      "text": "So he's sitting on cash, waiting.",
+      "words": [
+        {
+          "start": 34.96,
+          "end": 35.1,
+          "word": "So"
+        },
+        {
+          "start": 35.1,
+          "end": 35.56,
+          "word": "he's"
+        },
+        {
+          "start": 35.56,
+          "end": 35.56,
+          "word": "sitting"
+        },
+        {
+          "start": 35.56,
+          "end": 35.86,
+          "word": "on"
+        },
+        {
+          "start": 35.86,
+          "end": 36.3,
+          "word": "cash,"
+        },
+        {
+          "start": 36.56,
+          "end": 36.74,
+          "word": "waiting."
+        }
+      ]
+    },
+    {
+      "start": 37.18,
+      "end": 41.32,
+      "text": "The real question is, do prices fall first or does he start buying?",
+      "words": [
+        {
+          "start": 37.18,
+          "end": 37.34,
+          "word": "The"
+        },
+        {
+          "start": 37.34,
+          "end": 37.56,
+          "word": "real"
+        },
+        {
+          "start": 37.56,
+          "end": 37.98,
+          "word": "question"
+        },
+        {
+          "start": 37.98,
+          "end": 38.46,
+          "word": "is,"
+        },
+        {
+          "start": 38.5,
+          "end": 38.74,
+          "word": "do"
+        },
+        {
+          "start": 38.74,
+          "end": 39.08,
+          "word": "prices"
+        },
+        {
+          "start": 39.08,
+          "end": 39.48,
+          "word": "fall"
+        },
+        {
+          "start": 39.48,
+          "end": 39.94,
+          "word": "first"
+        },
+        {
+          "start": 39.94,
+          "end": 40.28,
+          "word": "or"
+        },
+        {
+          "start": 40.28,
+          "end": 40.46,
+          "word": "does"
+        },
+        {
+          "start": 40.46,
+          "end": 40.66,
+          "word": "he"
+        },
+        {
+          "start": 40.66,
+          "end": 40.9,
+          "word": "start"
+        },
+        {
+          "start": 40.9,
+          "end": 41.32,
+          "word": "buying?"
+        }
+      ]
+    },
+    {
+      "start": 41.82,
+      "end": 44.98,
+      "text": "Editors, projectfile on earnededits.com.",
+      "words": [
+        {
+          "start": 41.82,
+          "end": 42.2,
+          "word": "Editors,"
+        },
+        {
+          "start": 42.52,
+          "end": 43.2,
+          "word": "projectfile"
+        },
+        {
+          "start": 43.2,
+          "end": 43.54,
+          "word": "on"
+        },
+        {
+          "start": 43.54,
+          "end": 44.22,
+          "word": "earnededits"
+        },
+        {
+          "start": 44.22,
+          "end": 44.98,
+          "word": ".com."
+        }
+      ]
+    },
+    {
+      "start": 45.14,
+      "end": 46.72,
+      "text": "Visit now and download it.",
+      "words": [
+        {
+          "start": 45.14,
+          "end": 45.3,
+          "word": "Visit"
+        },
+        {
+          "start": 45.3,
+          "end": 45.74,
+          "word": "now"
+        },
+        {
+          "start": 45.74,
+          "end": 45.96,
+          "word": "and"
+        },
+        {
+          "start": 45.96,
+          "end": 46.3,
+          "word": "download"
+        },
+        {
+          "start": 46.3,
+          "end": 46.72,
+          "word": "it."
+        }
+      ]
+    }
+  ]
+}

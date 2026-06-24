@@ -1,0 +1,213 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalDurationSec": 20,
+  "watermarkText": "@yourbrand",
+  "iterationId": "v2",
+  "iterationTitle": "Problem-Agitation-Solution (20s)",
+  "hookFormula": "[Question hook @ 0s] → [pain detail @ 2s] → [agitate @ 6s] → [reveal @ 11s] → [proof beat @ 15s] → [CTA @ 18s]",
+  "aroll": [
+    {
+      "src": "",
+      "startSec": 0,
+      "durationSec": 20,
+      "trimStartSec": 0,
+      "kind": "aroll"
+    }
+  ],
+  "broll": [
+    {
+      "src": "broll/v2/frustrated-person-desk.mp4",
+      "startSec": 2.8,
+      "durationSec": 1.5,
+      "trimStartSec": 0,
+      "kind": "broll"
+    },
+    {
+      "src": "broll/v2/stock-chart-down.mp4",
+      "startSec": 7.1,
+      "durationSec": 1.5,
+      "trimStartSec": 0,
+      "kind": "broll"
+    },
+    {
+      "src": "broll/v2/team-meeting-whiteboard.mp4",
+      "startSec": 11.4,
+      "durationSec": 1.5,
+      "trimStartSec": 0,
+      "kind": "broll"
+    },
+    {
+      "src": "broll/v2/celebration-confetti.mp4",
+      "startSec": 15.7,
+      "durationSec": 1.5,
+      "trimStartSec": 0,
+      "kind": "broll"
+    }
+  ],
+  "captions": [
+    {
+      "tokens": [
+        {
+          "text": "done",
+          "highlight": false
+        },
+        {
+          "text": "with",
+          "highlight": false
+        },
+        {
+          "text": "noisy",
+          "highlight": true
+        },
+        {
+          "text": "marketing?",
+          "highlight": false
+        }
+      ],
+      "startSec": 0,
+      "durationSec": 2.5,
+      "position": "top"
+    },
+    {
+      "tokens": [
+        {
+          "text": "too",
+          "highlight": false
+        },
+        {
+          "text": "many",
+          "highlight": false
+        },
+        {
+          "text": "promises.",
+          "highlight": true
+        }
+      ],
+      "startSec": 2.8,
+      "durationSec": 2.5,
+      "position": "top"
+    },
+    {
+      "tokens": [
+        {
+          "text": "no",
+          "highlight": false
+        },
+        {
+          "text": "real",
+          "highlight": false
+        },
+        {
+          "text": "growth.",
+          "highlight": true
+        }
+      ],
+      "startSec": 5.5,
+      "durationSec": 2.5,
+      "position": "top"
+    },
+    {
+      "tokens": [
+        {
+          "text": "time",
+          "highlight": false
+        },
+        {
+          "text": "to",
+          "highlight": false
+        },
+        {
+          "text": "rethink.",
+          "highlight": true
+        }
+      ],
+      "startSec": 8.2,
+      "durationSec": 2.5,
+      "position": "top"
+    },
+    {
+      "tokens": [
+        {
+          "text": "powerful",
+          "highlight": false
+        },
+        {
+          "text": "campaigns,",
+          "highlight": false
+        },
+        {
+          "text": "real",
+          "highlight": false
+        },
+        {
+          "text": "results.",
+          "highlight": true
+        }
+      ],
+      "startSec": 11,
+      "durationSec": 4,
+      "position": "top"
+    },
+    {
+      "tokens": [
+        {
+          "text": "DM",
+          "highlight": false
+        },
+        {
+          "text": "us",
+          "highlight": true
+        }
+      ],
+      "startSec": 16.5,
+      "durationSec": 3,
+      "position": "bottom"
+    }
+  ],
+  "audio": [
+    {
+      "src": "sfx/vine-boom.mp3",
+      "startSec": 0.3,
+      "durationSec": 1.254943,
+      "volume": 0.8,
+      "kind": "sfx"
+    },
+    {
+      "src": "sfx/transition-whoosh.mp3",
+      "startSec": 2.8,
+      "durationSec": 2.162358,
+      "volume": 0.8,
+      "kind": "sfx"
+    },
+    {
+      "src": "sfx/transition-whoosh.mp3",
+      "startSec": 5.5,
+      "durationSec": 2.162358,
+      "volume": 0.8,
+      "kind": "sfx"
+    },
+    {
+      "src": "sfx/transition-whoosh.mp3",
+      "startSec": 8.2,
+      "durationSec": 2.162358,
+      "volume": 0.8,
+      "kind": "sfx"
+    },
+    {
+      "src": "sfx/cinematic-orchestral-hit.mp3",
+      "startSec": 11,
+      "durationSec": 2.5,
+      "volume": 0.8,
+      "kind": "sfx"
+    },
+    {
+      "src": "sfx/youtube-subscribe-and-like-bell-sound.mp3",
+      "startSec": 16.5,
+      "durationSec": 2.5,
+      "volume": 0.6,
+      "kind": "sfx"
+    }
+  ]
+}

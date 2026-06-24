@@ -1,0 +1,11 @@
+{
+  "binSec": 3.0,
+  "cutsPerBin": [
+    2,
+    0
+  ],
+  "cutsPerSec": [
+    0.667,
+    0.0
+  ]
+}

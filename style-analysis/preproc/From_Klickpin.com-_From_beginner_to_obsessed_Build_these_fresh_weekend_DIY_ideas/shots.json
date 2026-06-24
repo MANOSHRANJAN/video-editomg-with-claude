@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "startSec": 0.0,
+    "endSec": 1.133,
+    "durationSec": 1.133
+  },
+  {
+    "index": 1,
+    "startSec": 1.133,
+    "endSec": 2.8,
+    "durationSec": 1.667
+  },
+  {
+    "index": 2,
+    "startSec": 2.8,
+    "endSec": 8.8,
+    "durationSec": 6.0
+  }
+]

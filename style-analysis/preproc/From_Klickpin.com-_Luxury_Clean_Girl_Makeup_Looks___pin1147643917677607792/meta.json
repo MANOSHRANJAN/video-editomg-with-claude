@@ -1,0 +1,71 @@
+{
+  "file": "From Klickpin.com- Luxury Clean Girl Makeup Looks to Refresh Your Routine-pin-id-1147643917677607792.mp4",
+  "name": "From_Klickpin.com-_Luxury_Clean_Girl_Makeup_Looks___pin1147643917677607792",
+  "meta": {
+    "duration": 27.968005,
+    "fps": 30.0,
+    "width": 720,
+    "height": 1280,
+    "hasAudio": true
+  },
+  "shotCount": 13,
+  "keyframes": [
+    "shot_00.jpg",
+    "shot_01.jpg",
+    "shot_02.jpg",
+    "shot_03.jpg",
+    "shot_04.jpg",
+    "shot_05.jpg",
+    "shot_06.jpg",
+    "shot_07.jpg",
+    "shot_08.jpg",
+    "shot_09.jpg",
+    "shot_10.jpg",
+    "shot_11.jpg",
+    "shot_12.jpg"
+  ],
+  "hookFrames": [
+    "hook_01.jpg",
+    "hook_02.jpg",
+    "hook_03.jpg",
+    "hook_04.jpg",
+    "hook_05.jpg",
+    "hook_06.jpg",
+    "hook_07.jpg",
+    "hook_08.jpg",
+    "hook_09.jpg",
+    "hook_10.jpg"
+  ],
+  "transcript": true,
+  "beats": true,
+  "transitions": {
+    "hard": 10,
+    "fade": 0,
+    "motion": 2
+  },
+  "pacing": {
+    "binSec": 3.0,
+    "cutsPerBin": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3
+    ],
+    "cutsPerSec": [
+      0.333,
+      0.333,
+      0.667,
+      0.333,
+      0.333,
+      0.333,
+      0.333,
+      0.333,
+      1.0
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "totalDurationSec": 26.304,
+  "watermarkText": "@manosh",
+  "iterationId": "clean994",
+  "iterationTitle": "Clean Girl 994 — kinetic captions + cutaways",
+  "hookFormula": "Hook (noisy marketing) → reset (rethink/rebuild) → promise (momentum, leaders) → CTA (results that speak)",
+  "appliedPlaybook": {
+    "shotLengthSec": 1.6,
+    "cutOnBeat": true,
+    "openerStyle": "sustained",
+    "genre": "lifestyle brand reel with kinetic captions and noun-anchored b-roll"
+  },
+  "aroll": [
+    {
+      "src": "aroll/clean-994.mp4",
+      "startSec": 0,
+      "durationSec": 26.304,
+      "trimStartSec": 0,
+      "kind": "aroll"
+    }
+  ],
+  "broll": [
+    {
+      "src": "broll/clean-1027.mp4",
+      "startSec": 8.78,
+      "durationSec": 1.4,
+      "trimStartSec": 1,
+      "kind": "broll"
+    },
+    {
+      "src": "broll/clean-1081.mp4",
+      "startSec": 12.18,
+      "durationSec": 1.4,
+      "trimStartSec": 0.5,
+      "kind": "broll"
+    },
+    {
+      "src": "broll/clean-1027.mp4",
+      "startSec": 14.2,
+      "durationSec": 1.6,
+      "trimStartSec": 8,
+      "kind": "broll"
+    },
+    {
+      "src": "broll/clean-1147.mp4",
+      "startSec": 19.72,
+      "durationSec": 1.8,
+      "trimStartSec": 10,
+      "kind": "broll"
+    }
+  ],
+  "captions": [
+    {
+      "tokens": [
+        {
+          "text": "Done",
+          "highlight": false
+        },
+        {
+          "text": "with",
+          "highlight": false
+        },
+        {
+          "text": "noisy",
+          "highlight": true
+        }
+      ],
+      "startSec": 0,
+      "durationSec": 0.8,
+      "position": "top",
+      "fill": "#0F1B2D",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "marketing",
+          "highlight": true
+        }
+      ],
+      "startSec": 0.62,
+      "durationSec": 0.6600000000000001,
+      "position": "top",
+      "fill": "#1B3A57",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Too",
+          "highlight": false
+        },
+        {
+          "text": "many",
+          "highlight": false
+        },
+        {
+          "text": "promises",
+          "highlight": true
+        }
+      ],
+      "startSec": 1.94,
+      "durationSec": 1.1199999999999999,
+      "position": "top",
+      "fill": "#7B2D26",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "no",
+          "highlight": false
+        },
+        {
+          "text": "real",
+          "highlight": false
+        },
+        {
+          "text": "growth",
+          "highlight": true
+        }
+      ],
+      "startSec": 3.4,
+      "durationSec": 1.0799999999999998,
+      "position": "top",
+      "fill": "#3F2E56",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Time",
+          "highlight": false
+        },
+        {
+          "text": "to",
+          "highlight": false
+        },
+        {
+          "text": "rethink",
+          "highlight": true
+        }
+      ],
+      "startSec": 4.98,
+      "durationSec": 0.9799999999999998,
+      "position": "top",
+      "fill": "#FFFFFF",
+      "stroke": "#0F1B2D"
+    },
+    {
+      "tokens": [
+        {
+          "text": "time",
+          "highlight": false
+        },
+        {
+          "text": "to",
+          "highlight": false
+        },
+        {
+          "text": "rebuild",
+          "highlight": true
+        }
+      ],
+      "startSec": 6.26,
+      "durationSec": 1.14,
+      "position": "top",
+      "fill": "#0F1B2D",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "We",
+          "highlight": false
+        },
+        {
+          "text": "don't",
+          "highlight": false
+        },
+        {
+          "text": "chase",
+          "highlight": false
+        }
+      ],
+      "startSec": 8.12,
+      "durationSec": 0.8400000000000001,
+      "position": "top",
+      "fill": "#1B3A57",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "trends",
+          "highlight": true
+        }
+      ],
+      "startSec": 8.78,
+      "durationSec": 0.5600000000000007,
+      "position": "top",
+      "fill": "#7B2D26",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "We",
+          "highlight": false
+        },
+        {
+          "text": "create",
+          "highlight": false
+        },
+        {
+          "text": "momentum",
+          "highlight": true
+        }
+      ],
+      "startSec": 9.92,
+      "durationSec": 1.1400000000000008,
+      "position": "top",
+      "fill": "#3F2E56",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "We",
+          "highlight": false
+        },
+        {
+          "text": "turn",
+          "highlight": false
+        },
+        {
+          "text": "brands",
+          "highlight": true
+        }
+      ],
+      "startSec": 11.78,
+      "durationSec": 0.9600000000000011,
+      "position": "top",
+      "fill": "#1F4D2C",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "into",
+          "highlight": false
+        },
+        {
+          "text": "experiences",
+          "highlight": true
+        },
+        {
+          "text": "and",
+          "highlight": false
+        }
+      ],
+      "startSec": 12.56,
+      "durationSec": 1.8199999999999987,
+      "position": "top",
+      "fill": "#0F1B2D",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "businesses",
+          "highlight": true
+        },
+        {
+          "text": "into",
+          "highlight": false
+        },
+        {
+          "text": "category",
+          "highlight": true
+        }
+      ],
+      "startSec": 14.2,
+      "durationSec": 1.4400000000000015,
+      "position": "top",
+      "fill": "#1B3A57",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "leaders",
+          "highlight": true
+        }
+      ],
+      "startSec": 15.46,
+      "durationSec": 0.5999999999999999,
+      "position": "top",
+      "fill": "#7B2D26",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "No",
+          "highlight": false
+        },
+        {
+          "text": "shortcuts",
+          "highlight": true
+        }
+      ],
+      "startSec": 16.52,
+      "durationSec": 0.9200000000000019,
+      "position": "top",
+      "fill": "#3F2E56",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "no",
+          "highlight": false
+        },
+        {
+          "text": "compromises",
+          "highlight": true
+        }
+      ],
+      "startSec": 17.92,
+      "durationSec": 1.0399999999999994,
+      "position": "top",
+      "fill": "#1F4D2C",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "Just",
+          "highlight": false
+        },
+        {
+          "text": "results",
+          "highlight": true
+        },
+        {
+          "text": "that",
+          "highlight": false
+        }
+      ],
+      "startSec": 19.46,
+      "durationSec": 1.18,
+      "position": "top",
+      "fill": "#0F1B2D",
+      "stroke": "#FFFFFF"
+    },
+    {
+      "tokens": [
+        {
+          "text": "speak",
+          "highlight": true
+        }
+      ],
+      "startSec": 20.46,
+      "durationSec": 0.5199999999999998,
+      "position": "top",
+      "fill": "#1B3A57",
+      "stroke": "#FFFFFF"
+    }
+  ],
+  "audio": []
+}

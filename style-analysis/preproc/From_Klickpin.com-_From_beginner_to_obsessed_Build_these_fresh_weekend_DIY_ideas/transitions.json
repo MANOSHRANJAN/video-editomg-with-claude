@@ -1,0 +1,19 @@
+{
+  "transitions": [
+    {
+      "atSec": 1.133,
+      "kind": "hard",
+      "maxDelta": 72.1
+    },
+    {
+      "atSec": 2.8,
+      "kind": "motion",
+      "maxDelta": 23.2
+    }
+  ],
+  "counts": {
+    "hard": 1,
+    "fade": 0,
+    "motion": 1
+  }
+}
