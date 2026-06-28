@@ -11,8 +11,12 @@
 // Provider selection:
 //   ELEVENLABS_API_KEY set  → Scribe (default, faster + better)
 //   --whisper or no key     → local Whisper via .venv
+//
+// For large/long videos the file gets transcoded to a 16 kHz mono FLAC first
+// (ffmpeg) — Scribe accepts up to 5 GB but the upload is much smaller, and
+// Whisper avoids re-decoding the same MOV every run.
 import 'dotenv/config';
-import {createReadStream, existsSync, mkdirSync, readFileSync, statSync, writeFileSync} from 'node:fs';
+import {existsSync, mkdirSync, readFileSync, statSync, unlinkSync, writeFileSync} from 'node:fs';
 import {spawnSync} from 'node:child_process';
 import {basename, extname, resolve, dirname} from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -51,18 +55,37 @@ if (!force && existsSync(outPath) && statSync(outPath).mtimeMs > statSync(inputP
 const elevenKey = process.env.ELEVENLABS_API_KEY;
 const useScribe = !forceWhisper && elevenKey;
 
+// Extract a small audio file first. Even for short clips this strips video,
+// which is the right thing to upload to Scribe and the same content Whisper
+// would decode internally.
+const audioPath = resolve(TMP, `${stem}-audio.flac`);
+const inputStat = statSync(inputPath);
+if (!existsSync(audioPath) || statSync(audioPath).mtimeMs < inputStat.mtimeMs) {
+  console.log(`extracting audio → ${audioPath}`);
+  const ex = spawnSync('ffmpeg', [
+    '-nostdin', '-y', '-i', inputPath,
+    '-vn', '-ac', '1', '-ar', '16000',
+    '-c:a', 'flac', audioPath,
+  ], {stdio: ['ignore', 'ignore', 'pipe'], encoding: 'utf8'});
+  if (ex.status !== 0) {
+    console.error('ffmpeg audio extract failed:');
+    console.error(ex.stderr.slice(0, 400));
+    process.exit(1);
+  }
+}
+
 let payload;
 try {
   if (useScribe) {
-    payload = await transcribeScribe(inputPath, explicitModel || process.env.ELEVENLABS_MODEL || 'scribe_v2');
+    payload = await transcribeScribe(audioPath, explicitModel || process.env.ELEVENLABS_MODEL || 'scribe_v2');
   } else {
-    payload = transcribeWhisper(inputPath, explicitModel || 'base');
+    payload = transcribeWhisper(audioPath, explicitModel || 'base');
   }
 } catch (e) {
   console.error(`transcription failed: ${e.message}`);
   if (useScribe && !forceWhisper) {
     console.error('falling back to local Whisper…');
-    payload = transcribeWhisper(inputPath, 'base');
+    payload = transcribeWhisper(audioPath, 'base');
   } else {
     process.exit(1);
   }
@@ -111,6 +134,7 @@ function guessMime(p) {
   return {
     '.mp4': 'video/mp4', '.mov': 'video/quicktime', '.webm': 'video/webm',
     '.m4a': 'audio/mp4', '.mp3': 'audio/mpeg', '.wav': 'audio/wav', '.ogg': 'audio/ogg',
+    '.flac': 'audio/flac',
   }[ext] || 'application/octet-stream';
 }
 function round3(n) { return Math.round(Number(n) * 1000) / 1000; }
@@ -122,6 +146,10 @@ function transcribeWhisper(filePath, model) {
     throw new Error(`no whisper venv at ${venvPython} — pip install openai-whisper, or set ELEVENLABS_API_KEY in .env`);
   }
   console.log(`transcribing ${filePath} via local Whisper (${model})…`);
+  // Write JSON to a temp file so Whisper's "Detected language" stdout chatter
+  // doesn't pollute the payload. Anything Whisper prints goes to stderr/our
+  // own stream; the structured result is on disk.
+  const jsonOut = resolve(TMP, `${stem}-whisper.json`);
   const pyScript = `
 import json, sys, whisper
 m = whisper.load_model("${model}")
@@ -130,10 +158,12 @@ words = []
 for seg in r["segments"]:
     for w in seg.get("words", []):
         words.append([w["word"].strip(), round(float(w["start"]),3), round(float(w["end"]),3)])
-json.dump({"text": r["text"], "words": words}, sys.stdout)
+with open(${JSON.stringify(jsonOut)}, "w") as f:
+    json.dump({"text": r["text"], "words": words}, f)
 `.trim();
-  const res = spawnSync(venvPython, ['-c', pyScript], {encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe']});
-  if (res.status !== 0) throw new Error(`whisper exit ${res.status}: ${res.stderr.slice(0, 400)}`);
-  const parsed = JSON.parse(res.stdout);
+  const res = spawnSync(venvPython, ['-c', pyScript], {encoding: 'utf8', stdio: ['ignore', 'inherit', 'inherit']});
+  if (res.status !== 0) throw new Error(`whisper exit ${res.status}`);
+  const parsed = JSON.parse(readFileSync(jsonOut, 'utf8'));
+  unlinkSync(jsonOut);
   return {...parsed, provider: `whisper:${model}`};
 }
