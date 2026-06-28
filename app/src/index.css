@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background:
+    radial-gradient(ellipse at 10% 0%, rgba(255, 107, 53, 0.08) 0%, transparent 45%),
+    radial-gradient(ellipse at 100% 100%, rgba(15, 27, 45, 0.6) 0%, transparent 60%),
+    #06090f;
+  min-height: 100vh;
+}
+
+/* Frosted-glass utility for the side panels — same material as the captions. */
+.glass {
+  background: rgba(15, 27, 45, 0.42);
+  backdrop-filter: blur(18px) saturate(140%);
+  -webkit-backdrop-filter: blur(18px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow:
+    0 12px 40px rgba(0, 0, 0, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.18);
+}

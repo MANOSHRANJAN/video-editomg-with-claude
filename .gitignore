@@ -3,6 +3,12 @@ node_modules/
 .env
 .tmp/
 out/
+app/dist/
+app/node_modules/
+hyperframes-scenes/index.html
+hyperframes-scenes/assets/
+hyperframes-scenes/compositions/reel.html
+hyperframes-scenes/compositions/_generated.*
 public/aroll/*
 public/broll/*
 public/sfx/*

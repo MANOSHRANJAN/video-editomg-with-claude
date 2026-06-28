@@ -1,18 +1,21 @@
 {
   "name": "video-edit",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "start": "remotion studio",
-    "build": "remotion render",
-    "upgrade": "remotion upgrade"
+    "transcribe": "node scripts/transcribe.mjs",
+    "brain": "node scripts/brain.mjs",
+    "scene": "node scripts/build-hyperframes.mjs",
+    "pipeline": "node scripts/pipeline.mjs",
+    "render": "cd hyperframes-scenes && npx hyperframes@0.7.3 render --output ../out/reel.mp4",
+    "preview": "cd hyperframes-scenes && npx hyperframes@0.7.3 preview",
+    "check": "cd hyperframes-scenes && npx hyperframes@0.7.3 lint && npx hyperframes@0.7.3 validate && npx hyperframes@0.7.3 inspect",
+    "dev": "cd app && npm run dev"
   },
   "dependencies": {
-    "@remotion/bundler": "^4.0.482",
-    "@remotion/cli": "^4.0.482",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "remotion": "^4.0.482",
+    "@anthropic-ai/sdk": "^0.40.0",
+    "dotenv": "^16.4.5",
     "zod": "^4.3.6"
   }
 }
